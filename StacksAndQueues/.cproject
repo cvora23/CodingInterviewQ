@@ -93,8 +93,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -143,8 +143,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -196,8 +196,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|SingleArrayAsThreeStacks.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -249,8 +249,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -302,8 +302,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|Push-Pop-MinValue_In_O1.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -355,8 +355,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|TowerOfHanoi.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -408,8 +408,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="StackAsLinkList.cpp|QueueAsLinkList.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -461,8 +461,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|SortStackUsingOneExtraStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|TowerOfHanoi.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -514,8 +514,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -567,8 +567,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -620,8 +620,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="StackWithOperationsOnMiddleElement.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -673,8 +673,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -726,8 +726,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -779,8 +779,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -832,8 +832,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -885,8 +885,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -938,8 +938,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -991,8 +991,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1044,8 +1044,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1097,8 +1097,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1150,8 +1150,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1203,8 +1203,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1256,8 +1256,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1309,8 +1309,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1362,8 +1362,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1415,8 +1415,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1468,8 +1468,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1521,8 +1521,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1574,8 +1574,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1627,8 +1627,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1680,8 +1680,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1733,8 +1733,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1786,8 +1786,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1839,8 +1839,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1892,8 +1892,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1945,8 +1945,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1998,8 +1998,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Operations|Implement|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
-						<entry excluding="SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="QueueAsLinkList.cpp|StackAsLinkList.cpp|QueueUsingStack.cpp|SingleArrayAsKStacks.cpp|SingleArrayAsThreeStacks.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Implement"/>
+						<entry excluding="AddingLargeNoUsingStack.cpp|StackWithOperationsOnMiddleElement.cpp|AddingLargeNo.cpp|SortStackUsingOneExtraStack.cpp|TowerOfHanoi.cpp|Push-Pop-MinValue_In_O1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

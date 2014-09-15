@@ -6,7 +6,24 @@
  */
 
 // Cracking the Coding Interview Solution 3.4
+// Understanding tower of hanoi - http://clanguagestuff.blogspot.in/2013/09/tower-of-hanoi.html
 
+
+/**
+ * So, In this way we have decomposed the problem into three parts to solve it.
+Now let us say
+A-->From
+B-->To
+C-->Via
+
+So the Tower of hanoid problem is (N,From,To,Via) which can be solved in three steps:
+
+1.) (n-1,From,Via,To) -- first solve the problem of moving n-1 discs From to Via .
+2.) (1,From,To,Via) -- Then solve the problem of moving 1 disc From to To.
+3.) (n-1,Via,To,From) -- Then Solve the problem of moving n-1 disc from Via to To back.
+
+ *
+ */
 
 #include <iostream>
 #include <stack>

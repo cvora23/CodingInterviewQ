@@ -100,8 +100,10 @@ int main(){
     push(&top,4);
     push(&top,2);
 
+    cout<<"Before Sorting"<<endl;
     printStack(top);
 
+    cout<<"After Sorting"<<endl;
     printStack(sort(top));
 
 	return 0;

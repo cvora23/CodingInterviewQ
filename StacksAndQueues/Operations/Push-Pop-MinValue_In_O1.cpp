@@ -52,7 +52,7 @@ void push(struct node **q,int item)
          }
          else
          {
-             if(item<MinValue)
+             if(item<=MinValue)
              {
 				 MinValue = item;
 				 push1(&top1,MinValue);
@@ -73,12 +73,15 @@ int pop(struct node **q)
      }
      temp = *q;
      item = (*q)->data;
-     pop1(&top1);
+     if(item == MinValue){
+         pop1(&top1);
+     }
      cout<<"Item Removed  : "<<item<<endl;
      *q = (*q)->link;
      free(temp);
      return item;
 }
+
 void FindMinValue()
 {
      cout<<"Minimum Value in stack is "<<MinValue<<endl;
@@ -88,15 +91,16 @@ int main()
 {   
     struct node *top;
     top = top1 = NULL;
-    push(&top,6);
-    push(&top,5);
-    push(&top,4);
-    push(&top,2);
-    FindMinValue();
-    pop(&top);
-    FindMinValue();
     push(&top,1);
-    FindMinValue();
+    push(&top,4);
+    push(&top,3);
+    push(&top,2);
+    push(&top,5);
+    FindMinValue(); // Min value should be 1
+    pop(&top); 		// Popped 5
+    FindMinValue(); // Min value should be 1
+    push(&top,1);
+    FindMinValue();// Min value should be 1
     pop(&top);
     FindMinValue();
     return 0;
