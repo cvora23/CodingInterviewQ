@@ -40,31 +40,3 @@ ReverseRotateSwap
 28:ReverseBitsOfNumber.cpp
 29:RotateBits.cpp
 
-
-BooleanArrayPuzzle
-Check Integer Overflow
-CountNoOfBitsToFlipToConvertA2B
-CountNoSetBits
-CountNoSetBitsFloatPointNo
-LittleOrBigEndian
-NumberOccuringOddNumberOfTimes
-PositionOfOnlySetBit
-PositionRightMostSetBit
-TotalSetBitsOneToN
-TurnOffRightMostSetBit
-AddOneToNumber
-AddTwoBitStrings
-AddWithoutArithmeticOperator
-BinaryRepresentationOfNumber
-EfficientMultiplicationBy7
-isPowerOf2
-MultiplyNumberBy3.5
-NextPowerOf2
-NumberPowerOf4
-ParityOfUnsignedInt
-TwoIntegersOppSign
-MinOfTwoNumbers
-MinOfThreeNumbers
-ReverseBitsOfNumber
-RotateBits
-SwapAllOddAndEvenBits
