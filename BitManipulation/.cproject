@@ -93,8 +93,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -144,8 +144,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -198,8 +198,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -252,8 +252,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|PrintBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -306,8 +306,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|PrevLargestNxtLargestSameNo1bits.cpp|DrawLine.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -360,8 +360,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -414,9 +414,9 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -468,8 +468,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -522,8 +522,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -576,8 +576,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -630,8 +630,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -684,8 +684,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -738,8 +738,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -792,8 +792,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -846,8 +846,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -900,8 +900,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -954,8 +954,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1008,8 +1008,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1062,8 +1062,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1116,8 +1116,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1170,8 +1170,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1224,8 +1224,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1278,8 +1278,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1332,8 +1332,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1386,8 +1386,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1440,8 +1440,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1494,8 +1494,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1548,8 +1548,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1602,8 +1602,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1656,8 +1656,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1710,8 +1710,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1764,8 +1764,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1818,8 +1818,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1872,8 +1872,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1926,8 +1926,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -1980,8 +1980,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>
@@ -2034,8 +2034,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ReverseRotateSwap|MathematicalOperation|CheckSetCountFind|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
-						<entry excluding="DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
+						<entry excluding="TurnOffRightMostSetBit.cpp|TotalSetBitsOneToN.cpp|PositionRightMostSetBit.cpp|PositionOfOnlySetBit.cpp|NumberOccuringOddNumberOfTimes.cpp|LittleOrBigEndian.cpp|CountNoSetBitsFloatPointNo.cpp|CountNoSetBits.cpp|CheckIntegerOverFlow.cpp|BooleanArrayPuzzle.cpp|CountNoOfBitsToFlipToConvertA2B.cpp|ManipulateTwo32BitNos.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckSetCountFind"/>
+						<entry excluding="TwoIntegersOppSign.cpp|ParityOfUnsignedInt.cpp|NumberPowerOf4.cpp|NextPowerOf2.cpp|MultiplyNumberBy3.5.cpp|isPowerOf2.cpp|EfficientMultiplicationBy7.cpp|BinaryRepresentationOfNumber.cpp|AddWithoutArithmeticOperator.cpp|AddTwoBitStrings.cpp|AddOneToNumber.cpp|PrintRealNoBinary.cpp|DrawLine.cpp|PrevLargestNxtLargestSameNo1bits.cpp|NxtSmallestNxtLargestSameNo1bits.cpp|PrintBinary.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MathematicalOperation"/>
 						<entry excluding="SwapAllOddAndEvenBits.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ReverseRotateSwap"/>
 					</sourceEntries>
 				</configuration>

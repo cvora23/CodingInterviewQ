@@ -8,10 +8,35 @@
 #include <stdint.h>
 
 // Cracking the Code Interview 5.3 Solution
+/*
+ * Given a positive integer, print the previous largest and next largest
+ * no with same no of 1bits in their binary representation
+ */
+
+/**
+ * Brute Force Approach
+ * Count the number of 1s in n, and then increment or decrement until
+ * you find a number with same number of 1s. Easy but not terribly interesting
+ */
+
 
 using namespace std;
 
-uint32_t getNext(uint32_t n){
+/**
+ * We want to make this number bigger (but not too big). We need
+ * to keep the same number of ones.
+ */
+
+/**
+ * ALGORITHM
+ * 1: Find the first Non Trailing ZERO position from the right. Lets call it p position
+ * 2: Flip the pth bit from 0 to 1
+ * 3: Find number of 0's and number of 1's to the right of p. Lets call it C0 and C1s
+ * 4: Clear all the bits to the right of p
+ * 5: Insert C1-1 ones on the right
+ */
+
+int getNext(int n){
 	// Compute c0 and c1
 	int c = n;
 	int c0 = 0;
@@ -27,8 +52,10 @@ uint32_t getNext(uint32_t n){
 		c >>= 1;
 	}
 
+
 	// Error: if n == 11...1100...00, then there is no bigger number with same number 1s
-	if(c0 + c1 == 31 || c0 + c1 == 0){
+	if(c0 + c1 == 31 || c0 + c1 == 0 ){
+		cout<<"getNext ERROR n = "<<n<<endl;
 		return -1;
 	}
 
@@ -40,7 +67,16 @@ uint32_t getNext(uint32_t n){
 	return n;
 }
 
-uint32_t getPrev(uint32_t n){
+/**
+ * ALGORITHM
+ * 1: Find the first Non Trailing ONE position from the right. Lets call it p position
+ * 2: Flip the pth bit from 1 to 0
+ * 3: Find number of 0's and number of 1's to the right of p. Lets call it C0 and C1s
+ * 4: Clear all the bits to the right of p
+ * 5: Insert C1+1 ones immediately to the right of position p.
+ */
+
+int getPrev(int n){
 	int temp = n;
 	int c0 = 0;
 	int c1 = 0;
@@ -51,6 +87,7 @@ uint32_t getPrev(uint32_t n){
 	}
 
 	if(temp == 0){
+		cout<<"getPrev ERROR n = "<<n<<endl;
 		return -1;
 	}
 
@@ -72,6 +109,10 @@ int main(){
 
 	cout<<getNext(13984)<<endl;
 	cout<<getPrev(13984)<<endl;
+	cout<<getNext(16)<<endl;
+	cout<<getPrev(16)<<endl;
+	cout<<getNext(15)<<endl;
+	cout<<getPrev(15)<<endl;
 
 	return 0;
 }

@@ -34,6 +34,8 @@ int noOfBitsToFlipToConvertA2B(unsigned int no1,unsigned int no2)
 int main(){
 
 	cout<<noOfBitsToFlipToConvertA2B(199,200)<<endl;
+	// 199 = 11000111
+	// 200 = 11001000
 
 	return 0;
 }

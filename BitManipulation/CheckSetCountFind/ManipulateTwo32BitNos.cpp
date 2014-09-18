@@ -9,6 +9,15 @@
 
 using namespace std;
 
+/**
+ * You are given two 32-bit numbers N and m and two bit positions
+ * i and j. write a method to insert M into N such that M starts at
+ * bit j and ends at bit i. You can assume that bits j through i have enough
+ * space to fit all of M.
+ * Eg:
+ * Input N = 10000000000, M = 10011, i = 2, j = 6
+ * Output N = 10001001100
+ */
 // Cracking the Code Interview 5.1 Solution
 
 int updateBits(int n,int m,int i,int j){
@@ -36,7 +45,11 @@ int updateBits(int n,int m,int i,int j){
 }
 
 int main(){
-
+	/*
+	 * Eg:
+	 * Input N = 11111111, M = 00001110, i = 0, j = 5
+	 * Output N = 11001110
+	 */
 	cout<<updateBits(0x000000FF,0x0000000E,0,5)<<endl;
 	return 0;
 

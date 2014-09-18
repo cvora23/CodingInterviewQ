@@ -1,0 +1,65 @@
+BitMagic
+========================
+
+CheckSetCountFind:
+=================================
+1: CountNoOfBitsToFlipToConvertA2B.cpp
+2: ManipulateTwo32BitNos.cpp
+3: BooleanArrayPuzzle.cpp
+4: CheckIntegerOverFlow.cpp
+5: CountNoSetBits.cpp
+6: CountNoSetBitsFloatPointNo.cpp
+7: LittleOrBigEndian.cpp
+8: NumberOccuringOddNumberOfTimes.cpp
+9: PositionOfOnlySetBit.cpp
+10:PositionRightMostSetBit.cpp
+10:PositionRightMostSetBit.cpp
+11:TotalSetBitsOneToN.cpp
+12:TurnOffRightMostSetBit.cpp
+
+MathematicalOperation
+=======================================
+13:DrawLine.cpp
+14:PrintRealNoBinary.cpp
+15:PrevLargestNxtLargestSameNo1bits.cpp
+16:AddOneToNumber.cpp
+17:AddTwoBitStrings.cpp
+18:AddWithoutArithmeticOperator.cpp
+19:BinaryRepresentationOfNumber.cpp
+20:EfficientMultiplicationBy7.cpp
+21:isPowerOf2.cpp
+22:MultiplyNumberBy3.5.cpp
+23:NextPowerOf2.cpp
+24:NumberPowerOf4.cpp
+25:ParityOfUnsignedInt.cpp
+26:TwoIntegersOppSign.cpp
+
+
+
+BooleanArrayPuzzle
+Check Integer Overflow
+CountNoOfBitsToFlipToConvertA2B
+CountNoSetBits
+CountNoSetBitsFloatPointNo
+LittleOrBigEndian
+NumberOccuringOddNumberOfTimes
+PositionOfOnlySetBit
+PositionRightMostSetBit
+TotalSetBitsOneToN
+TurnOffRightMostSetBit
+AddOneToNumber
+AddTwoBitStrings
+AddWithoutArithmeticOperator
+BinaryRepresentationOfNumber
+EfficientMultiplicationBy7
+isPowerOf2
+MultiplyNumberBy3.5
+NextPowerOf2
+NumberPowerOf4
+ParityOfUnsignedInt
+TwoIntegersOppSign
+MinOfTwoNumbers
+MinOfThreeNumbers
+ReverseBitsOfNumber
+RotateBits
+SwapAllOddAndEvenBits
