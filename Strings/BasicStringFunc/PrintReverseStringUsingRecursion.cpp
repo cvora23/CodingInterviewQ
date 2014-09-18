@@ -1,15 +1,22 @@
 /*
- * reverseString.cpp
+ * PrintReverseStringUsingRecursion.cpp
  *
- *  Created on: Aug 18, 2014
+ *  Created on: Sep 4, 2013
  *      Author: cvora
  */
 
+# include <stdio.h>
 // Coding Interview questions Solution 1.2
 
-#include <iostream>
-
-using namespace std;
+/* Function to print reverse of the passed string */
+void reverse(char *str)
+{
+   if(*str)
+   {
+       reverse(str+1);
+       printf("%c", *str);
+   }
+}
 
 void reverseSol1(char* str){
 	char* end = str;
@@ -28,11 +35,13 @@ void reverseSol1(char* str){
 	}
 }
 
-int main(){
 
-	string str = "hello world";
-	reverseSol1((char*)str.c_str());
-	cout<<str<<endl;
-
-	return 0;
+/* Driver program to test above function */
+int main()
+{
+   char a[] = "Geeks for Geeks";
+   reverse(a);
+   getchar();
+   return 0;
 }
+
