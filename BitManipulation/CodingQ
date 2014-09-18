@@ -34,6 +34,11 @@ MathematicalOperation
 25:ParityOfUnsignedInt.cpp
 26:TwoIntegersOppSign.cpp
 
+ReverseRotateSwap
+================================================
+27:SwapAllOddAndEvenBits.cpp
+28:ReverseBitsOfNumber.cpp
+29:RotateBits.cpp
 
 
 BooleanArrayPuzzle
