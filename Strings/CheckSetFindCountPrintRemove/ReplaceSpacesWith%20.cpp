@@ -37,10 +37,10 @@ void replaceSpacesSol1(char str[],int length){
 			str[newLength - 3] = '%';
 			newLength = newLength - 3;
 		}else{
-			cout<<str[i]<<endl;
+//			cout<<str[i]<<endl;
 			str[newLength - 1] = str[i];
 			newLength = newLength - 1;
-			cout<<"Position placed at "<<newLength<<endl;
+//			cout<<"Position placed at "<<newLength<<endl;
 		}
 	}
 }

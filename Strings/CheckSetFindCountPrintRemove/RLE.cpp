@@ -1,18 +1,69 @@
 /*
- * StringCompressionRLE.cpp
+ * RLE.cpp
  *
- *  Created on: Aug 18, 2014
+ *  Created on: Sep 4, 2013
  *      Author: cvora
  */
 
-
-// Coding Interview questions Solution 1.5
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
 
 #include <iostream>
 #include <string.h>
 #include <sstream>      // std::stringstream
 
+#define MAX_RLEN 50
+
 using namespace std;
+
+/* Returns the Run Length Encoded string for the
+   source string src */
+char *encode(char *src)
+{
+  int rLen;
+  char count[MAX_RLEN];
+  int len = strlen(src);
+
+  /* If all characters in the source string are different,
+    then size of destination string would be twice of input string.
+    For example if the src is "abcd", then dest would be "a1b1c1d1"
+    For other inputs, size would be less than twice.  */
+  char *dest = (char *)malloc(sizeof(char)*(len*2 + 1));
+
+  int i, j = 0, k;
+
+  /* traverse the input string one by one */
+  for(i = 0; i < len; i++)
+  {
+
+    /* Copy the first occurrence of the new character */
+    dest[j++] = src[i];
+
+    /* Count the number of occurrences of the new character */
+    rLen = 1;
+    while(i + 1 < len && src[i] == src[i+1])
+    {
+      rLen++;
+      i++;
+    }
+
+    /* Store rLen in a character array count[] */
+    sprintf(count, "%d", rLen);
+
+    /* Copy the count[] to destination */
+    for(k = 0; *(count+k); k++, j++)
+    {
+      dest[j] = count[k];
+    }
+  }
+
+  /*terminate the destination string */
+  dest[j] = '\0';
+  return dest;
+}
+
+// Coding Interview questions Solution 1.5
 
 unsigned int countCompression(string str){
 
@@ -106,20 +157,19 @@ string compressStringRLESol2(string str){
 	array[index] = '\0';
 	string myStr;
 	myStr.append(array);
+	delete array;
 	return myStr;
 }
 
-int main(){
 
-	cout<<compressStringRLESol1("HelloBrother")<<endl;
-	cout<<compressStringRLESol1("aaaaabbbbgdfgdf")<<endl;
-	cout<<compressStringRLESol1("aaaaabbbbgd")<<endl;
-
-	cout<<compressStringRLESol2("HelloBrother")<<endl;
-	cout<<compressStringRLESol2("aaaaabbbbgdfgdf")<<endl;
-	cout<<compressStringRLESol2("aaaaabbbbgd")<<endl;
-
-	return 0;
-
+/*driver program to test above function */
+int main()
+{
+  char str[] = "geeksforgeeks";
+  char *res = encode(str);
+  printf("%s", res);
+  getchar();
 }
+
+
 

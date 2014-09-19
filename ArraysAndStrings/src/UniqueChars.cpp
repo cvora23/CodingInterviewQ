@@ -7,8 +7,6 @@
 
 // Coding Interview questions Solution 1.1
 
-#include "Logger.h"
-
 #include <iostream>
 
 using namespace std;
@@ -21,6 +19,7 @@ bool hasUniqueCharsSol1(string str){
 		if(char_set[val]){ // Already found this char in string
 			return false;
 		}
+		char_set[val] = true;
 	}
 	return true;
 }
@@ -38,9 +37,6 @@ bool hasUniqueCharsSol2(string str){
 }
 
 int main(){
-
-	cout<<"Initial Logging call"<<endl;
-	LOG(Log::DEBUG, "This is a debug message.");
 
 	cout<<hasUniqueCharsSol1("Hello")<<endl;
 	cout<<hasUniqueCharsSol1("World")<<endl;

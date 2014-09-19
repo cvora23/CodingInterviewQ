@@ -16,24 +16,18 @@ BasicStringFunc
 10:	Strtok.cpp
 11:	Substring.cpp
 
-Anagrams
-Atoi
-DivideStringIntoNEqualParts
-Palindrom
-PrintReverseStringUsingRecursion
-Reverse Words using one byte of memory
-Strcat
-Strcpy
-StringInterleavingOfOtherTwoStrings
-Strtok
-Substring
-CheckIfStringsAreRotationsOfEachOther
-CountWordsInString
-FindFirstNonRepeatingCharInString
-MaxOccuringCharInString
-PrintListItemsContainingAllCharsOfGivenWord
-RemoveBandAC
-RemoveCharsFromFirstStringPresentInSecondString
-RemoveDuplicateCharsInString
-Remove extra spaces
-RLE
+CheckSetFindCountPrintRemove
+============================================
+
+12:CheckIfStringsAreRotationsOfEachOther.cpp
+13:CountWordsInString.cpp
+14:FindFirstNonRepeatingCharInString.cpp
+15:MaxOccuringCharInString.cpp
+16:PrintListItemsContainingAllCharsOfGivenWord.cpp
+17:RemoveBandAC.cpp
+18:RemoveCharsFromFirstStringPresentInSecondString.cpp
+19:RemoveDuplicateCharsInString.cpp
+20:Removeextraspaces.cpp
+21:RLE.cpp
+22:ReplaceSpacesWith%20.cpp
+23:UniqueChars.cpp
