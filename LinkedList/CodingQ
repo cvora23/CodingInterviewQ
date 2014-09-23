@@ -1,5 +1,22 @@
 Linked List (Some of the problems are from Cracking the coding interview)
-========================
+============================================================================
+
+CreationDeletion
+===================================
+
+1: AddingNodeUsingRecursion.cpp
+2: Append-AddAfter-Delete.cpp
+3: Ascending_Order_Adding_Deleting.cpp
+4: DeleteAlternateNodesLinkedList.cpp
+5: DeleteNodeDoublyLinkedList.cpp
+6: DeleteNodeUnderGivenConstraints.cpp
+7: DelNodesWhichHaveGreaterValueOnRightSide.cpp
+8: DoublyLinked.cpp
+9: FlattenMultiLevelLinkList.cpp
+10:GivenAPointerToNodeDeleteIt.cpp
+11:LinkedListAsCircularQueue.cpp
+12:MemoryEfficientDoublyXORLinkedList.cpp
+
 AddingNodeUsingRecursion
 Append-AddAfter-Delete
 Ascending_Order_Adding_Deleting
