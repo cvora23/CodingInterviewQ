@@ -5,6 +5,12 @@
  *      Author: cvora
  */
 
+// Cracking the coding interview solution 11.1
+/*
+ * You are given 2 sorted arrays, A and B, where A has large enough buffer at the
+ * end to hold B. Write a method to merge B into A in sorted order.
+ */
+
 #include <iostream>
 #include <stdio.h>
 
@@ -18,6 +24,15 @@ void display(int list[],const int n)
     printf("\n");
 }
 
+/**
+ * 1: Since we know that A has enough buffer at the end, we won't need to allocate additional
+ * space. Our logic should involve simply comparing elements of A and B and inserting them in
+ * order, until we've exhausted all elements in A and in B. The only issue with this is that if
+ * we insert an element into front of A, then we'll have to shift the existing elements backwards to make room for it.
+ * Its better to insert elements to the back of the array, where there's empty space.
+ * Note that you don't need to copy the contents of A after running out of elements in B.
+ * They are already in place.
+ */
 void merge(int a[],int b[],int lastA,int lastB){
 
 	int indexA = lastA - 1; // Index of last element in array A

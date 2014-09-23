@@ -96,7 +96,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -148,7 +148,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -203,7 +203,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="MergeSort.cpp|SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|QuickSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -258,7 +258,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="QuickSort.cpp|SelectionSort.cpp|ModifiedBubbleSort.cpp|BubbleSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -312,8 +312,8 @@
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -366,9 +366,9 @@
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
-						<entry excluding="SortStringAnagramically.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
+						<entry excluding="MergeSortdBWithSortdA.cpp|SortStringAnagramically.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -421,9 +421,9 @@
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
-						<entry excluding="MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
+						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -475,10 +475,10 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
+						<entry excluding="SearchAfterSortedArrayRotated.cpp|GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -530,10 +530,10 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
+						<entry excluding="SearchStringFromStringArrayWithEmptyString.cpp|GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
-						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -585,10 +585,10 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
-						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
+						<entry excluding="SortedColumnRowInMatrixFindAnElement.cpp|GetRankGivenStreamOfNumbers.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
+						<entry excluding="SortStringAnagramically.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -640,10 +640,10 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
-						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
+						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
+						<entry excluding="MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -695,10 +695,10 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
+						<entry excluding="SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -750,10 +750,10 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
+						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -805,10 +805,10 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
+						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -860,10 +860,10 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="ProblemsAroundSearching|ProblemsAroundSorting|SearchingTechniques|SortingTechniques|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
+						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -918,7 +918,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -973,7 +973,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1028,7 +1028,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1083,7 +1083,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1138,7 +1138,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1193,7 +1193,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1248,7 +1248,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1303,7 +1303,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1358,7 +1358,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1413,7 +1413,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1468,7 +1468,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1523,7 +1523,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1578,7 +1578,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1633,7 +1633,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1688,7 +1688,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1743,7 +1743,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1798,7 +1798,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1853,7 +1853,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1908,7 +1908,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1963,7 +1963,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2018,7 +2018,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2073,7 +2073,7 @@
 						<entry excluding="GetRankGivenStreamOfNumbers.cpp|SortedColumnRowInMatrixFindAnElement.cpp|SearchStringFromStringArrayWithEmptyString.cpp|SearchAfterSortedArrayRotated.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSearching"/>
 						<entry excluding="SortStringAnagramically.cpp|MergeSortdBWithSortdA.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="ProblemsAroundSorting"/>
 						<entry excluding="BinarySearch.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SearchingTechniques"/>
-						<entry excluding="QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
+						<entry excluding="SelectionSort.cpp|ModifiedBubbleSort.cpp|InsertionSort.cpp|BubbleSort.cpp|QuickSort.cpp|MergeSort.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="SortingTechniques"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

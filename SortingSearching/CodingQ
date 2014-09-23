@@ -1,0 +1,32 @@
+SortingSearching
+========================
+
+SortingTechniques
+===============================
+
+1: BubbleSort.cpp
+2: InsertionSort.cpp
+3: MergeSort.cpp
+4: ModifiedBubbleSort.cpp
+5: QuickSort.cpp
+6: SelectionSort.cpp
+
+SearchingTechniques
+===============================
+
+7: BinarySearch.cpp
+
+ProblemsAroundSorting
+==============================================
+
+8: MergeSortdBWithSortdA.cpp
+9: SortStringAnagramically.cpp
+
+ProblemsAroundSearching
+====================================================
+
+10: GetRankGivenStreamOfNumbers.cpp
+11: SearchAfterSortedArrayRotated.cpp
+12: SearchStringFromStringArrayWithEmptyString.cpp
+13: SortedColumnRowInMatrixFindAnElement.cpp
+
