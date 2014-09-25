@@ -5,6 +5,11 @@
  *      Author: cvora
  */
 
+/*
+ * Given a singly linked list of characters, write a function that returns true
+ * if the given list is palindrome , else false.
+ */
+
 // Solution Cracking the Coding Interview 2.7
 
 /* Program to check if a linked list is palindrome */
@@ -25,6 +30,32 @@ struct node
 void reverse(struct node**);
 bool compareLists(struct node*, struct node *);
 int  Count(struct node *q);
+
+/*
+ * METOD1 (Use a Stack)
+ * A simple solution is to use a stack of list nodes. This mainly involves 3 steps
+ * 1:	Traverse the given list from head to tail and push every visited node to stack.
+ * 2:	Traverse the list again. For every visited node, pop a node from stack and
+ * 		compare data of popped node with currently visited node.
+ * 3:	If all nodes matched, then return true, else false.
+ *
+ * Time complexity is O(n), but it requires O(n) extra space
+ *
+ */
+
+/**
+ * METHOD2 (BY reversing the list)
+ * This method takes O(n) time and O(1) extra space.
+ * 1: Get the middle of linked list
+ * 2: Reverse the second half of linked list.
+ * 3: Check if first and second half are identical
+ * 4: Construct original linked list by reversing second half again and attaching it back to first
+ * half.
+ * When no of nodes are even, first and second half contain exactly half nodes. The challenging thing
+ * is handling cases where nodes are odd. WE don't want the middle node as part of any of the lists as
+ * we are going to compare them for equality. For odd case, we use a separate variable midnode.
+ *
+ */
 
 /* Function to check if given linked list is
   palindrome or not */
@@ -80,6 +111,26 @@ bool isPalindromeSol1(struct node *head)
     return res;
 }
 
+/*
+ * METHOD3 (Using recursion)
+ * Use two pointers left and right. move right and left using recursion and check for following in each
+ * recursive call
+ * 1: Sub-list is palindrome
+ * 2: Value at current left and right are matching.
+ * If both conditions are true then return true.
+ *
+ * Idea is to use function call stack as container. Recursively traverse till the end of list.
+ * When we return from last NULL, we will be at last node. THe last node to be compared with first
+ * node of list.
+ * In order to access first node of list, we need list head to be available in last call of recursion.
+ * Hence we pass head also to the recursive function. If they both match we need to compare (2, n-2) nodes.
+ * Again when recursion falls back to (n-2)nd node, we need reference to 2nd node from head. We advance head
+ * pointer in previous call, to refer to next node in the list.
+ * However the trick in identifying double. Passing single pointer is as good as pass by value, and we will
+ * pass same pointer again and again. We need to pass address of head pointer for reflecting the changes
+ * in parent recursive calls.
+ *
+ */
 // Recursive solution
 bool isPalindromRecurse(struct node *head,int length,struct node** next){
 	bool res;
@@ -144,7 +195,7 @@ bool compareLists(struct node* head1, struct node *head2)
         else return 0;
     }
 
-    /* Both are empty reurn 1*/
+    /* Both are empty return 1*/
     if (temp1 == NULL && temp2 == NULL)
         return 1;
 
@@ -203,9 +254,10 @@ int main()
     for (i = 0; str[i] != '\0'; i++)
     {
        push(&head, str[i]);
-       printList(head);
 
     }
+    printList(head);
+
     isPalindromeSol1(head)? printf("Is Palindrome\n\n"):
                         printf("Not Palindrome\n\n");
     isPalindromeSol2(head)? printf("Is Palindrome\n\n"):

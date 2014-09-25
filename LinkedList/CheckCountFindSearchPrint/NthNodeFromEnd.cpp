@@ -8,6 +8,11 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+/*
+ * Given a Linked list and a number n, write a function that returns the value at the nth node from
+ * end of the linked list
+ */
+
 // Solution Cracking the Coding Interview 2.2
 
 /* Link list node */
@@ -35,6 +40,12 @@ void push(struct node** head_ref, int new_data)
 
 
 // Iterative solutions 1
+
+/*
+ * Method1 (Use length of linked list)
+ * 1: Calculate length of linked list. Let length be len.
+ * 2: Print the (len-n+1)th node from beginning of the Linked list.
+ */
 
 /* Function to get the nth node from the last of a linked list*/
 void printNthFromLast1(struct node* head, int n)
@@ -65,7 +76,13 @@ void printNthFromLast1(struct node* head, int n)
 }
 
 // Recursive solutions 1
-
+/*
+ * Method1 (Use length of linked list)
+ * 1: Calculate length of linked list. Let length be len.
+ * 2: Print the (len-n+1)th node from beginning of the Linked list.
+ *
+ * Complexity is O(n)
+ */
 void printNthFromLast2(struct node* head, int n)
 {
     static int i = 0;
@@ -76,8 +93,13 @@ void printNthFromLast2(struct node* head, int n)
        printf("%d", head->data);
 }
 
-//Recursive solution 2
 /* Function to get the nth node from the last of a linked list*/
+/*
+ * Method 3: Maintain two pointers -reference pointer and main pointer. Initialize both reference and main
+ * pointers at head. First move reference pointer to n nodes from head. Now move both pointers one by one
+ * until reference pointer reaches end. now main pointer will point to nth node from end.
+ * Return main pointer.
+ */
 struct node* printAndGetNthFromLast3(struct node *head, int n)
 {
   struct node *main_ptr = head;
@@ -97,6 +119,8 @@ struct node* printAndGetNthFromLast3(struct node *head, int n)
         ref_ptr = ref_ptr->next;
         count++;
      } /* End of while*/
+
+     printf("Here \n");
 
      while(ref_ptr != NULL)
      {

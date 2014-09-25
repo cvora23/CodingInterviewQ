@@ -17,6 +17,21 @@ CreationDeletion
 11:LinkedListAsCircularQueue.cpp
 12:MemoryEfficientDoublyXORLinkedList.cpp
 
+CheckCountFindSearchPrint
+==============================================
+
+13:CheckIfLinkListEqualByRecursion.cpp
+14:CountNumberOfTimesAnIntegerOccurs.cpp
+15:DeleteDuplicate.cpp
+16:FindTripletFromLinkedListEqualToSum.cpp
+17:GetNthNode.cpp
+18:IdenticalLinkedList.cpp
+19:IntersectionPointOfTwoLinkedList.cpp
+20:PrintMiddleElement.cpp
+21:RecursiveFunctionPrintReverseLinkedList.cpp
+22:CheckIfPalindrome.cpp
+23:NthNodeFromEnd.cpp
+
 AddingNodeUsingRecursion
 Append-AddAfter-Delete
 Ascending_Order_Adding_Deleting
