@@ -5,6 +5,16 @@
  *      Author: cvora
  */
 
+/*
+ * Doubly Linked list can be created using only one space for address filed with every node.
+ * In this post, we will discuss implementation of memory efficient doubly linked list.
+ * 1:Function to insert a new node at the beginning
+ * 2:Function to traverse the list in forward direction
+ *
+ *
+ *
+ */
+
 
 /* C/C++ Implementation of Memory efficient Doubly Linked List */
 #include <stdio.h>
@@ -23,15 +33,22 @@ struct node* XOR (struct node *a, struct node *b)
     return (struct node*) ((unsigned long)(a) ^ (unsigned long)(b));
 }
 
-/* Insert a node at the begining of the XORed linked list and makes the
-   newly inserted node as head */
+/* Insert a node at the beginning of the XORed linked list and makes the
+   newly inserted node as head
+   In the following code, insert() function inserts a new node at the beginning.
+   We store XOR of next and previous nodes with every node and call it npx, which
+   is the only address member we have wtih every node. When we insert a new node
+   at the beginning, npx of new node will always be XOR of NULL and current head.
+   And npx of current head must be changed to XOR of new node and node next to current
+   head.
+    */
 void insert(struct node **head_ref, int data)
 {
     // Allocate memory for new node
     struct node *new_node  = (struct node *) malloc (sizeof (struct node) );
     new_node->data = data;
 
-    /* Since new node is being inserted at the begining, npx of new node
+    /* Since new node is being inserted at the beginning, npx of new node
        will always be XOR of current head and NULL */
     new_node->npx = XOR(*head_ref, NULL);
 

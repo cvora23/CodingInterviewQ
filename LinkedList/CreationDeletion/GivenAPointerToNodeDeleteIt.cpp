@@ -48,6 +48,23 @@ void printList(struct node *head)
    }
 }
 
+/**
+ * 	ALGO1:
+ *	Simple Solution
+ *	===============
+ *	Traverse the linked list until you find the node you want to delete.
+ *	But this solution requires pointer to head node which contradicts the problem
+ *	statement
+ *
+ *	ALGO2:
+ *	Fast Solution
+ *	==================
+ *	Copy the data from next node to the node to be deleted and delete the
+ *	next node.Solution wont work if node to be deleted is the last node
+ *	of the list. To make this work we can mark end node as dummy node. But
+ *	the programs/functions that are using this function should be modified.
+ *
+ */
 void deleteNodeSol1(struct node *node_ptr)
 {
    struct node *temp = node_ptr->next;

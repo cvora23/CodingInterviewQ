@@ -79,6 +79,9 @@ void Delete(struct node **q,int num)
      {
 		  if(temp->data==num)
 		  {
+			  /*
+			   * If its first element
+			   */
 			 if(temp==*q)
 			 {
 				 *q = temp->next;
@@ -87,6 +90,9 @@ void Delete(struct node **q,int num)
 				 free(temp);
 				 return;
 			 }
+			 /*
+			  * If its last element
+			  */
 			 else if(temp->next == NULL)
 			 {
 				  temp->prev->next = NULL;
@@ -94,6 +100,9 @@ void Delete(struct node **q,int num)
 				  free(temp);
 				  return;
 			 }
+			 /*
+			  * If its middle element
+			  */
 			 else
 			 {
 				 temp->prev->next = temp->next;
