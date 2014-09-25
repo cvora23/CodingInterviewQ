@@ -7,6 +7,10 @@
 // Solution Cracking the Coding Interview 2.6
 
 
+/**
+ * Find loop in linked list
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -20,10 +24,55 @@ struct node
 /* Function to remove loop. Used by detectAndRemoveLoop() */
 void removeLoop1(struct node *, struct node *);
 void removeLoop2(struct node *, struct node *);
+void removeLoop3(struct node *, struct node *);
 
 /* This function detects and removes loop in the list
-  If loop was there in the list then it returns 1,
-  otherwise returns 0 */
+   If loop was there in the list then it returns 1,
+   otherwise returns 0 */
+/*
+ * PART1: Detect if linked list has a loop
+ * An easy way to detect if a linked list has a loop is through FastRunner/SlowRunner approach. FastRunner
+ * moves two steps at a time, SlowRunner moves one step. Much like two cars racing cars around a track
+ * at different steps, they must eventually meet.
+ * An astute reader may wonder if FastRunner might "hop over" SlowRunner completely, without ever
+ * colliding. That's not possible. Suppose that FastRunner did hop over SlowRunner, such that
+ * SlowRunner is at spot i and FastRunner is at spot i+1. In previous step, SlowRunner would be at
+ * spot i-1 and FastRunner would be at ((i+1)-2) or sport i-1. That is why they would have collided.
+ *
+ * PART2: When do they collide?
+ * Let's assume that the linked list has a "non-looped" part of size k.
+ * If we apply our algorithm from part1, when will FastRunner and SlowRunner collide?
+ *
+ * We know for every p steps that SlowRunner takes, FastRunner takes 2p steps. Therefore when SlowRunner
+ * enters the looped portion after k steps, FastRunner has taken 2k steps and must be 2k-k or k steps into the
+ * looped portion. Since k might be larger than the loop length, we should actually write this as mod(k,LOOP_SIZE)steps,
+ * which we will denote as K.
+ *
+ * At each subsequent step, FastRunner and SlowRunner get either one step farther away or one step closer.
+ * That is because we are in a circle, when A move q steps away from B, it is also moving q steps closer to B.
+ * Facts:
+ * 1: SlowRnner is 0 steps into the loop
+ * 2: FastRunner is K steps into the loop.
+ * 3: SlowRunner is K steps behind FastRunner.
+ * 4: FastRunner is LOOP_SIZE - K steps behind SlowRunner.
+ * 5: FastRunner catches up to SlowRunner at a rate of 1 step per unit of time.
+ *
+ * So when would they meet? Well if FastRunner is LOOP_SIZE - K steps behind SlowRunner,
+ * and FastRunner catches up at a rate of 1 step per unit of time, then they meet after
+ * LOOP_SIZE - K steps. At this point, they will be K steps before the head of the loop.
+ * Lets call this collision point.
+ *
+ * PART3: How to find start of the loop?
+ * We know that CollisionSpot is K Nodes before Start of the loop.
+ * Because K = mod(k,LOOP_SIZE) (or in other words, k = K + M * LOOP_SIZE, for any
+ * integer M), it is also correct to say that it is k nodes from loop start.
+ * Therefore both CollisionSpot and lInkedlistHead are k nodes from start of the loop.
+ * Now if we keep one pointer at CollisionSpot and move the other one to LinkedListHead,
+ * they will each be k nodes from LoopStart. Moving two pointers at the same speed will
+ * cause them to collide again - this time after k steps, at which point they
+ * will be both at LoopStart. All we have to do is return this node.
+ *
+ */
 int detectAndRemoveLoop(struct node *list)
 {
     struct node  *slow_p = list, *fast_p = list;
@@ -37,7 +86,7 @@ int detectAndRemoveLoop(struct node *list)
            is a loop */
         if (slow_p == fast_p)
         {
-            removeLoop1(slow_p, list);
+        	removeLoop3(slow_p, list);
 
             /* Return 1 to indicate that loop is found */
             return 1;
@@ -132,11 +181,13 @@ void removeLoop2(struct node *loop_node, struct node *head)
  head -->  Pointer to the start node of the linked list */
 void removeLoop3(struct node *loop_node, struct node *head){
     struct node *ptr1 = head;
-    while(loop_node->next != ptr1){
+    struct node *prev = loop_node;
+    while(loop_node != ptr1){
     	ptr1 = ptr1->next;
+    	prev = loop_node;
     	loop_node = loop_node ->next;
     }
-    loop_node->next = NULL;
+    prev->next = NULL;
 }
 
 /* UTILITY FUNCTIONS */

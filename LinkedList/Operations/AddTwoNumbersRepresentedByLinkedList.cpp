@@ -7,6 +7,11 @@
 
 // Solution Cracking the Coding Interview 2.5
 
+/*
+ * Given two numbers represented by two lists, write a function that returns sum list.
+ * The sum list is list representation of addition of two input numbers
+ */
+
 // A recursive program to add two linked lists
 
 #include <stdio.h>
@@ -176,12 +181,18 @@ void addList(node* head1, node* head2, node** result)
         addCarryToRemaining(head1, cur, &carry, result);
     }
 
-    // if some carry is still there, add a new node to the fron of
+    // if some carry is still there, add a new node to the front of
     // the result list. e.g. 999 and 87
     if (carry)
         push(result, carry);
 }
 
+/*
+ * ALGO:
+ * Traverses both lists. One by one pick nodes of both lists and add the values. If sum is more
+ * than 10 then make carry as 1 and reduce sum. If one list has more elements than the other then consider
+ * remaining values of this list as 0.
+ */
 /* Adds contents of two linked lists and return the head node of resultant list */
 struct node* addTwoLists (struct node* first, struct node* second)
 {
@@ -198,7 +209,7 @@ struct node* addTwoLists (struct node* first, struct node* second)
         // (ii) Next digit of second list (if there is a next digit)
         sum = carry + (first? first->data: 0) + (second? second->data: 0);
 
-        // update carry for next calulation
+        // update carry for next calculation
         carry = (sum >= 10)? 1 : 0;
 
         // update sum if it is greater than 10
