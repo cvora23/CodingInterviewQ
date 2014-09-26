@@ -9,6 +9,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * Given a linked list of integers, write a function to modify
+ * the linked list such that all even numbers appear before all odd
+ * numbers in modified linked list.
+ * Also keep order of even and odd numbers.
+ *
+ * Examples:
+ * Input: 17->15->8->12->10->5->4->1->7->6->NULL
+ * Output: 8->12->10->4->6->17->15->5->1->7->NULL
+ */
+
 /* a node of the singly linked list */
 struct node
 {
@@ -16,6 +27,19 @@ struct node
     struct node *next;
 };
 
+/**
+ * Algo2:
+ * Split into odd and even linked list and merge.
+ */
+
+/*
+ * Algo1:
+ * 1: Get the pointer to the last node
+ * 2: Move all the odd nodes to the end
+ * 		a) Consider all odd nodes before the first even node and move them to end
+ * 		b) Change head pointer to point to first even node.
+ * 		c) Consider all nodes after first even node and move them to the end
+ */
 void segregateEvenOdd(struct node **head_ref)
 {
     struct node *end = *head_ref;

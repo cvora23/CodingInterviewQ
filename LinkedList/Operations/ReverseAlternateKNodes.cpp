@@ -9,12 +9,30 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+/**
+ * Given a linked list, write a function reveres every alternate k nodes
+ * (where k is an input to the function) in an efficient way.
+ * Example: k =3
+ * Inputs: 1->2->3->4->5->6->7->8->9>NULL
+ * Output: 3->2->1->4->5->6->9->8->7->NULL
+ */
+
 /* Link list node */
 struct node
 {
     int data;
     struct node* next;
 };
+
+/**
+ * algo:
+ * 1: Reverse first k nodes.
+ * 2: In the modified list head points to the kth node. So change next
+ * 		of head to (k+1)th node.
+ * 3: MOve the current current pointer to skip next k nodes.
+ * 4: Call the function recursively for rest of the n - 2k nodes.
+ * 5: Return the new head of the list.
+ */
 
 /* Reverses alternate k nodes and
    returns the pointer to the new head node */

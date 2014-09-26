@@ -53,6 +53,16 @@ void printList(struct node *node)
   }
 }
 
+/*
+ * In order to remove duplicates from linked list, we need to be able to
+ * track duplicates. A simple vector will work well here.
+ * WE simply iterate through the linked list, adding each element to
+ * the vector. When we discover a duplicate element, we remove the element
+ * and continue iterating. WE can do this all in one pass since
+ * we are using a linked list.
+ * O(n)
+ */
+
 // Storing all the unique elements from the list in order in vector
 void removeDuplicatesSol1(struct node *start){
 	typedef std::vector<int> IntContainer;
@@ -80,7 +90,12 @@ void removeDuplicatesSol1(struct node *start){
     }
 }
 
-
+/*
+ * If we don't have a buffer, we can iterate with two pointers, current
+ * which iterates through the linked list and runner which checks all
+ * subsequent nodes for duplicates.
+ * O(n^2)
+ */
 /* Function to remove duplicates from a unsorted linked list */
 void removeDuplicatesSol2(struct node *start)
 {

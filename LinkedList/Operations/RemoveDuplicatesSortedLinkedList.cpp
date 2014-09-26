@@ -7,7 +7,7 @@
 
 /*Program to remove duplicates from a sorted linked list */
 #include<stdio.h>
-#include<stlib.h>
+#include<stdlib.h>
 
 /* Link list node */
 struct node

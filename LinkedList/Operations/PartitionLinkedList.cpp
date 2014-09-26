@@ -7,7 +7,10 @@
 #include<stdio.h>
 #include<assert.h>
 #include<stdlib.h>
-
+/*
+ * Write code to partition a linked list around a value x, such that all nodes less than x
+ * come before all nodes greater than or equal to x.
+ */
 // Solution Cracking the Coding Interview 2.4
 
 /* Link list node */
@@ -46,6 +49,12 @@ void printList(struct node *head)
    }
 }
 
+/*
+ * Rather than shifting and swapping elements, we actually create 2 different linked list:
+ * one for elements less than x, and one for elements greater than or equal to x.
+ * We iterate through the linked list, inserting elements into our before list or our after
+ * list. Once we reach end of linked list and have completed this splitting, we merge two lists.
+ */
 struct node* partitionListSol1(struct node* head,int val){
 	struct node* beforeStart = NULL;
 	struct node* beforeEnd = NULL;
