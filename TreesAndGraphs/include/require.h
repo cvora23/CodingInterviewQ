@@ -71,5 +71,8 @@ inline void assure(std::ofstream& out,
   }
 }
 
+int getRand(){
+	return rand()%10;
+}
 
 #endif /* REQUIRE_H_ */
