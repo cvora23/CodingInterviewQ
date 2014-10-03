@@ -10,7 +10,7 @@ Constructions - Destructions
 4: DeletingNode.cpp
 
 TreeTraversal
-==========================================
+========================================================================
 5: InorderTraversalWithoutRecursion.cpp
 6: IterativePostOrderTraversalOneStack.cpp
 7: IterativePostOrderTraversalTwoStacks.cpp
@@ -18,6 +18,21 @@ TreeTraversal
 9: LevelOrderTraversal.cpp
 10:LevelOrderTraversalSpiralForm.cpp
 11:ReverseLevelOrderTraversal.cpp
+
+CountSize
+========================================================================
+12:CountLeafNodesInBinaryTree.cpp
+13:SizeOfTree.cpp
+
+HeightWidthDepthLevel
+========================================================================
+14:DepthMaxorHeightofBinaryTree.cpp
+15:DepthOfDepestOddLevelLeafNode.cpp
+16:DiameterOfBinaryTree.cpp
+17:GetLevelOfNodeInBinaryTree.cpp
+18:IterativeMethodFindHeight.cpp
+19:MaxWidthOfBinaryTree.cpp
+
 
 Binary Tree Construction and deletion
 DeleteATree

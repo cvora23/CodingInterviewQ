@@ -92,10 +92,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -144,10 +146,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -199,10 +203,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -254,10 +260,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -309,10 +317,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -364,10 +374,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|InorderTraversalWithoutRecursion.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -419,10 +431,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -474,10 +488,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|IterativePostOrderTraversalTwoStacks.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -529,10 +545,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|IterativePreOrder.cpp|IterativePostOrderTraversalOneStack.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -584,10 +602,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -639,10 +659,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -694,10 +716,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="ReverseLevelOrderTraversal.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -749,10 +773,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -804,10 +830,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -859,10 +887,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -914,10 +944,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -969,10 +1001,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1024,10 +1058,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1079,10 +1115,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1134,10 +1172,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1189,10 +1229,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1244,10 +1286,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="MaxWidthOfBinaryTree.cpp|DepthMaxorHeightofBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1299,10 +1343,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1354,10 +1400,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1409,10 +1457,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1464,10 +1514,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1519,10 +1571,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1574,10 +1628,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1629,10 +1685,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1684,10 +1742,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1739,10 +1799,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1794,10 +1856,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1849,10 +1913,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1904,10 +1970,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -1959,10 +2027,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -2014,10 +2084,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
@@ -2069,10 +2141,12 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
+						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
+						<entry excluding="DepthMaxorHeightofBinaryTree.cpp|MaxWidthOfBinaryTree.cpp|MaximumDepthOrHeightOfTree.cpp|IterativeMethodFindHeight.cpp|GetLevelOfNodeInBinaryTree.cpp|DiameterOfBinaryTree.cpp|DepthOfDepestOddLevelLeafNode.cpp|DepthofBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="HeightWidthDepthLevel"/>
 						<entry excluding="LevelOrderTraversalSpiralForm.cpp|Copy of IterativePostOrderTraversalTwoStacks.cpp|IterativePostOrderTraversalOneStack.cpp|IterativePostOrderTraversalTwoStacks.cpp|ReverseLevelOrderTraversal.cpp|LevelOrderTraversal.cpp|IterativePreOrder.cpp|IterativePostOrderTraversal.cpp|InorderTraversalWithoutRecursion.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="TreeTraversal"/>
 					</sourceEntries>
 				</configuration>
