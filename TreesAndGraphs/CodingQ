@@ -33,6 +33,28 @@ HeightWidthDepthLevel
 18:IterativeMethodFindHeight.cpp
 19:MaxWidthOfBinaryTree.cpp
 
+Calculation
+=========================================================================
+20:DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp
+
+CheckOrVerifyOrFind
+=========================================================================
+21:CheckForChildrenSumProperty.cpp
+22:CheckIfBinaryTreeIsHeightBalanced.cpp
+23:CheckIfBinaryTreeIsSumTree.cpp
+24:CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp
+25:CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp
+26:CheckIfIdenticalTrees.cpp
+27:CheckIfLeavesAtSameLevel.cpp
+28:FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp
+29:FindInorderSuccessorForGivenNodeOfBST.cpp
+30:InorderSuccessorForAllNodes.cpp
+31:IsBST.cpp
+32:LargestBSTinBinaryTree.cpp
+33:RootToLeafPathSumEqualToGivenNumber.cpp
+34:TreeIsomorphism.cpp
+
+
 
 Binary Tree Construction and deletion
 DeleteATree

@@ -12,6 +12,15 @@
 #include<stdlib.h>
 #define bool int
 
+/*
+ * Consider a height-balancing scheme where following conditions should be checked to determine
+ * if a binary tree is balanced.
+	An empty tree is height-balanced. A non-empty binary tree T is balanced if:
+	1) Left subtree of T is balanced
+	2) Right subtree of T is balanced
+	3) The difference between heights of left subtree and right subtree is not more than 1.
+ */
+
 /* A binary tree node has data, pointer to left child
    and a pointer to right child */
 struct node
@@ -23,6 +32,13 @@ struct node
 
 /* Returns the height of a binary tree */
 int height(struct node* node);
+
+/*
+ * ALGO:
+ * To check if a tree is height-balanced, get the height of left and right subtrees.
+ *  Return true if difference between heights is not more than 1 and left and right
+ *  subtrees are balanced, otherwise return false.
+ */
 
 /* Returns true if binary tree with root as root is height-balanced */
 bool isBalancedSol1(struct node *root)
@@ -82,6 +98,11 @@ struct node* newNode(int data)
     return(node);
 }
 
+/*
+ * ALGO:
+ * Above solution can be optimized by calculating the height in the
+ * same recursion rather than calling height() function separately.
+ */
 int checkHeight(struct node* root){
 	if(root == NULL){
 		return 0; // Height of 0
@@ -134,6 +155,34 @@ int main()
       printf("Tree is balanced \n");
     else
       printf("Tree is not balanced \n");
+
+    /* Constructed binary tree is
+                 1
+               /   \
+             2      3
+           /  \    /
+         4     5  6
+        /
+       7
+      */
+      struct node *root1 = newNode(1);
+      root1->left = newNode(2);
+      root1->right = newNode(3);
+      root1->left->left = newNode(4);
+      root1->left->right = newNode(5);
+      root1->right->left = newNode(6);
+      root1->left->left->left = newNode(7);
+
+      if(isBalancedSol1(root1))
+        printf("Tree is balanced \n");
+      else
+        printf("Tree is not balanced \n");
+
+      if(isBalancedSol2(root1))
+        printf("Tree is balanced \n");
+      else
+        printf("Tree is not balanced \n");
+
 
     getchar();
     return 0;

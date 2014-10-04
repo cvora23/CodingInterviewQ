@@ -92,8 +92,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -146,8 +147,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -203,8 +205,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -260,8 +263,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -317,8 +321,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -374,8 +379,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -431,8 +437,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -488,8 +495,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -545,8 +553,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -602,8 +611,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -659,8 +669,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -716,8 +727,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -773,8 +785,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -830,8 +843,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -887,8 +901,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -944,8 +959,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1001,8 +1017,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1058,8 +1075,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1115,8 +1133,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1172,8 +1191,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1229,8 +1249,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1286,8 +1307,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1343,8 +1365,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1400,8 +1423,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1457,8 +1481,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1514,8 +1539,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1571,8 +1597,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1628,8 +1655,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1685,8 +1713,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1742,8 +1771,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1799,8 +1829,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1856,8 +1887,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1913,8 +1945,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -1970,8 +2003,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -2027,8 +2061,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -2084,8 +2119,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
@@ -2141,8 +2177,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
+						<entry excluding="Calculation|HeightWidthDepthLevel|CountSize|Conversion|TreeTraversal|src|Construction|CheckOrVerifyOrFind" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Calculation"/>
+						<entry excluding="TreeIsomorphism.cpp|RootToLeafPathSumEqualToGivenNumber.cpp|IsBST.cpp|FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp|CheckIfLeavesAtSameLevel.cpp|CheckIfIdenticalTrees.cpp|CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp|CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp|CheckIfBinaryTreeIsSumTree.cpp|CheckForChildrenSumProperty.cpp|InorderSuccessorForAllNodes.cpp|FindInorderSuccessorForGivenNodeOfBST.cpp|LargestBSTinBinaryTree.cpp|CheckIfBinaryTreeIsHeightBalanced.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CheckOrVerifyOrFind"/>
 						<entry excluding="DeletingEntireBST.cpp|BinaryTreeConstructionanddeletion.cpp|MergeTwoBalanceBST.cpp|LargestBSTinBinaryTree.cpp|DeleteATree.cpp|DeletingNode.cpp|BinaryTreeInsertion.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
 						<entry excluding="MergeTwoBalanceBST.cpp|BinaryTreeToBST.cpp|SortedArrayToBalancedBST.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Conversion"/>
 						<entry excluding="SizeOfTree.cpp|CountLeafNodesInBinaryTree.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CountSize"/>
