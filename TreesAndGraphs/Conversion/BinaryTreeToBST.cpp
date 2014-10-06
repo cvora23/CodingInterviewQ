@@ -15,6 +15,42 @@
 
 using namespace std;
 
+/*
+ * Given a Binary Tree, convert it to a Binary Search Tree.
+ * The conversion must be done in such a way that keeps the original structure of Binary Tree.
+
+Examples.
+
+Example 1
+Input:
+          10
+         /  \
+        2    7
+       / \
+      8   4
+Output:
+          8
+         /  \
+        4    10
+       / \
+      2   7
+
+
+Example 2
+Input:
+          10
+         /  \
+        30   15
+       /      \
+      20       5
+Output:
+          15
+         /  \
+       10    20
+       /      \
+      5        30
+ */
+
 /* A binary tree node structure */
 struct node
 {
@@ -57,6 +93,7 @@ int compare (const void * a, const void * b)
     return ( *(int*)a - *(int*)b );
 }
 
+
 /* A helper function that copies contents of arr[] to Binary Tree.
    This functon basically does Inorder traversal of Binary Tree and
    one by one copy arr[] elements to Binary Tree nodes */
@@ -76,6 +113,19 @@ void arrayToBST (int *arr, struct node* root, int *index_ptr)
     /* finally update the right subtree */
     arrayToBST (arr, root->right, index_ptr);
 }
+
+/*
+ * Solution
+Following is a 3 step solution for converting Binary tree to Binary Search Tree.
+
+1) Create a temp array arr[] that stores inorder traversal of the tree. This step takes O(n) time.
+2) Sort the temp array arr[]. Time complexity of this step depends upon the sorting algorithm.
+In the following implementation, Quick Sort is used which takes (n^2) time. This can be done in O(nLogn)
+time using Heap Sort or Merge Sort.
+3) Again do inorder traversal of tree and copy array elements to tree nodes one by one.
+This step takes O(n) time
+ */
+
 
 // This function converts a given Binary Tree to BST
 void binaryTreeToBST (struct node *root)
@@ -166,7 +216,7 @@ int main()
     root->left->left = newNode(20);
     root->right->right = newNode(5);
 
-    cout<<"The following true is BST tree : "<<checkBST (root)<<endl;
+    cout<<"The following is BST tree : "<<checkBST (root)<<endl;
 
     // convert Binary Tree to BST
     binaryTreeToBST (root);
@@ -175,7 +225,7 @@ int main()
     printInorder (root);
 
     // convert Binary Tree to BST
-    cout<<endl<<"The following true is BST tree : "<<checkBST (root)<<endl;
+    cout<<endl<<"The following is BST tree : "<<checkBST (root)<<endl;
 
     return 0;
 }

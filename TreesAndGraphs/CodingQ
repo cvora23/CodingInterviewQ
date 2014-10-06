@@ -56,7 +56,18 @@ CheckOrVerifyOrFind
 35:LCAinBST.cpp
 36:NodeWithMinimumValueInBST.cpp
 
+Conversion
+===============================================
 
+37:BinaryTreeToBST.cpp
+38:BinaryTreeToDoublyLinkedList.cpp
+39:CompleteBInaryTreeFromLinkedListRepresentation.cpp
+40:ConvertBST2BinaryTreeSuchThatSumOfAllGreaterKeysIsAddedToKey.cpp
+41:ConvertOrdinaryTreeToTreeThatHoldsChildrenSumProperty.cpp
+42:ConvertTreeToItsSumTree.cpp
+43:MergeTwoBalanceBST.cpp
+44:SortedArrayToBalancedBST.cpp
+45:SortedLinkedListToBalancedBST.cpp
 
 Binary Tree Construction and deletion
 DeleteATree
