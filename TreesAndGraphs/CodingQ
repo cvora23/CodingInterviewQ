@@ -53,6 +53,8 @@ CheckOrVerifyOrFind
 32:LargestBSTinBinaryTree.cpp
 33:RootToLeafPathSumEqualToGivenNumber.cpp
 34:TreeIsomorphism.cpp
+35:LCAinBST.cpp
+36:NodeWithMinimumValueInBST.cpp
 
 
 
