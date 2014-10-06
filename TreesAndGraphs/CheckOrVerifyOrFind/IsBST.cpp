@@ -10,6 +10,16 @@
 
 using namespace std;
 
+/*
+ *
+A binary search tree (BST) is a node based binary tree data structure which has the following properties.
+• The left subtree of a node contains only nodes with keys less than the node’s key.
+• The right subtree of a node contains only nodes with keys greater than the node’s key.
+• Both the left and right subtrees must also be binary search trees.
+
+From the above properties it naturally follows that:
+ */
+
 struct node
 {
        struct node *left;
@@ -52,6 +62,9 @@ void insert(struct node **q,int num)
      return;
 }
 
+/**
+ * \todo: Methods are wrong for Binary tree
+ */
 int minValue(struct node* node) {
   struct node* current = node;
  
@@ -59,10 +72,12 @@ int minValue(struct node* node) {
   while (current->left != NULL) {
     current = current->left;
   }
-  cout<<current->data<<endl;
   return(current->data);
 }
- 
+
+/**
+ * \todo: Methods are wrong for Binary tree
+ */
 int maxValue(struct  node* node) {
   struct node* current = node;
  
@@ -72,7 +87,13 @@ int maxValue(struct  node* node) {
   }
   return(current->data);
 }
- 
+
+/*
+ * METHOD 1 (Correct but not efficient)
+ * For each node, check if max value in left subtree is smaller
+ * than the node and min value in right subtree greater than the node.
+ */
+
 /* Returns true if a binary tree is a binary search tree */
 int isBST1(struct node* node)
 {
@@ -95,13 +116,20 @@ int isBST1(struct node* node)
   { 
     //cout<<"Here"<<endl;
     return(FALSE); 
-    
   }
  
   /* passing all that, it's a BST */
   return(TRUE);
 }
-
+/*
+	METHOD 2(Using In-Order Traversal)
+	1) Do In-Order Traversal of the given tree and store the result in a temp array.
+	3) Check if the temp array is sorted in ascending order, if it is, then the tree is BST.
+	We can avoid the use of Auxiliary Array. While doing In-Order traversal,
+	we can keep track of previously visited node. If the value of the currently
+	visited node is less than the previous value, then tree is not BST.
+	The use of static variable can also be avoided by using reference to prev node as a parameter.
+ */
 bool isBST2(struct node* root)
 {
 	   static struct node *prev = NULL;
@@ -147,35 +175,14 @@ int main()
   root->right->right  = newNode(80);
 
 
-#if 0
-    struct btree *p;
-    p =NULL;
-    int number,data;
-    cout<<"Enter the number of data items to be inserted"<<endl;
-    cin>>number;
-   // cout<<p<<endl;
-    for(int i=0;i<number;i++)
-    {      
-          cout<<"Enter the data"<<endl;
-          cin>>data;
-          insert(&p,data)  ;
-     //     cout<<p<<endl;
-    }
-    if(isBST1(p))
-    cout<<"The given Binary Tree is Binary Search Tree"<<endl;
-    else
-    cout<<"The given Binary Tree is not a Binary Search Tree"<<endl;
-#endif
-
-    if(isBST1(root))
-    cout<<"The given Binary Tree is Binary Search Tree"<<endl;
-    else
-    cout<<"The given Binary Tree is not a Binary Search Tree"<<endl;
-    if(isBST2(root))
-    cout<<"The given Binary Tree is Binary Search Tree"<<endl;
-    else
-    cout<<"The given Binary Tree is not a Binary Search Tree"<<endl;
-
+	if(isBST1(root))
+		cout<<"The given Binary Tree is Binary Search Tree"<<endl;
+	else
+		cout<<"The given Binary Tree is not a Binary Search Tree"<<endl;
+	if(isBST2(root))
+		cout<<"The given Binary Tree is Binary Search Tree"<<endl;
+	else
+		cout<<"The given Binary Tree is not a Binary Search Tree"<<endl;
 
     return 0;
 }

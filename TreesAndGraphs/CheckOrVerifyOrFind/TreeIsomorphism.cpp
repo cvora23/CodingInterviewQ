@@ -9,6 +9,34 @@
 #include <iostream>
 using namespace std;
 
+/*
+ * Write a function to detect if two trees are isomorphic.
+ * Two trees are called isomorphic if one of them can be obtained
+ * from other by a series of flips, i.e. by swapping left and right
+ * children of a number of nodes. Any number of nodes at any level
+ * can have their children swapped. Two empty trees are isomorphic.
+ *
+ *	Tree1:
+            1
+          /   \
+        2      3
+      /  \	  /
+    4     5  6
+        /   \
+       7     8
+
+	Tree2:
+            1
+          /   \
+        3      2
+  	  	 \	  /  \
+    	  6   4   5
+                 /  \
+                8    7
+For example, following two trees are isomorphic with foll sub-trees flipped:
+2 and 3, NULL and 6,7 and 8.
+ */
+
 /* A binary tree node has data, pointer to left and right children */
 struct node
 {
@@ -16,6 +44,20 @@ struct node
     struct node* left;
     struct node* right;
 };
+
+/*
+ * ALGO:
+ * We simultaneously traverse both trees. Let the current internal
+ * nodes of two trees being traversed be n1 and n2 respectively.
+ * There are following two conditions for subtrees rooted with n1
+ * and n2 to be isomorphic.
+ * 1) Data of n1 and n2 is same.
+   2) One of the following two is true for children of n1 and n2
+    ……a) Left child of n1 is isomorphic to left child of n2 and right child of n1 is
+         isomorphic to right child of n2.
+    ……b) Left child of n1 is isomorphic to right child of n2 and right child of n1 is
+         isomorphic to left child of n2.
+*/
 
 /* Given a binary tree, print its nodes in reverse level order */
 bool isIsomorphic(node* n1, node *n2)

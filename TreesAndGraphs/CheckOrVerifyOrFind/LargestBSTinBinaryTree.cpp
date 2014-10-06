@@ -10,6 +10,45 @@
 #include <stdint.h>
 #include <limits.h>
 
+/*
+ Given a Binary Tree, write a function that returns the size of the largest subtree
+ which is also a Binary Search Tree (BST). If the complete Binary Tree is BST,
+ then return the size of whole tree.
+ Examples:
+
+Input:
+      5
+    /  \
+   2    4
+ /  \
+1    3
+
+Output: 3
+The following subtree is the maximum size BST subtree
+   2
+ /  \
+1    3
+
+
+Input:
+       50
+     /    \
+  30       60
+ /  \     /  \
+5   20   45    70
+              /  \
+            65    80
+Output: 5
+The following subtree is the maximum size BST subtree
+      60
+     /  \
+   45    70
+        /  \
+      65    80
+
+ *
+ */
+
 int max(int x, int y)
 {
   return (x < y) ? y : x;
@@ -75,6 +114,15 @@ bool isBST(struct node* root,bool newRootNode = false)
 	    return true;
 }
 
+/*
+ * Method 1 (Simple but inefficient)
+	Start from root and do an inorder traversal of the tree. For each node N,
+	check whether the subtree rooted with N is BST or not. If BST, then return
+	size of the subtree rooted with N. Else, recur down the left and right subtrees
+	and return the maximum of values returned by left and right subtrees.
+	Time Complexity: The worst case time complexity of this method will be O(n^2).
+	Consider a skewed tree for worst case analysis.
+ */
 int largestBST1(struct node* root)
 {
 	if(isBST(root,true))

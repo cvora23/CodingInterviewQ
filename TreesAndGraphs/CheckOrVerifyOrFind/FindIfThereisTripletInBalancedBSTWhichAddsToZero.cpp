@@ -5,6 +5,26 @@
  *      Author: cvora
  */
 
+/*
+ * Given a Balanced Binary Search Tree (BST), write a function isTripletPresent()
+ * that returns true if there is a triplet in given BST with sum equals to 0,
+ * otherwise returns false. Expected time complexity is O(n^2) and only O(Logn)
+ * extra space can be used. You can modify given Binary Search Tree.
+ * Note that height of a Balanced BST is always O(Logn)
+ *
+ *
+           	6
+          /   \
+       -13      14
+       	 \	   /  \
+         -8   13   15
+			  /
+             7
+
+   For example, isTripletPresent() should return true for foll BST because
+   there is a triplet with sum 0, the triplet is {-13, 6, 7}.
+
+*/
 
 // A C++ program to check if there is a triplet with sum equal to 0 in
 // a given BST
@@ -67,6 +87,28 @@ bool isPresentInDLL(node* head, node* tail, int sum)
     return false;
 }
 
+
+/*
+ * ALGO 1:
+ * The Brute Force Solution:
+ * Is to consider each triplet in BST and check whether the sum adds upto zero.
+ * The time complexity of this solution will be O(n^3).
+ */
+
+/*
+ * ALGO 2:
+ * Is to create an auxillary array and store Inorder traversal of BST in the array.
+ * The array will be sorted as Inorder traversal of BST always produces sorted data.
+ * Once we have the Inorder traversal, we can find triplet with sum equals 0.
+ * This solution works in O(n ^ 2) time, but requires O(n) auxillary space.
+ */
+
+/*
+ * ALGO 3:
+ * 1: Convert given BST to Doubly Linked List (DLL)
+ * 2: Now iterate through every node of DLL and if the key of node is negative,
+ * then find a pair in DLL with sum equal of current node multiplied by -1.
+ */
 // The main function that returns true if there is a 0 sum triplet in
 // BST otherwise returns false
 bool isTripletPresent(node *root)
@@ -121,6 +163,19 @@ node* insert(node* root, int key)
 // Driver program to test above functions
 int main()
 {
+	/*
+	 *
+	 *     	6
+          /   \
+       -13      14
+       	 \	   /  \
+         -8   13   15
+			  /
+             7
+	 *
+	 *
+	 */
+
     node* root = NULL;
     root = insert(root, 6);
     root = insert(root, -13);

@@ -101,7 +101,7 @@ bool check(struct Node *root)
 // Driver program to test above function
 int main()
 {
-    // Let us create tree shown in thirdt example
+    // Let us create tree shown in third example
     struct Node *root = newNode(12);
     root->left = newNode(5);
     root->right = newNode(7);

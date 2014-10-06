@@ -9,6 +9,22 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+ * Given a Binary Tree where each node has following structure,
+ * write a function to populate next pointer for all nodes.
+ * The next pointer for every node should be set to point to inorder successor.
+
+struct node
+{
+  int data;
+  struct node* left;
+  struct node* right;
+  struct node* next;
+}
+Initially, all next pointers have NULL values. Your function should fill these
+next pointers so that they point to inorder successor.
+ */
+
 struct node
 {
     int data;
@@ -18,7 +34,12 @@ struct node
 };
 
 
-
+/*
+ * 	Solution (Use Reverse Inorder Traversal)
+	Traverse the given tree in reverse inorder traversal and keep track
+	of previously visited node. When a node is being visited, assign previously
+	visited node as next.
+ */
 /* Set next of p and all descendents of p by traversing them in reverse Inorder */
 void populateNext(struct node* p)
 {
