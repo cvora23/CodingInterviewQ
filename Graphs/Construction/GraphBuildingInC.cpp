@@ -180,7 +180,7 @@ int main()
     addEdge(graph, 2, 3);
     addEdge(graph, 3, 4);
 
-    // print the adjacency list representation of the above graph
+    // print the adjacency list representation of the above un-directed graph
     printGraph(graph);
 
     return 0;

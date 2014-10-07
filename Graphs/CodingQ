@@ -5,5 +5,10 @@ Graphs
 Construction
 ===========================================================
 1:GraphBuildingInC.cpp
-1:GraphBuildingInCPlusPlus.cpp
+2:GraphBuildingInCPlusPlus.cpp
+
+Traversals
+=============================================================
+3:BreadthFirstTraversal.cpp
+4:DepthFirstTraversal.cpp
 

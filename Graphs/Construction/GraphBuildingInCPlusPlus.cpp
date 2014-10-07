@@ -59,7 +59,7 @@ int main()
     g.addEdge(2, 3);
     g.addEdge(3, 3);
 
-    // print the adjacency list representation of the above graph
+    // print the adjacency list representation of the above directed graph
     g.printGraph();
 
     return 0;

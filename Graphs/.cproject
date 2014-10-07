@@ -92,8 +92,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Traversal|Construction" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Traversal|Construction" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -141,8 +142,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -193,8 +195,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -245,8 +248,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -297,8 +301,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -349,8 +354,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -401,8 +407,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -453,8 +460,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -505,8 +513,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -557,8 +566,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -609,8 +619,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -661,8 +672,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -713,8 +725,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -765,8 +778,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -817,8 +831,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -869,8 +884,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -921,8 +937,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -973,8 +990,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1025,8 +1043,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1077,8 +1096,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1129,8 +1149,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1181,8 +1202,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1233,8 +1255,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1285,8 +1308,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1337,8 +1361,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1389,8 +1414,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1441,8 +1467,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1493,8 +1520,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1545,8 +1573,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1597,8 +1626,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1649,8 +1679,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1701,8 +1732,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1753,8 +1785,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1805,8 +1838,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1857,8 +1891,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1909,8 +1944,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1961,8 +1997,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
