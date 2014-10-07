@@ -1,2 +1,2 @@
-CodingInterviewQ
-================
+CodingInterviewQ - README file
+====================================
