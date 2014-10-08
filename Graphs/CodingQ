@@ -12,3 +12,7 @@ Traversals
 3:BreadthFirstTraversal.cpp
 4:DepthFirstTraversal.cpp
 
+Operations
+=============================================================
+5:DetectCycleDirectedGraph.cpp
+

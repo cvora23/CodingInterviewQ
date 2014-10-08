@@ -73,32 +73,6 @@ void Graph::DFSUtilRecursive(int v, bool visited[])
         	DFSUtilRecursive(*i, visited);
 }
 
-//void Graph::DFSUtilIterative(int v, bool visited[])
-//{
-//    // Mark the current node as visited and print it
-//    //visited[v] = true;
-//    stack <int> S;
-//    S.push(v);
-//    int u;
-//    while(!S.empty()){
-//    	u = S.top();
-//    	S.pop();
-//    	if(!visited[u]){
-//        	cout<<u<<" ";
-//        	visited[u] = true;
-//    	}
-//        // Recur for all the vertices adjacent to this vertex
-//        list<int>::iterator i;
-//        for(i = adj[u].begin(); i != adj[u].end(); ++i)
-//            if(!visited[*i]){
-//            	visited[*i] = true;
-//            	cout<<*i<<" ";
-//            	S.push(*i);
-//            }
-//    }
-//}
-
-
 void Graph::DFSUtilIterative(int v,bool visited[]){
     stack <int> S;
     S.push(v);
