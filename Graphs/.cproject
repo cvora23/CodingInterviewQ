@@ -92,9 +92,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Traversal|Construction" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Traversal|Construction" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -143,9 +144,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -197,9 +199,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -251,9 +254,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -305,9 +309,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -359,9 +364,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -413,9 +419,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -467,8 +474,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
 						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
@@ -521,9 +529,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -575,9 +584,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -629,9 +639,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -683,9 +694,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -737,9 +749,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -791,9 +804,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -845,9 +859,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -899,9 +914,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -953,9 +969,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1007,9 +1024,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1061,9 +1079,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1115,9 +1134,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1169,9 +1189,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1223,9 +1244,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1277,9 +1299,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1331,9 +1354,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1385,9 +1409,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1439,9 +1464,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1493,9 +1519,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1547,9 +1574,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1601,9 +1629,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1655,9 +1684,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1709,9 +1739,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1763,9 +1794,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1817,9 +1849,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1871,9 +1904,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1925,9 +1959,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -1979,9 +2014,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>
@@ -2033,9 +2069,10 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="FindSearch|Operations|Traversals|Construction|Traversal|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 						<entry excluding="GraphBuildingInCPlusPlus.cpp|GraphBuildingInC.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Construction"/>
-						<entry excluding="DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
+						<entry excluding="FindAndColorCodeNoIslands.cpp|FindNoIslands.cpp|FindIfPathBet2Vertices.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="FindSearch"/>
+						<entry excluding="DetectCycleUnDirectedGraph.cpp|DetectCycleDirectedGraph.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Operations"/>
 						<entry excluding="DepthFirstTraversal.cpp|BreadthFirstTraversal.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Traversals"/>
 					</sourceEntries>
 				</configuration>

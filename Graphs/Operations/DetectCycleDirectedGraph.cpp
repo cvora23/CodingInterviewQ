@@ -82,10 +82,20 @@ bool Graph::isCyclicUtil(int v, bool visited[], bool *recStack)
         list<int>::iterator i;
         for(i = adj[v].begin(); i != adj[v].end(); ++i)
         {
+        	/*
+        	 * first if condition is to perform DFS while ensuring we don't get stuck
+        	 * in an infinite loop
+        	 */
             if ( !visited[*i] && isCyclicUtil(*i, visited, recStack) ){
-            	cout<<"Cycle from vertex "<<v<<" to vertex "<<*i<<endl;
+            	//cout<<"Cycle from vertex "<<v<<" to vertex "<<*i<<endl;
                 return true;
             }
+            /*
+             * if else condition is executed when there is a cycle because if the
+             * already visited node is in the stack then there is a cycle.
+             * So this condition will return true and hence when stack will unfold it
+             * result in returning true for a dfs tree.
+             */
             else if (recStack[*i]){
             	cout<<"Cycle from vertex "<<v<<" to vertex "<<*i<<endl;
                 return true;
@@ -127,9 +137,9 @@ int main()
     g.addEdge(0, 1);
     g.addEdge(0, 2);
     g.addEdge(1, 2);
-    g.addEdge(2, 0);
+    //g.addEdge(2, 0);
     g.addEdge(2, 3);
-    g.addEdge(3, 3);
+    //g.addEdge(3, 3);
 
     if(g.isCyclic())
         cout << "Graph contains cycle"<<endl;
