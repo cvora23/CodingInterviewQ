@@ -25,5 +25,8 @@ FindSearchCheck
 9:FindAndColorCodeNoIslands.cpp
 10:CheckIfGraphIsBipartite.cpp
 11:TransitiveClosure.cpp
+13:ShortestPathDAG.cpp
+14:StronglyConnectedComponents.cpp
+
 
 
