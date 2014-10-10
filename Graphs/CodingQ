@@ -26,7 +26,9 @@ FindSearchCheck
 10:CheckIfGraphIsBipartite.cpp
 11:TransitiveClosure.cpp
 13:ShortestPathDAG.cpp
-14:StronglyConnectedComponents.cpp
+14:StronglyConnectedComponentsKosaraju.cpp
+15:ArticulationPoints.cpp
+
 
 
 
