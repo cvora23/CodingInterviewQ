@@ -28,6 +28,9 @@ FindSearchCheck
 13:ShortestPathDAG.cpp
 14:StronglyConnectedComponentsKosaraju.cpp
 15:ArticulationPoints.cpp
+16:BridgesInGraph.cpp
+17:BiconnectedGraph.cpp
+
 
 
 
