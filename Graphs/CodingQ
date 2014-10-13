@@ -18,6 +18,7 @@ Operations
 6:DetectCycleUnDirectedGraph.cpp
 12:TopologicalSorting.cpp
 20:FordFulkersonEdmondsKarpAlgo.cpp
+23:FleuryAlgoPrintingEuleriantour.cpp
 
 FindSearchCheck
 ==============================================================
@@ -34,6 +35,7 @@ FindSearchCheck
 18:ConnectivityDirectedGraph.cpp
 19:EuclerianPathAndCircuitUndirectedGraph.cpp
 21:MinimumCutInFlowNetwork.cpp
+22:MaxNoEdgeDisjointPathsBetweenTwoVertices.cpp
 
 
 
