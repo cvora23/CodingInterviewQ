@@ -7,3 +7,10 @@ Arrays
 4: FindFirstRepeatingElementInArrayofIntegers.cpp
 5: FindSmallestPositiveIntegerThatCannotBeRepresentedAsSumOfAnySubsetOfGivenArray.cpp
 6: RearrangeArrayAlternatePositiveNegativeItemsWithO1Space.cpp
+7: SortArrayAccordingOrderDefinedByAnotherArray.cpp
+8: SearchInAlmostSortedArray.cpp
+9: MaximumSumPathAccrossTwoArrays.cpp
+10:FindNextNumberSameSetOfDigits.cpp
+11:FindKClosestElementsToGivenValue.cpp
+
+
