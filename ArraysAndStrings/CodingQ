@@ -21,4 +21,13 @@ Arrays
 18:RearrangeArraySoThatArriBecomsArrArriWith01Space.cpp
 19:CountAllPathsFromTopLeftToBottomRightOfMxNMatrix.cpp
 20:CountDistinctPairsWithDifferenceEqualK.cpp
+21:MoveZeroEndOfArray.cpp
+22:FindMinInSortedAndRotated.cpp
+23:UnboundedBinarySearch.cpp
+24:FindElementsInArrayThatAppearsMoreThanNByKTimes.cpp
+25:PrintAllCombinationsOfRElementsINArraySizeN.cpp
+26:FindPeakINArray.cpp
+27:SortElementsByFrequency.cpp
+28:RearrangeArrayAlternatePositiveNegativeItemsWithO1Space2.cpp
+29:MaximumDifferenceTwoElementsSuchThatLargerElemenAfterSmallerElement.cpp
 
