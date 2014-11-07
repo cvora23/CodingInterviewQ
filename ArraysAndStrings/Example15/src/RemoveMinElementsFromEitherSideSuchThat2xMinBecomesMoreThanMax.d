@@ -1,0 +1,2 @@
+src/RemoveMinElementsFromEitherSideSuchThat2xMinBecomesMoreThanMax.d: \
+ ../src/RemoveMinElementsFromEitherSideSuchThat2xMinBecomesMoreThanMax.cpp

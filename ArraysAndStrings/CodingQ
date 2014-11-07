@@ -13,5 +13,9 @@ Arrays
 10:FindNextNumberSameSetOfDigits.cpp
 11:FindKClosestElementsToGivenValue.cpp
 12:CreateMatrixAlternatingRectanglesOandX.cpp
+13:SmallestSubarrayWithSumGreaterThanGivenValue.cpp
+14:FindSubarrayGivenSum.cpp
+15:RemoveMinElementsFromEitherSideSuchThat2xMinBecomesMoreThanMax.cpp
+16:
 
 
