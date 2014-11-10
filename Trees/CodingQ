@@ -4,77 +4,77 @@ Binary Trees Coding Questions
 Constructions - Destructions
 ==============================================================
 
-1: BinaryTreeConstructionanddeletion.cpp
-2: DeleteATree.cpp
-3: DeletingEntireBST.cpp
-4: DeletingNode.cpp
+1: BinaryTreeConstructionAndDeletion.cpp - EASY
+2: DeleteATree.cpp - MODERATE , Remember post order traversal of tree as it would delete the children then root
+3: DeletingEntireBST.cpp - MODERATE , Remember post order traversal of tree as it would delete the children then root
+4: DeletingNode.cpp - MODERATE, 3 different cases. Node has no child, 1 child and 2 children.
 
 TreeTraversal
 ========================================================================
-5: InorderTraversalWithoutRecursion.cpp
-6: IterativePostOrderTraversalOneStack.cpp
-7: IterativePostOrderTraversalTwoStacks.cpp
-8: IterativePreOrder.cpp
-9: LevelOrderTraversal.cpp
-10:LevelOrderTraversalSpiralForm.cpp
-11:ReverseLevelOrderTraversal.cpp
+5: InorderTraversalWithoutRecursion.cpp - MODERATE. Use stacks to travel deep
+6: IterativePostOrderTraversalOneStack.cpp - 
+7: IterativePostOrderTraversalTwoStacks.cpp - MODERATE. Reverese post order traversal. Use 2 stacks
+8: IterativePreOrder.cpp - EASY Use Stack
+9: LevelOrderTraversal.cpp EASY - Using Queue or Use Height/Level of tree
+10:LevelOrderTraversalSpiralForm.cpp - MODERATE Using two stacks or same Height/Level of tree
+11:ReverseLevelOrderTraversal.cpp - MODERATE Using Queue and Stack or Height/Level of tree 
 
 CountSize
 ========================================================================
-12:CountLeafNodesInBinaryTree.cpp
-13:SizeOfTree.cpp
+12:CountLeafNodesInBinaryTree.cpp - EASY
+13:SizeOfTree.cpp - EASY 
 
 HeightWidthDepthLevel
 ========================================================================
-14:DepthMaxorHeightofBinaryTree.cpp
-15:DepthOfDepestOddLevelLeafNode.cpp
-16:DiameterOfBinaryTree.cpp
-17:GetLevelOfNodeInBinaryTree.cpp
-18:IterativeMethodFindHeight.cpp
-19:MaxWidthOfBinaryTree.cpp
+14:DepthMaxorHeightofBinaryTree.cpp - EASY
+15:DepthOfDepestOddLevelLeafNode.cpp - EASY
+16:DiameterOfBinaryTree.cpp - DIFFICULT . Use Height property. Find diameters left, right and passing through root.
+17:GetLevelOfNodeInBinaryTree.cpp - EASY
+18:IterativeMethodFindHeight.cpp - MODERATE. Use Queue
+19:MaxWidthOfBinaryTree.cpp - MODERATE. Find width at each level.
 
 Calculation
 =========================================================================
-20:DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp
+20:DifferenceBetweenSumOfOddLevelAndEvenLevelNodes.cpp - EASY
 
 CheckOrVerifyOrFind
 =========================================================================
-21:CheckForChildrenSumProperty.cpp
-22:CheckIfBinaryTreeIsHeightBalanced.cpp
-23:CheckIfBinaryTreeIsSumTree.cpp
-24:CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp
-25:CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp
-26:CheckIfIdenticalTrees.cpp
-27:CheckIfLeavesAtSameLevel.cpp
-28:FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp
-29:FindInorderSuccessorForGivenNodeOfBST.cpp
-30:InorderSuccessorForAllNodes.cpp
-31:IsBST.cpp
-32:LargestBSTinBinaryTree.cpp
-33:RootToLeafPathSumEqualToGivenNumber.cpp
-34:TreeIsomorphism.cpp
-35:LCAinBST.cpp
-36:NodeWithMinimumValueInBST.cpp
+21:CheckForChildrenSumProperty.cpp - EASY. Recursively solve the question
+22:CheckIfBinaryTreeIsHeightBalanced.cpp - MODERATE. If Height getting calculated along with recursion a bit difficult.
+23:CheckIfBinaryTreeIsSumTree.cpp - EASY. Solve recursively. same as children sum property except the entire subtree.
+24:CheckIfBinaryTreeSubtreeOfAnotherBinaryTree.cpp - EASY. Recursive solution
+25:CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder.cpp - MODERATE. Descendants are either more or less than node.
+26:CheckIfIdenticalTrees.cpp - EASY. Recursively find the solution
+27:CheckIfLeavesAtSameLevel.cpp - EASY. Recursively find the solution
+28:FindIfThereisTripletInBalancedBSTWhichAddsToZero.cpp - MODERATE. Use an auxillary like DLL or array inorder traversal and sorted. 
+29:FindInorderSuccessorForGivenNodeOfBST.cpp - MODERATE. Use either parent node or without parent node.
+30:InorderSuccessorForAllNodes.cpp - MODERATE. Use reverese inorder traversal and set the successor for nodes recursively.
+31:IsBST.cpp - MODERATE. Use Inorder traversal and array or no array. 
+32:LargestBSTinBinaryTree.cpp - EASY. Use recursive solution
+33:RootToLeafPathSumEqualToGivenNumber.cpp - MODERATE. Use recursive
+34:TreeIsomorphism.cpp - MODERATE. Use recursive
+35:LCAinBST.cpp - MODERATE. LCA is between 2 two numbers n1 and n2.
+36:NodeWithMinimumValueInBST.cpp - EASY. Keep going to the left of the tree.
 
 Conversion
 ===============================================
 
-37:BinaryTreeToBST.cpp
-38:BinaryTreeToDoublyLinkedList.cpp
-39:CompleteBInaryTreeFromLinkedListRepresentation.cpp
-40:ConvertBST2BinaryTreeSuchThatSumOfAllGreaterKeysIsAddedToKey.cpp
-41:ConvertOrdinaryTreeToTreeThatHoldsChildrenSumProperty.cpp
-42:ConvertTreeToItsSumTree.cpp
-43:MergeTwoBalanceBST.cpp
-44:SortedArrayToBalancedBST.cpp
-45:SortedLinkedListToBalancedBST.cpp
+37:BinaryTreeToBST.cpp - MODERATE. Use Inorder traveral and array.
+38:BinaryTreeToDoublyLinkedList.cpp - MODERATE. Fix the left pointers first and then the right pointers.
+39:CompleteBInaryTreeFromLinkedListRepresentation.cpp - MODERATE. Use queue and 2*i+1 and 2*i+2 as two children
+40:ConvertBST2BinaryTreeSuchThatSumOfAllGreaterKeysIsAddedToKey.cpp - MODERATE. Use reverse in order traversal and recursively solve
+41:ConvertOrdinaryTreeToTreeThatHoldsChildrenSumProperty.cpp - DIFFICULT. recursively fix both sub trees.
+42:ConvertTreeToItsSumTree.cpp - MODERATE. Recursively fix sub trees.
+43:MergeTwoBalanceBST.cpp - MODERATE. Array to balanced BST.
+44:SortedArrayToBalancedBST.cpp - MODERATE. Array to balanced BST.
+45:SortedLinkedListToBalancedBST.cpp - MODERATE. LInked List to balanced BST. Same as array
 
 Printing
 =============================================================
 
-46:MaxSumLeafToRootPathInBinaryTree.cpp
-47:PrintAllRootToLeafPaths.cpp
-48:PrintBSTKeysInGivenRange.cpp
-49:PrintLeftView.cpp
-50:PrintNodesAtKDistanceFromRoot.cpp
-51:RecursivePrintAncestors.cpp
+46:MaxSumLeafToRootPathInBinaryTree.cpp - MODERATE. Find the target leaf and print the path.
+47:PrintAllRootToLeafPaths.cpp - MODERATE. Keep going down and find paths and print them.
+48:PrintBSTKeysInGivenRange.cpp - 	MODERATE. Keep searching left and right subtrees for given range of keys.
+49:PrintLeftView.cpp - MODERATE. Left view is first node at each level. print them one by one.
+50:PrintNodesAtKDistanceFromRoot.cpp - EASY. RECURSIVELY DECREASE LEVEL AND IF LEVEL 0 THEN PRINT THE Node.
+51:RecursivePrintAncestors.cpp - MODERATE. Recursively check left and right tree to find ancestors.

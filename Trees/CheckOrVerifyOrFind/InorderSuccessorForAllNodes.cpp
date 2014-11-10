@@ -58,7 +58,7 @@ void populateNext(struct node* p)
         // Change the prev for subsequent node
         next = p;
 
-        // Finally, set the next pointer in right subtree
+        // Finally, set the next pointer in left subtree
         populateNext(p->left);
     }
 }

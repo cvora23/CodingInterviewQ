@@ -35,6 +35,16 @@ void insert(struct btree **q,int num)
      return;
 }
 
+// A utility function to print inorder traversal of a Binary Tree
+void printInorder (treeNode* node)
+{
+    if (node == NULL)
+        return;
+    printInorder(node->left);
+    printf("%d ", node->data);
+    printInorder(node->right);
+}
+
 
 
 int main()
@@ -55,6 +65,8 @@ int main()
           insert(&p,data[i]);
      //     cout<<p<<endl;
     }
+
+    printInorder(p);
 
     return 0;
 }

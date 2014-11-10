@@ -74,7 +74,7 @@ treeNode* FindMax(treeNode *node)
                 return NULL;
         }
         if(node->right) /* Go to the right sub tree to find the max element */
-                FindMax(node->right);
+                return FindMax(node->right);
         else
                 return node;
 }
