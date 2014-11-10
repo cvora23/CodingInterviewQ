@@ -71,7 +71,6 @@ void removeLoop3(struct node *, struct node *);
  * they will each be k nodes from LoopStart. Moving two pointers at the same speed will
  * cause them to collide again - this time after k steps, at which point they
  * will be both at LoopStart. All we have to do is return this node.
- *
  */
 int detectAndRemoveLoop(struct node *list)
 {

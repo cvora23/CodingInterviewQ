@@ -111,6 +111,7 @@ int main(void)
 {
     /* Start with the empty list */
     struct node* head = NULL;
+    int k = 3;
 
     // create a list 1->2->3->4->5...... ->20
     for(int i = 20; i > 0; i--)
@@ -118,7 +119,10 @@ int main(void)
 
      printf("\n Given linked list \n");
      printList(head);
-     head = kAltReverse(head, 3);
+     head = kAltReverse(head, k);
+
+
+     printf("\n \n k = %d \n",k);
 
      printf("\n Modified Linked list \n");
      printList(head);

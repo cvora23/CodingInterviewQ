@@ -4,115 +4,62 @@ Linked List (Some of the problems are from Cracking the coding interview)
 CreationDeletion
 ===================================
 
-1: AddingNodeUsingRecursion.cpp
-2: Append-AddAfter-Delete.cpp
-3: Ascending_Order_Adding_Deleting.cpp
-4: DeleteAlternateNodesLinkedList.cpp
-5: DeleteNodeDoublyLinkedList.cpp
-6: DeleteNodeUnderGivenConstraints.cpp
-7: DelNodesWhichHaveGreaterValueOnRightSide.cpp
-8: DoublyLinked.cpp
-9: FlattenMultiLevelLinkList.cpp
-10:GivenAPointerToNodeDeleteIt.cpp
-11:LinkedListAsCircularQueue.cpp
-12:MemoryEfficientDoublyXORLinkedList.cpp
+1: AddingNodeUsingRecursion.cpp - EASY. Recursive solution
+2: Append-AddAfter-Delete.cpp - EASY
+3: Ascending_Order_Adding_Deleting.cpp - EASY
+4: DeleteAlternateNodesLinkedList.cpp - EASY. Recursive or iterative soln.
+5: DeleteNodeDoublyLinkedList.cpp - MODERATE. Change next and prev based on conditions.
+6: DeleteNodeUnderGivenConstraints.cpp - EASY
+7: DelNodesWhichHaveGreaterValueOnRightSide.cpp - MODERATE. Reverse linked list and compare with max so far.
+8: DoublyLinked.cpp - EASY.
+9: FlattenMultiLevelLinkList.cpp - MODERATE. Keeping appending child nodes at end of current level nodes tail.
+10:GivenAPointerToNodeDeleteIt.cpp - EASY.
+11:LinkedListAsCircularQueue.cpp - EASY
+12:MemoryEfficientDoublyXORLinkedList.cpp - MODERATE. XOR the next and prev
 
 CheckCountFindSearchPrint
 ==============================================
 
-13:CheckIfLinkListEqualByRecursion.cpp
-14:CountNumberOfTimesAnIntegerOccurs.cpp
-15:DeleteDuplicate.cpp
-16:FindTripletFromLinkedListEqualToSum.cpp
-17:GetNthNode.cpp
-18:IdenticalLinkedList.cpp
-19:IntersectionPointOfTwoLinkedList.cpp
-20:PrintMiddleElement.cpp
-21:RecursiveFunctionPrintReverseLinkedList.cpp
-22:CheckIfPalindrome.cpp
-23:NthNodeFromEnd.cpp
+13:CheckIfLinkListEqualByRecursion.cpp - EASY
+14:CountNumberOfTimesAnIntegerOccurs.cpp - EASY
+15:DeleteDuplicate.cpp - EQUAL
+16:FindTripletFromLinkedListEqualToSum.cpp - MODERATE. Sort Ascending one list and descending other list. Use 3 list to find sum.
+17:GetNthNode.cpp - EASY
+18:IdenticalLinkedList.cpp - EASY
+19:IntersectionPointOfTwoLinkedList.cpp - MODERATE
+20:PrintMiddleElement.cpp - MODERATE. Use either two pointer hair and tortoise approach. Or update count if odd elements method.
+21:RecursiveFunctionPrintReverseLinkedList.cpp - EASY. Check for base case.
+22:CheckIfPalindrome.cpp - MODERATE. Use stack. Or use reverse approach half and compare.
+23:NthNodeFromEnd.cpp - MODEARATE. Use either recursive approach or two pointer approach.
 
 Operations
 ===================================================
 
 24:AddTwoNumbersRepresentedByLinkedList.cpp
-25:AlternatingSplit.cpp
-26:ConcatenatLinkList.cpp
-27:CopyLinkListUsingRecursion.cpp
-28:DetectAndRemoveLoopInLinkedList.cpp
-29:EraseAllNodes_CountByRecursion.cpp
-30:EraseAllNodes.cpp
-31:IntersectionOfSortedLinkedList.cpp
-32:MergeLinkListAtAlternatePositions.cpp
-33:MergeTwoSortedLinkedList.cpp
-34:MergingALinkedList.cpp
-35:ModifyHeadPointer.cpp
-36:MoveLastNodeToFrontOfLinkedList.cpp
-37:PairWiseSwap.cpp
-38:PartitionLinkedList.cpp
-39:RemoveDuplicatesSortedLinkedList.cpp
-40:RemoveDuplicatesUnsortedLinkedList.cpp
-41:ReverseAlternateKNodes.cpp
-42:ReverseDoublyLinkList.cpp
-43:ReverseLinkList.cpp
-44:ReverseLinkListInGroupsOfGivenSize.cpp
-45:RotateLinkedListToKNodes.cpp
-46:SegregateOddAndEven.cpp
-47:skipMDeleteN.cpp
-48:SortedInsert.cpp
-49:SortedInsertForCircularLinkedList.cpp
-50:SplitCircularLinkedList.cpp
-51:UnionAndIntersectionOfLinkedList.cpp
-
-
-AddingNodeUsingRecursion
-Append-AddAfter-Delete
-Ascending_Order_Adding_Deleting
-DeleteAlternateNodesLinkedList
-DeleteNodeDoublyLinkedList
-DeleteNodeUnderGivenConstraints
-DelNodesWhichHaveGreaterValueOnRightSide
-DoublyLinked
-FlattenMultiLevelLinkList
-GivenAPointerToNodeDeleteIt
-LinkedListAsCircularQueue
-MemoryEfficientDoublyXORLinkedList
-CheckIfLinkListEqualBy Recursion
-CheckIfPalindrome
-CountNumberOfTimesAnIntegerOccurs
-DeleteDuplicate
-FindTripletFromLinkedListEqualToSum
-GetNthNode
-IdenticalLinkedList
-IntersectionPointOfTwoLinkedList
-NthNodeFromEnd
-PrintMiddleElement
-RecursiveFunctionPrintReverseLinkedList
-AddTwoNumbersRepresentedByLinkedList
-AlternatingSplit
-ConcatenatLinkList
-CopyLinkListUsingRecursion
-DetectAndRemoveLoopInLinkedList
-EraseAllNodes_CountByRecursion
-EraseAllNodes
-IntersectionOfSortedLinkedList
-MergeLinkListAtAlternatePositions
-MergeTwoSortedLinkedList
-Merging a linked list
-ModifyHeadPointer
-MoveLastNodeToFrontOfLinkedList
-PairWiseSwap
-RemoveDuplicatesSortedLinkedList
-RemoveDuplicatesUnsortedLinkedList
-ReverseAlternateKNodes
-ReverseLinkList
-ReverseDoublyLinkList
-ReverseLinkListInGroupsOfGivenSize
-RotateLinkedListToKNodes
-SegregateOddAndEven
-skipMDeleteN
-SortedInsert
-SortedInsertForCircularLinkedList
-SplitCircularLinkedList
-UnionAndIntersectionOfLinkedList
-
+25:AlternatingSplit.cpp - MODERATE. Move nodes from source to 2 different dest links with odd and even elements.
+26:ConcatenatLinkList.cpp - EASY.
+27:CopyLinkListUsingRecursion.cpp - MODERATE. 
+28:DetectAndRemoveLoopInLinkedList.cpp - 
+29:EraseAllNodes_CountByRecursion.cpp - EASY
+30:EraseAllNodes.cpp - EASY
+31:IntersectionOfSortedLinkedList.cpp - MODERATE. Recursive and iterative soln
+32:MergeLinkListAtAlternatePositions.cpp - MODERATE. Second list gets modified after merging.
+33:MergeTwoSortedLinkedList.cpp - EASY.
+34:MergingALinkedList.cpp  - EASY
+35:ModifyHeadPointer.cpp - EASY
+36:MoveLastNodeToFrontOfLinkedList.cpp - EASY. Second last, last and first node will have changes.
+37:PairWiseSwap.cpp - MODERATE. Recursive and Iterative soln
+38:PartitionLinkedList.cpp - MODERATE. Split into two , one with less than given element and other with more than given element and merge.
+39:RemoveDuplicatesSortedLinkedList.cpp - EASY. Remove duplicates and update list
+40:RemoveDuplicatesUnsortedLinkedList.cpp - MODERATE. Either use two loops or use external container like vector or something.
+41:ReverseAlternateKNodes.cpp - MODERATE. Reverse k nodes and solve recursively.
+42:ReverseDoublyLinkList.cpp - MODERATE.
+43:ReverseLinkList.cpp - MODERATE
+44:ReverseLinkListInGroupsOfGivenSize.cpp - MODERATE
+45:RotateLinkedListToKNodes.cpp - MODERATE
+46:SegregateOddAndEven.cpp - MODERATE. Split odd and even and merge. - MODERATE. 
+47:skipMDeleteN.cpp - EASY
+48:SortedInsert.cpp - EASY
+49:SortedInsertForCircularLinkedList.cpp - EASY. 3 different cases. empty list, before head and in between.
+50:SplitCircularLinkedList.cpp - MODERATE. Make both the split list circular.
+51:UnionAndIntersectionOfLinkedList.cpp - MODERATE.

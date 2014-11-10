@@ -127,7 +127,7 @@ void recursiveReverse3(struct node** head_ref)
 
     /* reverse the rest list and put the first element at the end */
     recursiveReverse3(&rest);
-    first->link->link  = first;
+    rest->link  = first;
 
     /* tricky step -- see the diagram */
     first->link  = NULL;
