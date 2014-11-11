@@ -1,16 +1,10 @@
 /*
- * FindAndColorCodeNoIslands.cpp
- *
- *  Created on: Oct 8, 2014
- *      Author: cvora
- */
-
-/*
  * FindNoIslands.cpp
  *
  *  Created on: Oct 8, 2014
  *      Author: cvora
  */
+
 /*
  * Given a boolean 2D matrix, find the number of islands.
  * This is an variation of the standard problem: “Counting number of connected components in a undirected graph”.

@@ -63,6 +63,7 @@ void Graph::addEdge(int v, int w)
     adj[v].push_back(w); // Add w to v’s list.
 }
 
+// http://www.youtube.com/watch?v=zLZhSSXAwxI
 void Graph::BFS(int s)
 {
     // Mark all the vertices as not visited

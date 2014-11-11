@@ -15,7 +15,6 @@ class Graph
 {
     int V;    // No. of vertices
     list<int> *adj;    // Pointer to an array containing adjacency lists
-    void DFSUtil(int v, bool visited[]);  // A function used by DFS
 public:
     Graph(int V);   // Constructor
     void addEdge(int v, int w);   // function to add an edge to graph

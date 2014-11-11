@@ -80,6 +80,7 @@ void Graph::DFSUtilIterative(int v,bool visited[]){
     bool allVisited = true;
 
     while(!S.empty()){
+
     	allVisited = true;
     	u = S.top();
     	if(!visited[u]){
