@@ -77,6 +77,7 @@ void MinHeap::BubbleUp(int index)
 
     if(_vector[parentIndex] > _vector[index])
     {
+        //need to swap
         int temp = _vector[parentIndex];
         _vector[parentIndex] = _vector[index];
         _vector[index] = temp;

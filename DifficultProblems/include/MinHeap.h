@@ -21,15 +21,19 @@ using namespace std;
  * Background
  * There are several background topics I need to cover here: binary heap, a binary tree representation using an
  * array and the complexity of constructing the heap.
+ *
  * First the binary heap, a binary heap is a complete binary tree, in which every node is less than its left and right child nodes.
  * It is easy to see, due to this definition, that the minimum value of the entire heap will always be the root.
+ *
  * The second topic is binary tree representation using an array, basically the rules are as follows:
  * 	1: The left child of node in index i is: 2*i+1
  * 	2: The right child of node in index i is: 2*i+2
  * 	3: The parent of the node in index i is: (int)((i-1)/2)
  * The root of the tree is in index 0, its left child is in index 1 and its right child is in index 2 and so on.
+ *
  * The third topic is construction of the heap, before explaining how the heap is built,
  * I'll explain two operations, which help performing all the operations available for the heap data structure:
+ *
  * 1: BubbleDown - BubbleDown of a node means: if the node is violating the min heap rule, meaning it is not smaller
  * than both its children, switch it with its minimum child node. Continue doing this recursively until the node
  * is no longer violating the heap rule.
