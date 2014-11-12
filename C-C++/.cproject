@@ -93,7 +93,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -144,7 +144,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -198,8 +198,8 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
+						<entry excluding="ReferencesCPlusPlus.cpp|WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
 				</configuration>
@@ -252,7 +252,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="DeepVsShallowCopy.cpp|WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -306,9 +306,9 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="AlignedMalloc.cpp|2DAlloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -360,9 +360,9 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -414,7 +414,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -468,7 +468,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -522,7 +522,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -576,7 +576,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -630,7 +630,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -684,7 +684,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -738,7 +738,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -792,7 +792,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -846,7 +846,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -900,7 +900,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -954,7 +954,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1008,7 +1008,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1062,7 +1062,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1116,7 +1116,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1170,7 +1170,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1224,7 +1224,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1278,7 +1278,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1332,7 +1332,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1386,7 +1386,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1440,7 +1440,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1494,7 +1494,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1548,7 +1548,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1602,7 +1602,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1656,7 +1656,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1710,7 +1710,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1764,7 +1764,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1818,7 +1818,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1872,7 +1872,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1926,7 +1926,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -1980,7 +1980,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
@@ -2034,7 +2034,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>

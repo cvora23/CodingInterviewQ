@@ -17,7 +17,7 @@ int** Alloc2DSol1(int noRows,int noColumns){
 	int i;
 	rowPtr = (int**)malloc(noRows * sizeof(int*));
 	for(int i = 0;i<noRows;i++){
-		rowPtr[i] = (int*)malloc(noColumns * sizeof(int*));
+		rowPtr[i] = (int*)malloc(noColumns * sizeof(int));
 	}
 	return rowPtr;
 }
