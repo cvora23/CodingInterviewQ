@@ -1,7 +1,15 @@
 Difficult Questions 
-====================================
+=====================================================
 
 1:LRUImpl.cpp
 2:MaxSubarraySharesDAndQAlgo.cpp
 3:MinHeapTest.cpp
 4:MergeKSortedArrays.cpp
+
+
+
+Divide and Conquer
+=====================================================
+5:FindNumberOfZeros.cpp
+6:FindMinSortedRotatedArray.cpp
+7:UnboundedBinarySearch.cpp
