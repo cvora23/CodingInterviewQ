@@ -198,7 +198,7 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ReferencesCPlusPlus.cpp|WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
+						<entry excluding="ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
 						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
 						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
 					</sourceEntries>
