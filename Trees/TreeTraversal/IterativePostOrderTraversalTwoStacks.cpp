@@ -32,6 +32,16 @@ struct Node* newNode(int data)
     return node;
 }
 
+// recursive
+void printPostorder(Node* node){
+
+	if(node == NULL)
+		return;
+	printPostorder(node->left);
+	printPostorder(node->right);
+	cout<<"node->data:"<<node->data<<endl;
+}
+
 /*
  * Iterative post order is more complex than other two traversals
  * (due to its nature of non-trails recursion, there is an extra statement

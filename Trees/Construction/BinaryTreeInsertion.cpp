@@ -28,9 +28,9 @@ void insert(struct btree **q,int num)
      else
      {
          if(num<((*q)->data))
-         insert(&((*q)->left),num);
+        	 insert(&((*q)->left),num);
          else
-         insert(&((*q)->right),num);
+        	 insert(&((*q)->right),num);
      }
      return;
 }
@@ -44,7 +44,6 @@ void printInorder (treeNode* node)
     printf("%d ", node->data);
     printInorder(node->right);
 }
-
 
 
 int main()
