@@ -1,0 +1,13 @@
+
+1: GraphBuildingInCPlusPlus - 	Use Pointer to array containing adjacency lists. Add edges functionality. Print functionality.
+2: BreadthFirstTraversal - 	Use queue and iterative procedure. Remember visited nodes. 
+3: DepthFirstTraversal - 	Use stack and iterative procedure. Or use recursive procedure. Visited nodes is a must in both approaches.
+4: DetectCycleDirectedGraph - 	Use DFS from each node to detect cycle in directed graph. Find back edges if any. If back edges are present that means there is a cycle.
+			      	Along with visited nodes array, use recursion stack array. If we reach a vertex that is already in recursion stack, there is a cycle in tree.
+5: DetectCycleUnDirectedGraph - Use DFS from each node to detect cycle in directed graph. Find back edges if any. If back edges are present that means there is a cycle.
+			      	Along with visited nodes array, use parent node this time.
+
+6: TopologicalSorting - 	Use DFS from each node along with stack. Keep inserting in the stacks elements with least outgoing edges. Top of the stack would be element with most 					outgoing edges.
+7: FindIfPathBet2Vertices - 	Use BFS to search all paths. If source and destination along BFS path then great.
+8: FindNoIslands - 		The problem can be easily solved by applying DFS() on each component.In each DFS() call, a component or a sub-graph is visited. We will call DFS 					on the next un-visited component. The number of calls to DFS() gives the number of connected components. BFS can also be used.
+9: FindAndColorCodeNoIslands -  Exactly same as above. Just color islands with specific numbers.
