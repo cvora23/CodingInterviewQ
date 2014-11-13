@@ -45,6 +45,8 @@
 #include <list>
 #include <limits.h>
 
+#include "require.h"
+
 using namespace std;
 
 class Graph
@@ -87,7 +89,6 @@ bool Graph::isCyclicUtil(int v, bool visited[], bool recStack[])
         	 * in an infinite loop
         	 */
             if ( !visited[*i] && isCyclicUtil(*i, visited, recStack) ){
-            	//cout<<"Cycle from vertex "<<v<<" to vertex "<<*i<<endl;
                 return true;
             }
             /*
@@ -123,9 +124,12 @@ bool Graph::isCyclic()
 
     // Call the recursive helper function to detect cycle in different
     // DFS trees
-    for(int i = 0; i < V; i++)
+    for(int i = 0; i < V; i++){
         if (isCyclicUtil(i, visited, recStack))
             return true;
+        else
+        	printArray(recStack,V);
+    }
 
     return false;
 }

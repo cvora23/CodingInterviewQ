@@ -64,7 +64,7 @@
 								<option id="gnu.cpp.compiler.exe.debug.option.optimization.level.1831559688" name="Optimization Level" superClass="gnu.cpp.compiler.exe.debug.option.optimization.level" value="gnu.cpp.compiler.optimization.level.none" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.2003214736" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.option.include.paths.396796418" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="../EclipseTemplateProject/EclipseTemplateProject/include"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.130011240" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -72,7 +72,7 @@
 								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.exe.debug.option.optimization.level.49439086" name="Optimization Level" superClass="gnu.c.compiler.exe.debug.option.optimization.level" valueType="enumerated"/>
 								<option id="gnu.c.compiler.exe.debug.option.debugging.level.866650945" name="Debug Level" superClass="gnu.c.compiler.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.c.compiler.option.include.paths.2068465633" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="../EclipseTemplateProject/EclipseTemplateProject/include"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/include}&quot;"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.11518290" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
@@ -2084,7 +2084,119 @@
 		<project id="Ch03Project.cdt.managedbuild.target.gnu.exe.1092480662" name="Executable" projectType="cdt.managedbuild.target.gnu.exe"/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
-	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Example28">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example29">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example20">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example21">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example22">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example23">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example24">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example25">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example26">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example27">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Debug">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Release">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example17">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example18">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example19">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example1">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example31">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example10">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example32">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example11">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example33">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example12">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example34">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example13">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example35">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example14">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example15">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example16">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example9">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example8">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example7">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example6">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example5">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example4">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example3">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example2">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+		<configuration configurationName="Example30">
+			<resource resourceType="PROJECT" workspacePath="/Graphs"/>
+		</configuration>
+	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.debug.2114143187;cdt.managedbuild.config.gnu.exe.debug.2114143187.;cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.196165482;cdt.managedbuild.tool.gnu.cpp.compiler.input.130011240">

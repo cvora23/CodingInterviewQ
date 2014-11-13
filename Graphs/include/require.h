@@ -76,4 +76,26 @@ int getRand(){
 	return rand()%10;
 }
 
+template <typename Type>
+void printArray(Type array[],int size){
+
+using namespace std;
+
+	for(int i=0;i<size;i++){
+		cout<<array[i]<< " ";
+	}
+	cout<<endl;
+}
+
+template <typename Type>
+void printArray2(Type &array,int size){
+using namespace std;
+
+	for(int i=0;i<size;i++){
+		cout<<array[i]<< " ";
+	}
+	cout<<endl;
+}
+
+
 #endif /* REQUIRE_H_ */
