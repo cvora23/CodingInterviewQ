@@ -1,0 +1,37 @@
+1: Deleting a tree – Use post order traversal. Left, right and root. As this will delete the children before parent.
+2: Deleting a Node- 3 different cases: node with no child, 1 child and 2 children.
+    0 Child – Just delete it.
+    1 Child – copy child to node and delete the old node.
+    2 Children – Find the minimum on right side of node. Copy it. And delete that minimum node found right side.
+3: InOrderTraversalWithoutRecursion - Use stack for all traversals of trees as they help going down. First take care of left side, then root and then right.
+4: PreOrderTraversalWithoutRecursion - Use 1 stack.          
+5: PostOrderTraversalWithoutRecursion - Use 2 stacks. Use reverse post order thinking which is actually pre-order but with root right and left. So use 1st stack to traverse pre-order first (root, right and left) and then use second stack to print actual post order traversal.
+6: SpiralLevelOrderTraversal - Use 2 stacks. 1 to travel left to right, 2nd to travel right to left. Or you can also height/level methods
+7: ReverseLevelOrderTraversal - Use height/level method. Use stack and queue to traverse in reverse fashion.
+8:DiameterOfBinaryTree - Use height/level to find the diameter. max(lheight+rheight+1,max(ldiameter,rdiameter)) 
+9:IterativeHeight - Use queue.
+10:MaxWidth - Use iterative or recursive approach to find width of each level and calculate max from them.
+11:CheckIfBinaryTreeIsHeightBalanced - Calculate height left and right and check if difference is not more than 1
+12:CheckIfEachInternalNodeOfBSTHasExactlyOneChildGivenPreOrder - Use two loops to find that all remaining values in array are either more or less than selected element.
+								OR find next preorder successor and last preorder successor. If both are greater or less then continue. or else false.
+13:FindIfThereisTripletInBalancedBSTWhichAddsToZero - Use either brute force. OR Inorder traversal, store in array. sort array and find triplets.
+14:FindInorderSuccessorForGivenNodeOfBST - Use either array and find. 
+					OR  Iterative , If right is not null, min value on right side is in order successor. If right is null then iterate to find successor either left or 						    right side of tree depending on less or more than current node value.
+15:InorderSuccessorForAllNodes - reverse inorder traversal and find inorder successor for all nodes.
+16:IsBST - Use inorder traversal. If using array, if array is sorted then true or else. If not using array then find prev of each node and compare while traversing in order.
+17:RootToLeafPathSumEqualToGivenNumber - Keep recursing down and check the sum. If found then true or else false.
+18:TreeIsomorphism - Check recursively for flipped version or regular version of isomorphism.
+19:LCAinBST - If root data is less than both numbers, LCA is on right side or else left side. Keep recursing until you branch out.
+20:BinaryTreeToBST - As structure has to be maintained, store inorder in array. sort array. insert from array to binary tree again.
+21:BinaryTreeToDoublyLinkedList - Use left as previous pointer and right as next pointer. First fix the previous pointers recursively. Then fix the next pointers recursively.
+22:CompleteBInaryTreeFromLinkedListRepresentation - Use queue traversing level order from linked list and keep filing left and right child of tree node.
+23:ConvertBST2BinaryTreeSuchThatSumOfAllGreaterKeysIsAddedToKey - Use reverse inorder traversal to fix the problem.
+24:MergeTwoBalanceBST - Use two sorted arrays to capture data from both data. Merge arrays . Add array data back to resulting tree.
+25:ConvertTreeToItsSumTree - Recursively fix sub trees. Leaf nodes values must be 0.
+26:SortedArrayToBalancedBST/SortedLinkedListToBalancedBST - Use inorder traversal technique to fill tree using values from array.
+27:ConvertOrdinaryTreeToTreeThatHoldsChildrenSumProperty - WAIT FOR IT !!!!
+28:MaxSumLeafToRootPathInBinaryTree - First find the target node with max sum to leaf. Then use the target node and print the path from root.
+29:PrintAllRootToLeafPaths - Use big array to print all root to leaf paths. Recursively solve the problem.
+30:PrintBSTKeysInGivenRange - Keep recursing left and right to find elements.
+31:PrintLeftView - First node at each level is left view of tree.
+32:RecursivePrintAncestors - Recursive solution. If target is present in tree, then print the ancestor and return true or return false.
