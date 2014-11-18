@@ -64,7 +64,7 @@
 								<option id="gnu.cpp.compiler.exe.debug.option.optimization.level.1831559688" name="Optimization Level" superClass="gnu.cpp.compiler.exe.debug.option.optimization.level" value="gnu.cpp.compiler.optimization.level.none" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.2003214736" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.cpp.compiler.option.include.paths.396796418" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+									<listOptionValue builtIn="false" value="/home/cvora/cvoragit/CodingInterviewQ/C-C++/EclipseTemplateProject/EclipseTemplateProject/include"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.130011240" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
 							</tool>
@@ -72,7 +72,7 @@
 								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.exe.debug.option.optimization.level.49439086" name="Optimization Level" superClass="gnu.c.compiler.exe.debug.option.optimization.level" valueType="enumerated"/>
 								<option id="gnu.c.compiler.exe.debug.option.debugging.level.866650945" name="Debug Level" superClass="gnu.c.compiler.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
 								<option id="gnu.c.compiler.option.include.paths.2068465633" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+									<listOptionValue builtIn="false" value="/home/cvora/cvoragit/CodingInterviewQ/C-C++/EclipseTemplateProject/EclipseTemplateProject/include"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.11518290" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
@@ -85,17 +85,15 @@
 							</tool>
 							<tool id="cdt.managedbuild.tool.gnu.assembler.exe.debug.594620267" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.exe.debug">
 								<option id="gnu.both.asm.option.include.paths.2076450964" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+									<listOptionValue builtIn="false" value="/home/cvora/cvoragit/CodingInterviewQ/C-C++/EclipseTemplateProject/EclipseTemplateProject/include"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1704708694" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
 							</tool>
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjects|InlineFunc|ReferenceVariables|Concepts|DefaultArgs|CvsC++|FunctionOverloading|IO|ClassAndObjs|NewAndDelete|Memory" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -143,10 +141,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -197,10 +193,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -251,10 +245,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="DeepVsShallowCopy.cpp|WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -305,10 +297,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="AlignedMalloc.cpp|2DAlloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -359,10 +349,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -413,10 +401,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -467,10 +453,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -521,10 +505,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -575,10 +557,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -629,10 +609,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -683,10 +661,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -737,10 +713,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -791,10 +765,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -845,10 +817,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -899,10 +869,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -953,10 +921,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1007,10 +973,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1061,10 +1025,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1115,10 +1077,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1169,10 +1129,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1223,10 +1181,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1277,10 +1233,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1331,10 +1285,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1385,10 +1337,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1439,10 +1389,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1493,10 +1441,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1547,10 +1493,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1601,10 +1545,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1655,10 +1597,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1709,10 +1649,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1763,10 +1701,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1817,10 +1753,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1871,10 +1805,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1925,10 +1857,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1979,10 +1909,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2033,10 +1961,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="WriteProgramProducingDifferentResultsInCAndCPlusPlus.cpp|VoidPointerDifferenceInCAndCPlusPlus.cpp|TypeDifferenceCharLiteralsCAndCPlusPlus.cpp|ReferencesVsPointers.cpp|ReferencesCPlusPlus.cpp|NameManglingExternCAndCPlusPlus.cpp|DeepVsShallowCopy.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts"/>
-						<entry excluding="PrintLastKLinesOfFile.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="IO"/>
-						<entry excluding="2DAlloc.cpp|AlignedMalloc.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Memory"/>
+						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2047,7 +1973,119 @@
 		<project id="Ch03Project.cdt.managedbuild.target.gnu.exe.1092480662" name="Executable" projectType="cdt.managedbuild.target.gnu.exe"/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
-	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Example28">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example29">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example20">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example21">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example22">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example23">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example24">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example25">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example26">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example27">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Debug">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Release">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example17">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example18">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example19">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example1">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example31">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example10">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example32">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example11">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example33">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example12">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example34">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example13">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example35">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example14">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example15">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example16">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example9">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example8">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example7">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example6">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example5">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example4">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example3">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example2">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+		<configuration configurationName="Example30">
+			<resource resourceType="PROJECT" workspacePath="/C-C++"/>
+		</configuration>
+	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.debug.2114143187;cdt.managedbuild.config.gnu.exe.debug.2114143187.;cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.196165482;cdt.managedbuild.tool.gnu.cpp.compiler.input.130011240">
