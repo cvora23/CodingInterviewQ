@@ -92,8 +92,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjects|InlineFunc|ReferenceVariables|Concepts|DefaultArgs|CvsC++|FunctionOverloading|IO|ClassAndObjs|NewAndDelete|Memory" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjects|InlineFunc|ReferenceVariables|Concepts|DefaultArgs|CvsC++|FunctionOverloading|IO|ClassAndObjs|NewAndDelete|Memory" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -141,8 +141,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -193,8 +193,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -245,8 +245,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -297,8 +297,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -349,8 +349,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -401,8 +401,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -453,8 +453,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -505,8 +505,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -557,8 +557,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -609,8 +609,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -661,8 +661,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -713,8 +713,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -765,8 +765,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -817,8 +817,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -869,8 +869,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -921,8 +921,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -973,8 +973,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1025,8 +1025,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1077,8 +1077,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1129,8 +1129,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1181,8 +1181,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1233,8 +1233,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1285,8 +1285,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1337,8 +1337,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1389,8 +1389,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1441,8 +1441,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1493,8 +1493,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1545,8 +1545,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1597,8 +1597,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1649,8 +1649,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1701,8 +1701,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1753,8 +1753,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1805,8 +1805,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1857,8 +1857,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1909,8 +1909,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1961,8 +1961,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="ThisPointer.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ThisPointer"/>
+						<entry excluding="ConstructorDestructor|ThisPointer|StaticMembers|ObjectsAndClasses|ClassAndObjs|ClassAndObjects|NewAndDelete|InlineFunc|DefaultArgs|FunctionOverloading|ReferenceVariables|CvsC++|Memory|Concepts|IO|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Concepts/ConstructorDestructor"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
