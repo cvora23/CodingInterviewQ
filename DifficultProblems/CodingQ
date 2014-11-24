@@ -6,10 +6,18 @@ Difficult Questions
 3:MinHeapTest.cpp
 4:MergeKSortedArrays.cpp
 
-
-
 Divide and Conquer
 =====================================================
-5:FindNumberOfZeros.cpp
-6:FindMinSortedRotatedArray.cpp
-7:UnboundedBinarySearch.cpp
+5:	FindNumberOfZeros.cpp
+6:	FindMinSortedRotatedArray.cpp
+7:	UnboundedBinarySearch.cpp
+8:	FindPeakINArray.cpp
+9:	MaxSubArraySum.cpp
+10:	MaxElemInArrayFirstIncreasingThenDecreasing.cpp
+11:	MedianTwoSortedArraysEqualSize.cpp
+12:	FindFixedPointInGivenArray.cpp
+13: CountNoOccurencesInSortedArray.cpp
+14: MaxMinInArrayWithMinComparisons.cpp
+15: MajorityElementInSortedArray.cpp
+16: CountInversionsInAnArray.cpp
+17: PowerOfNum.cpp

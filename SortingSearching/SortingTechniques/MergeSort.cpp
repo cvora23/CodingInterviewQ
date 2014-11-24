@@ -33,14 +33,6 @@ int main()
     display(list,SIZE);
 }
 
-void swap(int *x,int *y)
-{
-    int temp;
-    temp = *x;
-    *x = *y;
-    *y = temp;
-}
-
 void merge(int a[], int low, int mid, int high)
 {
     int b[10000];
