@@ -8,6 +8,7 @@ Difficult Questions
 
 Divide and Conquer
 =====================================================
+
 5:	FindNumberOfZeros.cpp
 6:	FindMinSortedRotatedArray.cpp
 7:	UnboundedBinarySearch.cpp
@@ -21,3 +22,11 @@ Divide and Conquer
 15: MajorityElementInSortedArray.cpp
 16: CountInversionsInAnArray.cpp
 17: PowerOfNum.cpp
+
+Dynamic Programming
+======================================================
+
+18: LargestSumContiguousSubarray.cpp
+19: NthFibonnaciNumber.cpp
+20: LengthOfLongestSubstringWithoutRepeatingChars.cpp
+21: DynamicProgrammingOverlappingSubproblemsProperty.cpp
