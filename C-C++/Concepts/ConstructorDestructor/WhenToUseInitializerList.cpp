@@ -7,7 +7,9 @@
 
 /*
  * When do we use Initializer List in C++?
-Initializer List is used to initialize data members of a class. The list of members to be initialized is indicated with constructor as a comma separated list followed by a colon. Following is an example that uses initializer list to initialize x and y of Point class.
+Initializer List is used to initialize data members of a class. The list of members to be initialized is indicated
+with constructor as a comma separated list followed by a colon. Following is an example that uses initializer list
+to initialize x and y of Point class.
 
 #include<iostream>
 using namespace std;
@@ -39,10 +41,13 @@ int main() {
  OUTPUT:
    x = 10, y = 15
 
-The above code is just an example for syntax of Initializer list. In the above code, x and y can also be easily initialed inside the constructor. But there are situations where initialization of data members inside constructor doesn’t work and Initializer List must be used. Following are such cases:
+The above code is just an example for syntax of Initializer list. In the above code, x and y can also be
+easily initialed inside the constructor. But there are situations where initialization of data members
+inside constructor doesn’t work and Initializer List must be used. Following are such cases:
 
 1) For initialization of non-static const data members:
-const data members must be initialized using Initializer List. In the following example, “t” is a const data member of Test class and is initialized using Initializer List.
+const data members must be initialized using Initializer List. In the following example, “t” is a const
+data member of Test class and is initialized using Initializer List.
 
 #include<iostream>
 using namespace std;
@@ -63,7 +68,8 @@ int main() {
 	OUTPUT:
    10
 2) For initialization of reference members:
-Reference members must be initialized using Initializer List. In the following example, “t” is a reference member of Test class and is initialized using Initializer List.
+Reference members must be initialized using Initializer List. In the following example, “t” is a reference
+member of Test class and is initialized using Initializer List.
 
 // Initialization of reference data members
 #include<iostream>
@@ -89,7 +95,8 @@ int main() {
     30
 
 3) For initialization of member objects which do not have default constructor:
-In the following example, an object “a” of class “A” is data member of class “B”, and “A” doesn’t have default constructor. Initializer List must be used to initialize “a”.
+In the following example, an object “a” of class “A” is data member of class “B”, and “A” doesn’t have
+default constructor. Initializer List must be used to initialize “a”.
 
 #include <iostream>
 using namespace std;
@@ -123,9 +130,11 @@ int main() {
 OUTPUT:
     A's Constructor called: Value of i: 10
     B's Constructor called
-If class A had both default and parameterized constructors, then Initializer List is not must if we want to initialize “a” using default constructor, but it is must to initialize “a” using parameterized constructor.
+If class A had both default and parameterized constructors, then Initializer List is not must if we want
+to initialize “a” using default constructor, but it is must to initialize “a” using parameterized constructor.
 
-4) For initialization of base class members : Like point 3, parameterized constructor of base class can only be called using Initializer List.
+4) For initialization of base class members : Like point 3, parameterized constructor of base class can
+only be called using Initializer List.
 
 #include <iostream>
 using namespace std;
@@ -156,7 +165,8 @@ int main() {
     return 0;
 }
 5) When constructor’s parameter name is same as data member
-If constructor’s parameter name is same as data member name then the data member must be initialized either using this pointer or Initializer List. In the following example, both member name and parameter name for A() is “i”.
+If constructor’s parameter name is same as data member name then the data member must be initialized
+either using this pointer or Initializer List. In the following example, both member name and parameter name for A() is “i”.
 
 #include <iostream>
 using namespace std;
@@ -182,7 +192,8 @@ int main() {
 OUTPUT:
     10
 6) For Performance reasons:
-It is better to initialize all class variables in Initializer List instead of assigning values inside body. Consider the following example:
+It is better to initialize all class variables in Initializer List instead of assigning values inside body.
+Consider the following example:
 
 // Without Initializer List
 class MyClass {
@@ -213,12 +224,16 @@ public:
     }
 };
 With the Initializer List, following steps are followed by compiler:
-1. Copy constructor of “Type” class is called to initialize : variable(a). The arguments in initializer list are used to copy construct “variable” directly.
+1. Copy constructor of “Type” class is called to initialize : variable(a). The arguments in initializer list are
+used to copy construct “variable” directly.
 2. Destructor of “Type” is called for “a” since it goes out of scope.
 
-As we can see from this example if we use assignment inside constructor body there are three function calls: constructor + destructor + one addition assignment operator call. And if we use Initializer List there are only two function calls: copy constructor + destructor call. See this post for a running example on this point.
+As we can see from this example if we use assignment inside constructor body there are three function calls:
+constructor + destructor + one addition assignment operator call. And if we use Initializer List there are
+only two function calls: copy constructor + destructor call. See this post for a running example on this point.
 
-This assignment penalty will be much more in “real” applications where there will be many such variables. Thanks to ptr for adding this point.
+This assignment penalty will be much more in “real” applications where there will be many such variables.
+Thanks to ptr for adding this point.
  */
 
 
