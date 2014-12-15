@@ -79,24 +79,31 @@ void Graph::DFSUtilIterative(int v,bool visited[]){
     int u;
     bool allVisited = true;
 
-    while(!S.empty()){
+    while(!S.empty())
+    {
 
     	allVisited = true;
     	u = S.top();
-    	if(!visited[u]){
+    	if(!visited[u])
+    	{
         	cout<<u<<" ";
         	visited[u] = true;
     	}
+
         // Recur for all the vertices adjacent to this vertex
         list<int>::iterator i;
-        for(i = adj[u].begin(); i != adj[u].end(); ++i){
-            if(!visited[*i]){
+        for(i = adj[u].begin(); i != adj[u].end(); ++i)
+        {
+            if(!visited[*i])
+            {
             	S.push(*i);
             	allVisited = false;
             	break;
             }
         }
-        if(allVisited == true){
+
+        if(allVisited == true)
+        {
         	S.pop();
         	allVisited = false;
         }
