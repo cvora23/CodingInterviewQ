@@ -19,10 +19,12 @@ Note that if the element is present in array, then it should not be in output, o
 In the following solutions, it is assumed that all elements of array are distinct.
 
 A simple solution is to do linear search for k closest elements.
+
 1) Start from the first element and search for the crossover point
 (The point before which elements are smaller than or equal to X and after
 which elements are greater). This step takes O(n) time.
-2) Once we find the crossover point, we can compare elements on both sides of crossover point to print k closest elements. This step takes O(k) time.
+2) Once we find the crossover point, we can compare elements on both sides of crossover point to print k closest elements.
+This step takes O(k) time.
 The time complexity of the above solution is O(n).
 
 An Optimized Solution is to find k elements in O(Logn + k) time.

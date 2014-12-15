@@ -195,10 +195,18 @@ void printArray(int arr[], int n)
 /* Driver program to test above functions */
 int main()
 {
-    int arr[] = {2, 3, 2, 4, 5, 12, 2, 3, 3, 3, 12};
+	{
+		int arr[] = {2, 3, 2, 4, 5, 12, 2, 3, 3, 3, 12};
+		int n = sizeof(arr)/sizeof(arr[0]);
+		sortByFrequency(arr, n);
+		printArray(arr, n);
+	}
+
+    int arr[] = {5, 2 ,2, 8, 5, 6, 8, 8};
     int n = sizeof(arr)/sizeof(arr[0]);
     sortByFrequency(arr, n);
     printArray(arr, n);
+
     return 0;
 }
 
