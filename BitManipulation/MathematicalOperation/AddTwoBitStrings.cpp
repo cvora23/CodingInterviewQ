@@ -42,8 +42,8 @@ int makeEqualLength(string &str1, string &str2)
  *of smaller string equal to that of bigger string by adding leading 0s.
  *After making sizes same, we one by one add bits from rightmost bit
  *to leftmost bit. In every iteration, we need to sum 3 bits:
- *2 bits of 2 given strings and carry. The sum bit will be 1 if,
- *either all of the 3 bits are set or one of them is set.
+ *2 bits of 2 given strings and carry.
+ *The sum bit will be 1 if,either all of the 3 bits are set or one of them is set.
  *So we can do XOR of all bits to find the sum bit.
  *How to find carry – carry will be 1 if any of the two bits is set.
  *So we can find carry by taking OR of all pairs.

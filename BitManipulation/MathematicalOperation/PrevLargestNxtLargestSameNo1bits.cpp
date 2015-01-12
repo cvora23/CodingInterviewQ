@@ -19,6 +19,8 @@
  * you find a number with same number of 1s. Easy but not terribly interesting
  */
 
+// http://www.slideshare.net/gkumar007/bits-next-higher-presentation
+
 
 using namespace std;
 

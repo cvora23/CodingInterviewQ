@@ -13,7 +13,6 @@ CheckSetCountFind:
 8: NumberOccuringOddNumberOfTimes.cpp
 9: PositionOfOnlySetBit.cpp
 10:PositionRightMostSetBit.cpp
-10:PositionRightMostSetBit.cpp
 11:TotalSetBitsOneToN.cpp
 12:TurnOffRightMostSetBit.cpp
 
