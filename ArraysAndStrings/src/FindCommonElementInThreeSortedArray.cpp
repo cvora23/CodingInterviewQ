@@ -56,7 +56,9 @@ void findCommon(int ar1[], int ar2[], int ar3[], int n1, int n2, int n3)
     {
          // If x = y and y = z, print any of them and move ahead in all arrays
          if (ar1[i] == ar2[j] && ar2[j] == ar3[k])
-         {   cout << ar1[i] << " ";   i++; j++; k++; }
+         {
+        	 cout << ar1[i] << " ";   i++; j++; k++;
+         }
 
          // x < y
          else if (ar1[i] < ar2[j])

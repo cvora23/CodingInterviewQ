@@ -81,7 +81,7 @@ There is no subarray with zero sum.
 //
 // Explaination::::
 //Take example of {4, 2, -3, 1, 6}
-//Keep summing all elements one by one and sum array will look like: {4, 2, 3, 4, 10}
+//Keep summing all elements one by one and sum array will look like: {4, 6, 3, 4, 10}
 //Here sum 4 was seen at 0th index and then again seen at 3rd index.
 //So sum upto 1st element (4) and sum upto 4th element (4 + 2 - 3 + 1) are same.
 //It's only possible if elements from 2nd position to 4th position add to ZERO.

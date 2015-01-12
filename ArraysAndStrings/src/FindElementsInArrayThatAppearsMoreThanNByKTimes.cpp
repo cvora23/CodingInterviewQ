@@ -16,13 +16,16 @@ A simple method is to pick all elements one by one. For every picked element, co
 if count becomes more than n/k, then print the element. Time Complexity of this method would be O(n2).
 
 A better solution is to use sorting. First, sort all elements using a O(nLogn) algorithm. Once the array is sorted,
-we can find all required elements in a linear scan of array. So overall time complexity of this method is O(nLogn) + O(n) which is O(nLogn).
+we can find all required elements in a linear scan of array. So overall time complexity of
+this method is O(nLogn) + O(n) which is O(nLogn).
 
 Following is an interesting O(nk) solution:
-We can solve the above problem in O(nk) time using O(k-1) extra space. Note that there can never be more than k-1 elements in output (Why?).
+We can solve the above problem in O(nk) time using O(k-1) extra space. Note that there can never be more
+than k-1 elements in output (Why?).
 There are mainly three steps in this algorithm.
 
-1) Create a temporary array of size (k-1) to store elements and their counts (The output elements are going to be among these k-1 elements).
+1) Create a temporary array of size (k-1) to store elements and their counts (The output elements are
+going to be among these k-1 elements).
 Following is structure of temporary array elements.
 
 struct eleCount {
@@ -32,7 +35,8 @@ struct eleCount {
 struct eleCount temp[];
 This step takes O(k) time.
 
-2) Traverse through the input array and update temp[] (add/remove an element or increase/decrease count) for every traversed element.
+2) Traverse through the input array and update temp[] (add/remove an element or increase/decrease count)
+for every traversed element.
 The array temp[] stores potential (k-1) candidates at every step. This step takes O(nk) time.
 
 3) Iterate through final (k-1) potential candidates (stored in temp[]). or every element, check if it actually has count

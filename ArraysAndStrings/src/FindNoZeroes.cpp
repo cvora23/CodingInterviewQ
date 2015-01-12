@@ -7,7 +7,8 @@
 
 /*
  * Find the number of zeroes
-Given an array of 1s and 0s which has all 1s first followed by all 0s. Find the number of 0s. Count the number of zeroes in the given array.
+Given an array of 1s and 0s which has all 1s first followed by all 0s. Find the number of 0s.
+Count the number of zeroes in the given array.
 
 Examples:
 
