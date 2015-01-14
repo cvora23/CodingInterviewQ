@@ -10,9 +10,6 @@
  * In this post, we will discuss implementation of memory efficient doubly linked list.
  * 1:Function to insert a new node at the beginning
  * 2:Function to traverse the list in forward direction
- *
- *
- *
  */
 
 

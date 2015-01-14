@@ -134,24 +134,36 @@ node_t* binary_search_tree(node_t *root, int keys[], int const size)
  * as we add new elements into the tree.
  */
 
-int getRank(node_t* root,int d){
-	if(!root){
+int getRank(node_t* root,int d)
+{
+	if(!root)
+	{
 		return -1 ; // Error
 	}
-	if(d == root->data){
+	if(d == root->data)
+	{
 		return root->lCount;
-	}else if(d < root->data){
-		if(root->left == NULL){
+	}
+	else if(d < root->data)
+	{
+		if(root->left == NULL)
+		{
 			return -1; // ERROR
-		}else{
+		}
+		else
+		{
 			return getRank(root->left,d);
 		}
-	}else{
+	}
+	else
+	{
 		int right_rank = (root->right == NULL ? -1:getRank(root->right,d));
-		if(right_rank == -1){
+		if(right_rank == -1)
+		{
 			return -1; // ERROR
 		}
-		else {
+		else
+		{
 			return root->lCount + 1 + right_rank;
 		}
 	}

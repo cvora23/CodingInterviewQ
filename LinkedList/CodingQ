@@ -40,7 +40,7 @@ Operations
 25:AlternatingSplit.cpp - MODERATE. Move nodes from source to 2 different dest links with odd and even elements.
 26:ConcatenatLinkList.cpp - EASY.
 27:CopyLinkListUsingRecursion.cpp - MODERATE. 
-28:DetectAndRemoveLoopInLinkedList.cpp - 
+28:DetectAndRemoveLoopInLinkedList.cpp - MODERATE . Use hair and tortoise to find loop. Then remove loop.
 29:EraseAllNodes_CountByRecursion.cpp - EASY
 30:EraseAllNodes.cpp - EASY
 31:IntersectionOfSortedLinkedList.cpp - MODERATE. Recursive and iterative soln

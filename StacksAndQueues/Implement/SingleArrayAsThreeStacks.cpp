@@ -11,7 +11,9 @@
 
 using namespace std;
 
-namespace FixedDivisionApproach{
+namespace FixedDivisionApproach
+{
+
 	int stackSize = 100;
 	int *buffer = new int[stackSize*3];
 	int stackPointer[] = {-1,-1,-1}; // pointers to track top element

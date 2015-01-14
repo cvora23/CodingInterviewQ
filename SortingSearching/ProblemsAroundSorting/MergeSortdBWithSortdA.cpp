@@ -62,7 +62,7 @@ void merge(int a[],int b[],int lastA,int lastB){
 int main(){
 
 	int a[10] = {1,2,3};
-	int b[5] = {2,3,5,8,10};
+	int b[5] = {1,3,5,8,10};
 
 	display(a,10);
 	display(b,5);

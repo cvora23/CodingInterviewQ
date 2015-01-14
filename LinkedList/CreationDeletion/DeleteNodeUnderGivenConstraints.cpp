@@ -14,7 +14,6 @@
 		deleted as second parameter i.e., pointer to head node is not global.
 	2) It should not return pointer to the head node.
 	3) It should not accept pointer to pointer to head node.
-
  *
  */
 

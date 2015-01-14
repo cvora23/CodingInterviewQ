@@ -70,9 +70,9 @@ int maxDepth(struct btree *q)
      int hR = maxDepth(q->right);
 
      if(hL>hR)
-     return (hL+1);
+    	 return (hL+1);
      else
-     return (hR+1);
+    	 return (hR+1);
      
 }
 
