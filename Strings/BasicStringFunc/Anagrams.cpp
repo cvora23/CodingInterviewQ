@@ -32,6 +32,7 @@ bool wordplay(char *letters, char *word)
 
 bool CheckAnagram(char *str1, char *str2)
 {
+	 int temp = 0;
      int array[256] = {0};
      for(unsigned int i=0;i<strlen(str1);i++)
      array[str1[i]]++;
