@@ -9,14 +9,17 @@ Construction
 
 Traversals
 =============================================================
-3:BreadthFirstTraversal.cpp - MODERATE. Remember to use queue as a data structure to travel different nodes for the graph. Iterative procedure.
+3:BreadthFirstTraversal.cpp - MODERATE. Remember to use queue as a data structure to travel 
+different nodes for the graph. Iterative procedure.
 4:DepthFirstTraversal.cpp - MODERATE. Iterative - Use stack. Recursive too.
 
 Operations
 =============================================================
 5:DetectCycleDirectedGraph.cpp - DIFFICULT. Use recursive stack along with visited nodes array.
-6:DetectCycleUnDirectedGraph.cpp - DIFFICULT. Same as directed with just checking with parent node instead of recursive stack.
-12:TopologicalSorting.cpp - DIFFICULT. Use DFS technique along with stack. Top of stack would be element with most outgoing edges.
+6:DetectCycleUnDirectedGraph.cpp - DIFFICULT. Same as directed with just checking with parent node 
+instead of recursive stack.
+12:TopologicalSorting.cpp - DIFFICULT. Use DFS technique along with stack. Top of stack would be 
+element with most outgoing edges.
 20:FordFulkersonEdmondsKarpAlgo.cpp
 23:FleuryAlgoPrintingEuleriantour.cpp
 
@@ -24,7 +27,8 @@ FindSearchCheck
 ==============================================================
 7:FindIfPathBet2Vertices.cpp - DIFFICULT. Use BFS to search all paths.
 8:FindNoIslands.cpp - DIFFICULT. Use DFS and strongly connected components.
-9:FindAndColorCodeNoIslands.cpp - DIFFICULT. Use DFS and strongly connected components. Same as above. add coloring along with finding all islands.
+9:FindAndColorCodeNoIslands.cpp - DIFFICULT. Use DFS and strongly connected components. 
+Same as above. add coloring along with finding all islands.
 10:CheckIfGraphIsBipartite.cpp
 11:TransitiveClosure.cpp
 13:ShortestPathDAG.cpp

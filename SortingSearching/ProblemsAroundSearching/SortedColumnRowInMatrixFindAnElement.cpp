@@ -51,9 +51,9 @@ bool findElementSol1(int **matrix,int noRows,int noColumns,int elem){
 		if(matrix[row][col] == elem){
 			return true; // found element
 		}else if(matrix[row][col] > elem){
-			col--; // element less than first element in current so it must on left column
+			col--; // element less than first element in current so it must on left column. Point 1
 		}else{
-			row++; // element more than current element in current row so it must be on next row
+			row++; // element more than current element in current row so it must be on next row. Point 4
 		}
 	}
 	return false;

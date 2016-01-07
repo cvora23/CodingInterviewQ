@@ -14,6 +14,9 @@
 
 using namespace std;
 
+/*
+ * Explanation read on Cormen Book
+ */
 
 /*-----------------------------max profit share problem-------------*/
 

@@ -1,2 +1,0 @@
-src/MaximumDifferenceTwoElementsSuchThatLargerElemenAfterSmallerElement.d: \
- ../src/MaximumDifferenceTwoElementsSuchThatLargerElemenAfterSmallerElement.cpp

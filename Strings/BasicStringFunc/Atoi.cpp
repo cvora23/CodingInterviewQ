@@ -22,6 +22,8 @@ bool isNumericChar(char x)
 // any invalid character, then this function returns 0
 int myAtoi(char *str)
 {
+	if(str){
+
     if (*str == NULL)
        return 0;
 
@@ -48,6 +50,10 @@ int myAtoi(char *str)
 
     // Return result with sign
     return sign*res;
+	}
+	else{
+		return 0;
+	}
 }
 
 // Driver program to test above function

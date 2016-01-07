@@ -11,7 +11,7 @@
 #include<stdio.h>
 #define NO_OF_CHARS 256
 
-/* Returns an array of size 256 containg count
+/* Returns an array of size 256 containing count
    of characters in the passed char array */
 int *getCharCountArray(char *str)
 {
@@ -24,7 +24,7 @@ int *getCharCountArray(char *str)
 
 /* The function returns index of first non-repeating
    character in a string. If all characters are repeating
-   then reurns -1 */
+   then returns -1 */
 int firstNonRepeating(char *str)
 {
   int *count = getCharCountArray(str);

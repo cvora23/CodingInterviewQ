@@ -17,6 +17,8 @@ using namespace std;
  * Eg:
  * Input N = 10000000000, M = 10011, i = 2, j = 6
  * Output N = 10001001100
+ *
+ * Note: i and j starting from right position going left-wards.
  */
 // Cracking the Code Interview 5.1 Solution
 

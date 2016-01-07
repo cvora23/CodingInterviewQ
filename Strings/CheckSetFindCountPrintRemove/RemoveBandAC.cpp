@@ -33,7 +33,7 @@ using namespace std;
 #define ONE 1
 #define TWO 2
 
-// The main function that removes occurences of "a" and "bc" in input string
+// The main function that removes occurrences of "b" and "ac" in input string
 void stringFilter(char *str)
 {
     // state is initially ONE (The previous character is not a)

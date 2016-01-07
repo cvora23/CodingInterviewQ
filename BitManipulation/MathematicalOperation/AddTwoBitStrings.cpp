@@ -26,14 +26,17 @@ int makeEqualLength(string &str1, string &str2)
     {
         for (int i = 0 ; i < len2 - len1 ; i++)
             str1 = '0' + str1;
-        return len2;
+        return len2; // If len2 > len1
     }
     else if (len1 > len2)
     {
         for (int i = 0 ; i < len1 - len2 ; i++)
             str2 = '0' + str2;
+        return len1; // If len1 > len2
     }
-    return len1; // If len1 >= len2
+    else{
+    	return len1;
+    }
 }
 
 // The main function that adds two bit sequences and returns the addition

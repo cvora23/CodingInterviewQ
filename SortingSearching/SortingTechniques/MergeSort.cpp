@@ -38,18 +38,21 @@ void merge(int a[], int low, int mid, int high)
     int b[10000];
     int i = low, j = mid + 1, k = 0;
 
+    // copy elements from both arrays in increasing order.
     while (i <= mid && j <= high) {
         if (a[i] <= a[j])
             b[k++] = a[i++];
         else
             b[k++] = a[j++];
     }
+    // if there were remaining elements from first half copy them over one-by-one
     while (i <= mid)
         b[k++] = a[i++];
-
+    // OR if there were remaining elements from second half copy them over one-by-one
     while (j <= high)
         b[k++] = a[j++];
 
+    // finally copy all the elements back from temporary array to the array passed.
     k--;
     while (k >= 0) {
         a[low + k] = b[k];

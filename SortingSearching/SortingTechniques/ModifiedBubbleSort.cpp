@@ -35,7 +35,7 @@ int main()
  * this improved sorting technique is called the modified bubble sort.
  *  If we make a complete pass of the array elements and do not need
  *  to swap any items, then we know the array must be in order and
- *   we can stop the sort. Also, at the end of each passo ne more item
+ *   we can stop the sort. Also, at the end of each pass one more item
  *   is in the correct position (starting at the end),
  *   so the list to be sorted can be shortened by one.
  *

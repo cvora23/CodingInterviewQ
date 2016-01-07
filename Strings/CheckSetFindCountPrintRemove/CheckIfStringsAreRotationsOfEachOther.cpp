@@ -10,10 +10,20 @@
 # include <stdlib.h>
 
 /**
- * Algorithm:
- * 1: Concatenate the two given strings str1 and str2 into temp string.
- * 2: Find if str2 is substring of temp strin.
- * 3: If true: Then both the given strings str1 and str2 are rotations of each other or else not.
+ * Algo:
+1. Create a temp string and store concatenation of str1 to
+       str1 in temp.
+                          temp = str1.str1
+    2. If str2 is a substring of temp then str1 and str2 are
+       rotations of each other.
+
+    Example:
+                     str1 = "ABACD"
+                     str2 = "CDABA"
+
+     temp = str1.str1 = "ABACDABACD"
+     Since str2 is a substring of temp, str1 and str2 are
+     rotations of each other.
  */
 
 /* Function checks if passed strings (str1 and str2)

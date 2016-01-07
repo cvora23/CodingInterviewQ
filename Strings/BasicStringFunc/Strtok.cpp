@@ -27,15 +27,24 @@ char *Strtok(char *str,char*delim)
     if(str!=NULL)
     s = str;
     int j=0;
+
+	//While not end of string
     while(s[pos]!='\0') 
     {
 		j = 0;
+		//Comparing of one of the delimiter matches the character in the string
 		while(delim[j]!='\0')
 		{
+			//Pos point to the next location in the string that we have to read
 			 if(s[pos]==delim[j])
 			 {
+				  //Replace the delimiter by \0 to break the string
 				  s[pos] = '\0';
 				  pos = pos+1;
+
+				  //Checking for the case where there is no relevant string before the delimiter.
+				  //start specifies the location from where we have to start reading the next character
+
 				  if(s[start]!='\0')
 				  {
 					  cout<<"RETURNING FROM INSIDE"<<endl;
@@ -43,7 +52,9 @@ char *Strtok(char *str,char*delim)
 				  }
 				  else
 				  {
+        			  // Move to the next string after the delimiter
 					  start = pos;
+					  // Decrementing as it will be incremented at the end of the while loop
 					  pos--;
 					  break;
 				  }
@@ -51,7 +62,8 @@ char *Strtok(char *str,char*delim)
 			 j++;
 		}
 		pos++;
-    }
+    }//End of Outer while
+
     s[pos] = '\0';
     if(s[start] == '\0')
     {

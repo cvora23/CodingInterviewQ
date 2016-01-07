@@ -1,2 +1,0 @@
-src/RearrangeArrayAlternatePositiveNegativeItemsWithO1Space2.d: \
- ../src/RearrangeArrayAlternatePositiveNegativeItemsWithO1Space2.cpp

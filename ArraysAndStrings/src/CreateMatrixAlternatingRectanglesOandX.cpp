@@ -67,7 +67,7 @@ void fill0X(int m, int n)
 
     // A 2D array to store the output to be printed
     char a[m][n];
-    char x = 'X'; // Iniitialize the character to be stoed in a[][]
+    char x = 'X'; // Initialize the character to be stored in a[][]
 
     // Fill characters in a[][] in spiral form. Every iteration fills
     // one rectangle of either Xs or Os

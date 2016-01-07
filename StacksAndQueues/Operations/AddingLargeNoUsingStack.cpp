@@ -41,6 +41,7 @@ void addLargeNo(struct node **p,struct node **q)
      temp1 = *p;
      temp2 = *q;
      int no1,no2,sum = 0,carry = 0;
+
      while(*p!=NULL && *q!=NULL)
      {
 	   no1 = pop(p);
@@ -64,17 +65,22 @@ void addLargeNo(struct node **p,struct node **q)
 	   sum+=carry;
                    
      }
+
      while(*p!=NULL)
      {
            no1 = pop(p);
            sum+= no1;   
            push(&top2,sum)      ;
      }
+
      while(*q!=NULL)
      {
       no2 = pop(q);
       sum+=no2;
       push(&top2,sum);
+     }
+     if(sum==1){
+    	 push(&top2,sum);
      }
 }
 
@@ -86,7 +92,7 @@ int main()
     push(&top,7);
     push(&top,8);
     push(&top,4);
-    push(&top1,5);
+    push(&top1,9);
     push(&top1,9);
     push(&top1,2);
     addLargeNo(&top,&top1);

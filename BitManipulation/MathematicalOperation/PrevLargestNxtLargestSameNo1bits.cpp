@@ -10,7 +10,7 @@
 // Cracking the Code Interview 5.3 Solution
 /*
  * Given a positive integer, print the previous largest and next largest
- * no with same no of 1bits in their binary representation
+ * no with same no of 1 bits in their binary representation
  */
 
 /**

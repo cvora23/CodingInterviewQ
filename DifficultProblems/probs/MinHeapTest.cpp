@@ -21,6 +21,13 @@ int main(int argc, char* argv[])
     MinHeap minHeap(array, 6);
     minHeap.print();
 
+    cout<<"Smallest 4 numbers"<<endl;
+    for(int i=0; i<4; ++i){
+	   cout << minHeap.GetMin() << "  ";
+	   minHeap.DeleteMin();
+   }
+
+
     return 0;
 }
 

@@ -10,7 +10,14 @@
 #include <iostream>
 #include <stdint.h>
 // Cracking the Code Interview 5.5 Solution
+/*
+Solution:
 
+  1. Calculate XOR of A and B.
+        a_xor_b = A ^ B
+  2. Count the set bits in the above calculated XOR result.
+        countSetBits(a_xor_b)
+XOR of two number will have set bits only at those places where A differs from B.*/
 using namespace std;
 
 int countSetBits(unsigned int n)
