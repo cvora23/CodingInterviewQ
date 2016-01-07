@@ -46,7 +46,7 @@ We can see that the function f(3) is being called 2 times. If we would have stor
 then instead of computing it again, we would have reused the old stored value. There are following two
 different ways to store the values so that these values can be reused.
 
-a) Memoization (Top Down):
+a) Memorization (Top Down):
 b) Tabulation (Bottom Up):
 
 a) Memoization (Top Down): The memoized program for a problem is similar to the recursive version with a small

@@ -68,6 +68,10 @@ max_ending_here = max_ending_here + (-3)
 max_ending_here = 4
  */
 
+/*
+ *Algorithm doesn't work for all negative numbers. It simply returns 0 if all numbers are negative.
+ */
+
 #include<stdio.h>
 int maxSubArraySumSol1(int a[], int size)
 {
@@ -87,6 +91,10 @@ int maxSubArraySumSol1(int a[], int size)
 int max(int x, int y)
 { return (y > x)? y : x; }
 
+/*
+ * Following is another simple implementation suggested by Mohit Kumar.
+ * The implementation handles the case when all numbers in array are negative.
+ */
 int maxSubArraySumSol2(int a[], int size)
 {
    int max_so_far = a[0], i;
@@ -120,7 +128,3 @@ int main()
    getchar();
    return 0;
 }
-
-/*
- *Algorithm doesn't work for all negative numbers. It simply returns 0 if all numbers are negative.
- */

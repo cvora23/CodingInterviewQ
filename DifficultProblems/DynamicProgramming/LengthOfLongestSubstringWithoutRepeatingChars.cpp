@@ -22,7 +22,7 @@ The desired time complexity is O(n) where n is the length of the string.
 
 Method 1 (Simple)
 We can consider all substrings one by one and check for each substring whether it contains all unique
-characters or not. There will be n*(n+1)/2 substrings. Whether a substirng contains all unique characters or
+characters or not. There will be n*(n+1)/2 substrings. Whether a substring contains all unique characters or
 not can be checked in linear time by scanning it from left to right and keeping a map of visited characters.
 Time complexity of this solution would be O(n^3).
 
@@ -73,7 +73,7 @@ int longestUniqueSubsttr(char *str)
         prev_index =  visited[str[i]];
         printf("prev_index = %d \n",prev_index);
 
-        /* If the currentt character is not present in the already processed
+        /* If the current character is not present in the already processed
            substring or it is not part of the current NRCS, then do cur_len++ */
         if (prev_index == -1 || i - cur_len > prev_index)
             cur_len++;
