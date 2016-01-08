@@ -63,7 +63,9 @@ void push(struct node** head_ref, int new_data)
   (*head_ref)    = new_node;
 }
 
-
+/*
+ * Iterative Solution
+ */
 
 struct node* SortedMerge1(struct node* a, struct node* b)
 {
@@ -108,6 +110,10 @@ void printList(struct node *node)
    node = node->next;
   }
 }
+
+/*
+ * Recursive Solution
+ */
 
 struct node* SortedMerge2(struct node* a, struct node* b)
 {

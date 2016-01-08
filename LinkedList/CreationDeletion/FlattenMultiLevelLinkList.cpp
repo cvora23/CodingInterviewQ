@@ -112,6 +112,9 @@ struct node *createList(void)
 /**
  * ALGO:
  *
+ * Diagram will help to visualize the problem:
+ * http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/flattenList.png
+ *
  * The problem clearly say that we need to flatten level by level. The idea of solution is,
  * we start from first level, process all nodes one by one, if a node has a child, then we append the child
  * at the end of the list, otherwise we don't do anything. After the first level is processed, all next level

@@ -105,8 +105,6 @@ void deleteAlt2(struct node *head)
 /* Drier program to test above functions */
 int main()
 {
-  int arr[100];
-
   /* Start with the empty list */
   struct node* head = NULL;
 

@@ -35,6 +35,10 @@ int _getIntesectionNode(int d, struct node* head1, struct node* head2);
 /**
  * METHOD 1 (Simply use two loops)
  * O(mn)
+ * Use 2 nested for loops. Outer loop will be for each node of the 1st
+ * list and inner loop will be for 2nd list. In the inner loop, check if
+ * any of nodes of 2nd list is same as the current node of first linked list.
+ * Time complexity of this method will be O(mn) where m and n are the number of nodes in two lists.
  */
 
 /*

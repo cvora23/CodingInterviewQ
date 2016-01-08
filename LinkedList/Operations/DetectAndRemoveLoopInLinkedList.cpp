@@ -72,6 +72,7 @@ void removeLoop3(struct node *, struct node *);
  * cause them to collide again - this time after k steps, at which point they
  * will be both at LoopStart. All we have to do is return this node.
  */
+
 int detectAndRemoveLoop(struct node *list)
 {
     struct node  *slow_p = list, *fast_p = list;
@@ -95,6 +96,21 @@ int detectAndRemoveLoop(struct node *list)
     /* Return 0 to indeciate that ther is no loop*/
     return 0;
 }
+
+/* Function to remove loop.
+ loop_node --> Pointer to one of the loop nodes
+ head -->  Pointer to the start node of the linked list */
+void removeLoop3(struct node *loop_node, struct node *head){
+    struct node *ptr1 = head;
+    struct node *prev = loop_node;
+    while(loop_node != ptr1){
+    	ptr1 = ptr1->next;
+    	prev = loop_node;
+    	loop_node = loop_node ->next;
+    }
+    prev->next = NULL;
+}
+
 
 /* Function to remove loop.
  loop_node --> Pointer to one of the loop nodes
@@ -175,19 +191,6 @@ void removeLoop2(struct node *loop_node, struct node *head)
     ptr2->next = NULL;
 }
 
-/* Function to remove loop.
- loop_node --> Pointer to one of the loop nodes
- head -->  Pointer to the start node of the linked list */
-void removeLoop3(struct node *loop_node, struct node *head){
-    struct node *ptr1 = head;
-    struct node *prev = loop_node;
-    while(loop_node != ptr1){
-    	ptr1 = ptr1->next;
-    	prev = loop_node;
-    	loop_node = loop_node ->next;
-    }
-    prev->next = NULL;
-}
 
 /* UTILITY FUNCTIONS */
 /* Given a reference (pointer to pointer) to the head
