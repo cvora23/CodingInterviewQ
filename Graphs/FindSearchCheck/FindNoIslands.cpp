@@ -13,6 +13,8 @@
  * to each other by a path(s), and which is connected to no other vertices outside the subgraph.
  * For example, the graph shown below has three connected components.
  *
+ * http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/islands.png
+ *
  * A graph where all vertices are connected with each other, has exactly one connected component,
  * consisting of the whole graph. Such graph with only one connected component is called as
  * Strongly Connected Graph.
@@ -32,6 +34,33 @@
  * where we recursively call for all adjacent vertices, here we can recursive call
  * for 8 neighbors only. We keep track of the visited 1s so that they are not
  * visited again.
+ */
+
+/*
+ * Eg:
+ * A simple contest, inspired by this stackoverflow question:
+
+You are given an image of a surface photographed by a satellite.
+The image is a bitmap where water is marked by '.' and land is marked by '*'.
+Adjacent group of '*'s form an island. (Two '*' are adjacent if they are horizontal, vertical or diagonal neighbours).
+Your task is to print the number of islands in the bitmap.
+
+Sample Input:
+
+.........**
+**......***
+...........
+...*.......
+*........*.
+*.........*
+*.........*
+*.........*
+*.........*
+*.........*
+
+
+Sample Output:
+5
  */
 
 // Program to count islands in boolean 2D matrix

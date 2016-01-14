@@ -122,7 +122,7 @@ void Graph::APUtil(int u, bool visited[], int disc[],
 
         // If v is not visited yet, then make it a child of u
         // in DFS tree and recur for it
-        if (!visited[v])
+        if (!visited[v]) // Forward edge
         {
             children++;
             parent[v] = u;
@@ -148,7 +148,7 @@ void Graph::APUtil(int u, bool visited[], int disc[],
         }
 
         // Update low value of u for parent function calls.
-        else if (v != parent[u])
+        else if (v != parent[u]) // Back Edge
             low[u]  = min(low[u], disc[v]);
     }
 }

@@ -39,6 +39,8 @@
  * As discussed in the previous post, the value low[v] indicates earliest visited
  * vertex reachable from subtree rooted with v. The condition for an edge (u, v)
  * to be a bridge is, “low[v] > disc[u]“.
+ *
+ * https://www.youtube.com/watch?v=bmyyxNyZKzI
  */
 
 // A C++ program to find bridges in a given undirected graph
@@ -96,7 +98,7 @@ void Graph::bridgeUtil(int u, bool visited[], int disc[],
         int v = *i;  // v is current adjacent of u
 
         // If v is not visited yet, then recur for it
-        if (!visited[v])
+        if (!visited[v]) // Forward Edge
         {
             parent[v] = u;
             bridgeUtil(v, visited, disc, low, parent);
@@ -112,7 +114,7 @@ void Graph::bridgeUtil(int u, bool visited[], int disc[],
         }
 
         // Update low value of u for parent function calls.
-        else if (v != parent[u])
+        else if (v != parent[u]) // Back Edge
             low[u]  = min(low[u], disc[v]);
     }
 }

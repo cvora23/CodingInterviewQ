@@ -16,6 +16,9 @@
  * example s-t cuts are {{0 ,1}, {0, 2}}, {{0, 2}, {1, 2}, {1, 3}}, etc.
  * The minimum s-t cut is {{1, 3}, {4, 3}, {4 5}} which has capacity as 12+7+4 = 23.
  *
+ * http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/minCut.png
+ *
+ *
  * Minimum Cut and Maximum Flow
  * Like Maximum Bipartite Matching, this is another problem which can solved
  * using Ford-Fulkerson Algorithm. This is based on max-flow min-cut theorem.

@@ -102,7 +102,7 @@ struct tNode* newtNode(int data)
  *
  * 1: Create an empty Stack S.
  * 2: Initialize current node as root.
- * 3: Push the current node to S and set current = current->left until current is NULL.
+ * 3: Keep Pushing the current node to S and set current = current->left until current is NULL.
  * 4: If current is NULL and stack is not empty then,
  * 	a: Pop the top item from stack .
  * 	b: Print the popped item, set current = current->right.

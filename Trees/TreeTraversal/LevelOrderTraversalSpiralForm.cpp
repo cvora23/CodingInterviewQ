@@ -14,6 +14,21 @@
 
 using namespace std;
 
+/*
+ * Let us consider the below tree for example
+
+            1
+          /   \
+        2      3
+      /  \
+    4     5
+
+    Spiral Level order traversal of the above tree is 1 2 3 5 4
+
+	Level order traversal of a tree is breadth first traversal for the tree.
+
+    */
+
 /* A binary tree node has data, pointer to left child
    and a pointer to right child */
 struct node
@@ -68,7 +83,7 @@ void printSpiral2(struct node *root)
             s1.pop();
             cout << temp->data << " ";
 
-            // Note that is right is pushed before left
+            // Note that is right is pushed before left, so that left could be processed first
             if (temp->right)
                 s2.push(temp->right);
             if (temp->left)
@@ -83,7 +98,7 @@ void printSpiral2(struct node *root)
             s2.pop();
             cout << temp->data << " ";
 
-            // Note that is left is pushed before right
+            // Note that is left is pushed before right, so that right could be processed first
             if (temp->left)
                 s1.push(temp->left);
             if (temp->right)

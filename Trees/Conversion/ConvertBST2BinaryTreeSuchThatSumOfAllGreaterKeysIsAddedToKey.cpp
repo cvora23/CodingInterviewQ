@@ -1,5 +1,5 @@
 /*
- * ConvertBinaryTreeToBSTSuchThatSumOfAllGreaterKeysIsAddedToKey.cpp
+ * ConvertBST2BinaryTreeSuchThatSumOfAllGreaterKeysIsAddedToKey.cpp
  *
  *  Created on: Sep 8, 2013
  *      Author: cvora

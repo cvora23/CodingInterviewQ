@@ -10,8 +10,14 @@
  * U and V such that every edge (u, v) either connects a vertex from U to V or a vertex
  * from V to U. In other words, for every edge (u, v), either u belongs to U and v to V, or u
  * belongs to V and v to U. We can also say that there is no edge that connects vertices of same set.
+
+ * http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/Bipartite1.png
+ *
  * A bipartite graph is possible if the graph coloring is possible using two colors such that
  * vertices in a set are colored with the same color.
+ *
+ * http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/Bipartite2.png
+ * http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/Bipartite3.png
  */
 
 /*

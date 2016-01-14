@@ -61,7 +61,7 @@ Conversion
 
 37:BinaryTreeToBST.cpp - MODERATE. Use Inorder traveral and array.
 38:BinaryTreeToDoublyLinkedList.cpp - MODERATE. Fix the left pointers first and then the right pointers.
-39:CompleteBInaryTreeFromLinkedListRepresentation.cpp - MODERATE. Use queue and 2*i+1 and 2*i+2 as two children
+39:CompleteBinaryTreeFromLinkedListRepresentation.cpp - MODERATE. Use queue and 2*i+1 and 2*i+2 as two children
 40:ConvertBST2BinaryTreeSuchThatSumOfAllGreaterKeysIsAddedToKey.cpp - MODERATE. Use reverse in order traversal and recursively solve
 41:ConvertOrdinaryTreeToTreeThatHoldsChildrenSumProperty.cpp - DIFFICULT. recursively fix both sub trees.
 42:ConvertTreeToItsSumTree.cpp - MODERATE. Recursively fix sub trees.

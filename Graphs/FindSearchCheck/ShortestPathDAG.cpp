@@ -102,6 +102,21 @@ void Graph::topologicalSortUtil(int v, bool visited[], stack<int> &Stack)
     Stack.push(v);
 }
 
+void printStack(std::stack<int>& Stack){
+
+	std::cout<<"PrintStack Start"<<std::endl;
+	std::stack<int>stackCopy = Stack;
+    // Print contents of stack
+    while (stackCopy.empty() == false)
+    {
+        cout << stackCopy.top() << " ";
+        stackCopy.pop();
+    }
+    std::cout<<std::endl;
+	std::cout<<"PrintStack End"<<std::endl;
+
+}
+
 // The function to find shortest paths from given vertex. It uses recursive
 // topologicalSortUtil() to get topological sorting of given graph.
 void Graph::shortestPath(int s)
@@ -119,6 +134,8 @@ void Graph::shortestPath(int s)
     for (int i = 0; i < V; i++)
         if (visited[i] == false)
             topologicalSortUtil(i, visited, Stack);
+
+    printStack(Stack);
 
     // Initialize distances to all vertices as infinite and distance
     // to source as 0

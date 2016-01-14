@@ -55,9 +55,9 @@
  * The below implementation of Ford Fulkerson Algorithm is called Edmonds-Karp Algorithm.
  * The idea of Edmonds-Karp is to use BFS in Ford Fulkerson implementation as BFS
  * always picks a path with minimum number of edges. When BFS is used, the worst
- * case time complexity can be reduced to O(VE2). The above implementation uses
+ * case time complexity can be reduced to O(VE2). The below implementation uses
  * adjacency matrix representation though where BFS takes O(V2) time, the time
- * complexity of the above implementation is O(EV3) (Refer CLRS book for proof
+ * complexity of the below implementation is O(EV3) (Refer CLRS book for proof
  * of time complexity)
  * This is an important problem as it arises in many practical situations.
  * Examples include, maximizing the transportation with given traffic limits,
@@ -133,7 +133,7 @@ int fordFulkerson(int graph[V][V], int s, int t)
 
     int max_flow = 0;  // There is no flow initially
 
-    // Augment the flow while tere is path from source to sink
+    // Augment the flow while there is path from source to sink
     while (bfs(rGraph, s, t, parent))
     {
         // Find minimum residual capacity of the edhes along the

@@ -22,6 +22,8 @@
  *	v																	v
  *	2---------------------->3------------------------------------------>1
  *
+ *	http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/graph.png
+ *
  * Topological Sorting vs Depth First Traversal (DFS):
  * In DFS, we print a vertex and then recursively call DFS for its adjacent vertices.
  * In topological sorting, we need to print a vertex before its adjacent vertices.
@@ -29,6 +31,9 @@
  * but unlike DFS, the vertex ‘4’ should also be printed before vertex ‘0’.
  * So Topological sorting is different from DFS. For example, a DFS of
  * the above graph is “5 2 3 1 0 4″, but it is not a topological sorting
+ *
+ *
+ *Good Video - https://www.youtube.com/watch?v=ddTC4Zovtbc
  */
 
 // A C++ program to print topological sorting of a DAG
@@ -115,13 +120,22 @@ int main()
 {
     // Create a graph given in the above diagram
     Graph g(6);
-    g.addEdge(5, 2);
-    g.addEdge(5, 0);
-    g.addEdge(4, 0);
-    g.addEdge(4, 1);
-    g.addEdge(2, 3);
-    g.addEdge(3, 1);
+//    g.addEdge(5, 2);
+//    g.addEdge(5, 0);
+//    g.addEdge(4, 0);
+//    g.addEdge(4, 1);
+//    g.addEdge(2, 3);
+//    g.addEdge(3, 1);
 
+    g.addEdge(0, 1);
+    g.addEdge(0, 2);
+    g.addEdge(1, 3);
+    g.addEdge(1, 2);
+    g.addEdge(2, 4);
+    g.addEdge(2, 5);
+    g.addEdge(2, 3);
+    g.addEdge(3, 4);
+    g.addEdge(4, 5);
     cout << "Following is a Topological Sort of the given graph \n";
     g.topologicalSort();
 

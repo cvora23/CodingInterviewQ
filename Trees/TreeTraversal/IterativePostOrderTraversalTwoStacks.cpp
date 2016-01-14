@@ -5,7 +5,7 @@
  *      Author: cvora
  */
 
-// C program for iterative postorder traversal using one stack
+// C program for iterative postorder traversal using two stacks
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
@@ -44,7 +44,7 @@ void printPostorder(Node* node){
 
 /*
  * Iterative post order is more complex than other two traversals
- * (due to its nature of non-trails recursion, there is an extra statement
+ * (due to its nature of non-tails recursion, there is an extra statement
  * after the final recursive call to itself). Post order can be done
  * easily using two stacks though. The idea is to push reverse post order
  * traversal to stack. Once we have reverse postorder traversal in a stack,

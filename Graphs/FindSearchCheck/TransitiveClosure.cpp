@@ -25,6 +25,8 @@
  * 2) Instead of using arithmetic operations, we can use logical operations. For arithmetic operation ‘+’,
  * logical and ‘&&’ is used, and for min, logical or ‘||’ is used. (We save time by a constant factor.
  * Time complexity is same though)
+ *
+ * https://www.youtube.com/watch?v=EMAoMMsA5Jg&list=PLtmtQ-7tmfUvbO1XKiqqXzpWOvrTev5_e
  */
 
 
@@ -111,3 +113,14 @@ int main()
     transitiveClosure(graph);
     return 0;
 }
+
+/*
+ * Output:
+Following matrix is transitive closure of the given graph
+1 1 1 1
+0 1 1 1
+0 0 1 1
+0 0 0 1
+Time Complexity: O(V^3) where V is number of vertices in the given graph.
+ */
+

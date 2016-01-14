@@ -13,6 +13,10 @@
 	Diameter of a Binary Tree
 	The diameter of a tree (sometimes called the width) is the number of nodes on the
 	longest path between two leaves in the tree.
+
+	Diagram:
+	=========
+	http://www.geeksforgeeks.org/wp-content/uploads/tree_diameter.GIF
 */
 /* A binary tree node has data, pointer to left child
    and a pointer to right child */
