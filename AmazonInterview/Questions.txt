@@ -1,0 +1,11 @@
+=============================================================
+						Question List
+=============================================================
+
+1: Given a number (200), compare it to four variables (E.G A,B,C,D) 
+   and return true if they are all equal to the given number.
+   Do this in the most efficient way, and if possible without if statements.
+
+2: There is a chess board of dimension n X n. You are given with 2 squares on that board S(x1,y1) ;M(x2,y2). 
+   S is a fixed point. M can move diagonally. it can move any number of steps or jumps in 1 move . 
+   Find the minimum number of moves M needs to reach S
