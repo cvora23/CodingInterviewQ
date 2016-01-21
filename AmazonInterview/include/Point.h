@@ -8,6 +8,8 @@
 #ifndef INCLUDE_POINT_H_
 #define INCLUDE_POINT_H_
 
+#include <iostream>
+
 class Point{
 
 public:
@@ -18,6 +20,9 @@ public:
 	void setXY(int x,int y);
 	int getX()const;
 	int getY()const;
+
+    friend std::ostream& operator<<(std::ostream& os, const Point& dt);
+
 private:
 
 	int x;
@@ -51,6 +56,11 @@ inline void Point::setXY(int x,int y){
 	this->y = y;
 }
 
+std::ostream& operator<<(std::ostream& os, const Point& pt)
+{
+    os << "{ "<<pt.getX() << ',' << pt.getY() << " }";
+    return os;
+}
 
 
 #endif /* INCLUDE_POINT_H_ */
