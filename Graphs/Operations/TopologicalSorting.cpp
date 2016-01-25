@@ -33,7 +33,8 @@
  * the above graph is “5 2 3 1 0 4″, but it is not a topological sorting
  *
  *
- *Good Video - https://www.youtube.com/watch?v=ddTC4Zovtbc
+ * Good Video - https://www.youtube.com/watch?v=ddTC4Zovtbc
+ * Use Case as explained in the video could be in Build Systems.
  */
 
 // A C++ program to print topological sorting of a DAG

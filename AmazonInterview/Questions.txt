@@ -6,7 +6,8 @@
    and return true if they are all equal to the given number.
    Do this in the most efficient way, and if possible without if statements.
 
-2: There is a chess board of dimension n X n. You are given with 2 squares on that board S(x1,y1) ;M(x2,y2). 
+2: There is a chess board of dimension n X n. 
+You are given with 2 squares on that board S(x1,y1) ;M(x2,y2). 
    S is a fixed point. M can move diagonally. it can move any number of steps or jumps in 1 move . 
    Find the minimum number of moves M needs to reach S
    
@@ -66,7 +67,126 @@ answer: from 9th index to 11th index is the smallest window.
 
 11: stream of numbers coming, get 'n' min elements at any point of time
 
+12: Design a data structure which could perform the following operations in O(1): 
+- Insert(), Delete(), Search(), getRandom() 
+
+getRandom() should pick a "random" element from your data structure, 
+and should not be predictable (for instance always picking the "first" 
+element from your DS)
+
+13: Given 2D Array of only 0s and 1s, Find the row which gives max decimal value. 
+
+Input: int array[3][3] = {{0,1,0,}{1,1,0},{1,0,1}}; 
+Output : 2(second row)...decimal value is 6
+
+14: Given employee information in an organisation in the formal - emp_id,firstname,lastname,
+reports_to in the following way 
+{ 
+string[] Values = new[] { 	"Mc Grill,Mc,Grill,Karmon",
+							"Karmon,Zech,Karmon,Joe",
+							"Mithun,Try,Mithun,Joe",
+							"Joe,Top,Joe,",
+							"Zara,Aman,Zara,Mc Grill",
+							"Fizzy,Dude,Fizzy,Mc Grill"}; 
+
+} 
+Print the information from the top to bottom level in the way in terms of Hierarchy.
+1) Top Joe 
+2) Try Mithun 
+2) Zech Karmon 
+3) Mc Grill 
+4)Aman Zara 
+4) Dude Fizzy
+
+15: Given a group of no.s you need to arrange them in a such a way that they result into maximum no. 
+The input no. can be of more than 1 digit, don't change no. digits order.
+
+16: Given a 1D array, implement function Sum(x1,x2) where x1 and x2 are indices of array.
+ Find sum of all elements in between the given indices inclusive of them. 
+ Do in Time complexity of O(1)
+
+17: Given a string and two words which are present in the string, 
+	find the minimum distance between the words 
+	Eg: "the brown qucik frog quick the", "the" "quick" O/P -> 1 
+	"the quick the brown quick brown the frog", "the" "the" O/P -> 2
+	
+18: How to find if a given expression is a valid arithmetic expression? 
+	Eg:(())()) - Invalid expression, (()()) - Valid expression	
+	
+19: Given a linkedlist, write an algorithm to divide the linkedlist into two linkedlists,
+    the first contains the Fibonacci numbers in the list and the second contains 
+    the non-Fibonacci numbers. Test the algorithm after developing the code
+
+20: Input argument of a method is a list of char array. The method have to print 
+all the possible combination of input char(s)...For example if the input 
+argument has ['A','B','C','D'] the output should be 
+A,B,C,AB,AC,AD,BC,BD,CD,ABC,ABD,ACD,BCD,ABCD
+
+21: An employee class has id, name and a vector of employees who reports him. 
+	Given two employees find the common manager of them.CEO pointer is provided.
+	
+22: Given two Binary Trees (not BST). Each node of both trees has an integer value. 
+	Validate whether both trees have the same integers, there could be repetitive integers.
+	
+ex- 
+Tree1: 
+5 
+1 6 
+5 4 3 6 
+
+Tree2: 
+1 
+3 4 
+6 5 
+have identical integers.
+
+23: Given a string which may contain parenthesis. 
+We must verify the validity of the string. s
+ex- 
+1) "<ad675+-fkmfd>" is a valid string 
+2) "<[((kskfhdbh7)" is invalid 
+3) "[<<((shfs8))>>]" is valid 
+
+Extension to the question - 
+Suppose you had a hash table that told you how a parenthesis starts and how it
+ends as a key value pair, how would you then validate the string. 
+ex - <key,value> = < '(' , ')' > indicates '(' is a start parenthesis and ')' 
+should be the end of that paranthesis. 
+<'A','&'> indicates that 'A' is a start parenthesis and '&' is the end parenthesis. 
+
+Note: Validity means a parenthesis that starts, must end.
+
+24: Find the largest substring palindrome in a given string. 
+	ex: input: abbac output: abba 
  
- 
- 
+25: Print first and last node of all the levels of a tree. 
+Ex if tree is - 
+
+root->data = 1 
+root->left->data = 2 
+root->right->data = 3 
+root->left->right->data = 4 
+root->right->right->data = 6 
+root->right->left->data = 5 
+root->right->left->left->data = 7 
+root->right->left->left->right->data = 8 
+
+Output - 1 2 3 4 6 7 8 
+
+26:Implement a function that returns the i-th most popular item sold at Amazon. 
+You cannot rely on any libraries. 
+
+class Item { 
+String itemId; 
+int quantitySold; 
+} 
+
+/** 
+* Find the ith most popular item in the list. 
+*/ 
+String find(List<Item> items, int i) { 
+// your code goes here 
+}
+
+
  

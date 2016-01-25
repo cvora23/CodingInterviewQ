@@ -10,7 +10,6 @@
 
 ModifiedMaxHeap::ModifiedMaxHeap(int max_size):MaxHeap(){
 	this->max_size = max_size;
-	//_vector.reserve(max_size);
 }
 
 ModifiedMaxHeap::~ModifiedMaxHeap(){

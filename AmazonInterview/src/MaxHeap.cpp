@@ -13,7 +13,7 @@ MaxHeap::MaxHeap(int* array, int length) : _vector(length)
 {
     for(int i = 0; i < length; ++i)
     {
-        _vector[i] = array[i];
+        _vector.push_back(array[i]);
     }
 
     Heapify();
