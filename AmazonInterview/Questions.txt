@@ -188,5 +188,15 @@ String find(List<Item> items, int i) {
 // your code goes here 
 }
 
+27: Suppose you are given a puzzle that is represented as a matrix with 0s and 1s, 
+where a 0 indicates you’re allowed to move into that position and 1 means you’re 
+not allowed to move in that position. Write a function that given a start position
+and an end position, returns a boolean value indicating if there exists a path 
+from start to end. You are only allowed to move up, down, right or left. 
+Diagonal movement is not allowed. 
+
+28: Given an array of strings with only lowercase letters , create a function 
+that returns an array of those same strings, but each string has its letters 
+rearranged such that it becomes a palindrome (if possible, if not, return -1)
 
  

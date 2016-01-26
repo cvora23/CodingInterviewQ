@@ -22,13 +22,21 @@ public:
 	int getY()const;
 
     friend std::ostream& operator<<(std::ostream& os, const Point& dt);
-
+    bool operator == (Point& rhs)const;
 private:
 
 	int x;
 	int y;
 
 };
+
+bool Point::operator ==(Point& rhs)const{
+	if((getX() == rhs.getX()) && (getY() == rhs.getY()))
+	{
+		return true;
+	}
+	return false;
+}
 
 inline Point::Point(int x,int y){
 	this->x = x;

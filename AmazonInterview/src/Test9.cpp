@@ -59,7 +59,6 @@ void printNeighbors(struct node* root)
     		printf("Neighbor: %d\n",nextItr->second->data);
     	}
     }
-    level = level + 1;
     /*Enqueue left child */
     if(temp_node->left)
     	  mydeque.push_back(std::make_pair(pairVal.first+1,temp_node->left));
