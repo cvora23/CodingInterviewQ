@@ -98,4 +98,16 @@ using namespace std;
 	cout<<endl;
 }
 
+template <typename Type>
+void printArray3(Type &array,int size){
+using namespace std;
+
+	typename Type::iterator myItr = array.begin();
+	while(myItr != array.end()){
+		cout<<*myItr<< " ";
+		myItr++;
+	}
+	cout<<endl;
+}
+
 #endif /* REQUIRE_H_ */
