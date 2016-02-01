@@ -279,8 +279,11 @@ e.g.
 41:An array consist of elements whose difference is positive or negative 1. 
 I have to find the given elements without using linear search. 
 Say 
-Int arr[]={1,2,3,4,3,4,5,6,7 
+Int arr[]={1,2,3,4,3,4,5,6,7 }
 
-To find : 6 
-. 
-Please provide some one code/algorithm for this problem. 
+To find : 6
+
+42:How to design a LRU cache using heap(priority queue) ?
+
+
+
