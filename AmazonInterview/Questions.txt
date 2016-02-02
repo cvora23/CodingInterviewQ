@@ -296,3 +296,9 @@ e.g {0,1,2,4,5,6,7} N =4 should return {5,6,7,4,0,1,2}.
 eg {}[]() 
 followup : scale your solution and specify the right data structure to 
 use if you have a lot of such bracket types
+
+47: given an integer array , find all combinations which sum to a given number. 
+If a number is used once, it must not be used again. 
+eg if input array is 6444 and sum =10 
+output must be just 6 4 
+Give an O(n) solution
