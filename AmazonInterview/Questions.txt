@@ -285,5 +285,14 @@ To find : 6
 
 42:How to design a LRU cache using heap(priority queue) ?
 
+43: Rotate a array by N. N can be smaller of greater than the array length. 
+e.g {0,1,2,4,5,6,7} N =4 should return {5,6,7,4,0,1,2}. 
 
+44: Rotate Matrix by one position
 
+45: Permuatations of Word. Rank of given permuatation - extra question
+
+46: given a string with only paranthesis - find out if it is balanced or not 
+eg {}[]() 
+followup : scale your solution and specify the right data structure to 
+use if you have a lot of such bracket types
