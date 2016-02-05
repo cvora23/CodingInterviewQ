@@ -22,7 +22,6 @@ void sortMatrix(vector<vector<int> >&matrix,int noRows,int noColumns){
 	std::sort(tempVec.begin(),tempVec.end(),std::greater<int>());
 	printArray2(tempVec,tempVec.size());
 
-
 	// insert the elements starting from last row.
 
 	for(int i=noRows-1;i>=0;i--){

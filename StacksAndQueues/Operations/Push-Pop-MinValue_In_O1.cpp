@@ -27,6 +27,7 @@ element in the current stack.
 If we do pop two times on stack, the stack becomes
 29  --> TOP
 19
+118
 18
 
 When getMin() is called, it should return 18 which is the minimum
@@ -106,11 +107,14 @@ Auxiliary Stack
 18
 18
 18
-Following is C++ implementation for SpecialStack class. In the below implementation, SpecialStack inherits from Stack and has one Stack object min which work as auxiliary stack.
+Following is C++ implementation for SpecialStack class.
+In the below implementation, SpecialStack inherits from Stack and
+has one Stack object min which work as auxiliary stack.
  */
 
 #include<iostream>
 #include<stdlib.h>
+#include <stack>
 
 using namespace std;
 
@@ -222,15 +226,69 @@ int SpecialStack::getMin()
     return x;
 }
 
+class SpecialStackVer2{
+
+public:
+
+	void push(int elem){
+		stack1.push(elem);
+		if(stack2.empty()){
+			stack2.push(elem);
+		}else if(elem<getMin()){
+			stack2.push(elem);
+		}
+	}
+
+	int pop(){
+
+		int poppedElem;
+		poppedElem = stack1.top();
+		stack1.pop();
+		if(poppedElem == getMin()){
+			stack2.pop();
+		}
+
+	}
+
+	int getMin(){
+		return stack2.top();
+	}
+
+private:
+	std::stack<int>stack1;
+	std::stack<int>stack2;
+};
+
 /* Driver program to test SpecialStack methods */
 int main()
 {
-    SpecialStack s;
-    s.push(10);
-    s.push(20);
-    s.push(30);
-    cout<<s.getMin()<<endl;
-    s.push(5);
-    cout<<s.getMin();
+	{
+		SpecialStack s;
+		s.push(18);
+		s.push(19);
+		s.push(224);
+		s.push(15);
+		s.push(14);
+
+		cout<<s.getMin()<<endl;
+		s.pop();
+		cout<<s.getMin()<<endl;
+		s.pop();
+		cout<<s.getMin()<<endl;
+
+		s.push(5);
+		cout<<s.getMin()<<endl;
+	}
+
+	{
+		SpecialStackVer2 s;
+		s.push(10);
+		s.push(20);
+		s.push(30);
+		cout<<s.getMin()<<endl;
+		s.push(5);
+		cout<<s.getMin()<<endl;
+	}
+
     return 0;
 }

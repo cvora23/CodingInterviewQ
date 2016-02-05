@@ -18,6 +18,8 @@
 #include <cstdlib>
 #include <fstream>
 #include <string>
+#include <math.h>
+#include <iostream>
 
 inline void require(bool requirement,
   const std::string& msg = "Requirement failed"){
@@ -71,5 +73,41 @@ inline void assure(std::ofstream& out,
   }
 }
 
+int getRand(int num=10){
+	return rand()%num;
+}
+
+template <typename Type>
+void printArray(Type array[],int size){
+
+using namespace std;
+
+	for(int i=0;i<size;i++){
+		cout<<array[i]<< " ";
+	}
+	cout<<endl;
+}
+
+template <typename Type>
+void printArray2(Type &array,int size){
+using namespace std;
+
+	for(int i=0;i<size;i++){
+		cout<<array[i]<< " ";
+	}
+	cout<<endl;
+}
+
+template <typename Type>
+void printArray3(Type &array,int size){
+using namespace std;
+
+	typename Type::iterator myItr = array.begin();
+	while(myItr != array.end()){
+		cout<<*myItr<< " ";
+		myItr++;
+	}
+	cout<<endl;
+}
 
 #endif /* REQUIRE_H_ */

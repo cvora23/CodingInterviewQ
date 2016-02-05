@@ -122,6 +122,9 @@ move to right in ar1[]. Do binary search in {10, 13}, this step will pick 10. No
 and 23. Since 10 is smaller than both 15 and 23, again move to right. Only 13 is there in right side
 now. Since 13 is greater than 11 and smaller than 15, terminate here. We have got the median as 12
 (average of 11 and 13)
+
+Good video !!!! - https://www.youtube.com/watch?v=3jJ6gojbr0A
+
  *
  */
 

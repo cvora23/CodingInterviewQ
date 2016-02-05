@@ -40,7 +40,7 @@ char *Strtok(char *str,char*delim)
 			 {
 				  //Replace the delimiter by \0 to break the string
 				  s[pos] = '\0';
-				  pos = pos+1;
+				  pos++;
 
 				  //Checking for the case where there is no relevant string before the delimiter.
 				  //start specifies the location from where we have to start reading the next character

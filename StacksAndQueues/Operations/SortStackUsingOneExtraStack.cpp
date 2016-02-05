@@ -91,6 +91,40 @@ struct sNode* sort(struct sNode* top_ref){
 	return r;
 }
 
+
+#include <iostream>
+#include <stack>
+
+template < typename T >
+void printStack2(std::stack<T>s){
+
+	while(!s.empty())
+	{
+		T w = s.top();
+		std::cout << w<<endl;
+		s.pop();
+	}
+
+}
+
+
+void sortStack(std::stack<int> origStack){
+	int topElem = 0;
+	std::stack<int>tempStack;
+
+	while(!origStack.empty()){
+		topElem = origStack.top();
+		origStack.pop();
+		while(!tempStack.empty() && tempStack.top()>topElem){
+			origStack.push(tempStack.top());
+			tempStack.pop();
+		}
+		tempStack.push(topElem);
+	}
+    printStack2(tempStack);
+
+}
+
 int main(){
 
     struct sNode *top;
@@ -105,6 +139,19 @@ int main(){
 
     cout<<"After Sorting"<<endl;
     printStack(sort(top));
+
+    std::stack<int>origStack;
+    origStack.push(18);
+    origStack.push(19);
+    origStack.push(29);
+    origStack.push(15);
+    origStack.push(16);
+
+    cout<<"Before Sorting"<<endl;
+    printStack2(origStack);
+
+    cout<<"After Sorting"<<endl;
+    sortStack(origStack);
 
 	return 0;
 }

@@ -20,7 +20,7 @@ void Substring(char *str1,char *str2)
 			 flag = 1;
 		 }
 		 if(flag == 0)
-		 break;
+			 break;
      }
      if(flag == 0)
      cout<<"String "<<str2<<" found in String "<<str1<<endl;

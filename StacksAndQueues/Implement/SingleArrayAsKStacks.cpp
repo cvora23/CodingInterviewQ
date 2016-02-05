@@ -28,7 +28,8 @@ Method 1 (Divide the array in slots of size n/k)
 A simple way to implement k stacks is to divide the array in k slots
 of size n/k each, and fix the slots for different stacks, i.e.,
 use arr[0] to arr[n/k-1] for first stack, and arr[n/k] to arr[2n/k-1] for
-stack2 where arr[] is the array to be used to implement two stacks and size of array be n.
+stack2 where arr[] is the array to be used to implement two
+stacks and size of array be n.
 
 The problem with this method is inefficient use of array space.
 A stack push operation may result in stack overflow even if
@@ -142,8 +143,8 @@ int kStacks::pop(int sn)
 
     top[sn] = next[i];  // Change top to store next of previous top
 
-    // Attach the previous top to the beginning of free list
     next[i] = free;
+    // Attach the previous top to the beginning of free list
     free = i;
 
     // Return the previous top item
