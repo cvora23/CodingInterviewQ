@@ -62,7 +62,7 @@ void print(char *list[], char *word, int list_size)
     if(count == word_size)
       printf("%s\n ", list[i]);
 
-    /*Set the values in map for next item*/
+    /*Re-Set the values in map for next item*/
     for (j = 0; *(word+j); j++)
       map[*(word + j)] = 1;
   }

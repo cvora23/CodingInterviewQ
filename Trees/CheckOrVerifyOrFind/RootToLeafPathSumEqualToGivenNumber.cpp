@@ -31,7 +31,8 @@ So the returned value should be true only for numbers 21, 23 and 14.
 For any other number, returned value should be false.
 
 Algorithm:
-Recursively check if left or right child has path sum equal to ( number – value at current node)
+Recursively check if left or right child has path sum equal to
+( number – value at current node)
  */
 
 /* A binary tree node has data, pointer to left child

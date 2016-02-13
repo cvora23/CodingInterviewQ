@@ -7,7 +7,8 @@
 
 /*
  * Remove minimum elements from either side such that 2*min becomes more than max
- * Given an unsorted array, trim the array such that twice of minimum is greater than maximum in the trimmed array.
+ * Given an unsorted array, trim the array such that
+ * twice of minimum is greater than maximum in the trimmed array.
  * Elements should be removed either end of the array.
 
 Number of removals should be minimum.

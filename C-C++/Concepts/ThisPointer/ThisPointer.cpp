@@ -6,8 +6,13 @@
  */
 /*
  * ‘this’ pointer in C++
-The ‘this’ pointer is passed as a hidden argument to all nonstatic member function calls and is available as a local variable within the body of all nonstatic functions. ‘this’ pointer is a constant pointer that holds the memory address of the current object. ‘this’ pointer is not available in static member functions as static member functions can be called without any object (with class name).
-For a class X, the type of this pointer is ‘X* const’. Also, if a member function of X is declared as const, then the type of this pointer is ‘const X *const’ (see this GFact)
+The ‘this’ pointer is passed as a hidden argument to all nonstatic member
+function calls and is available as a local variable within the body of all
+nonstatic functions. ‘this’ pointer is a constant pointer that holds the
+memory address of the current object. ‘this’ pointer is not available in static
+member functions as static member functions can be called without any object (with class name).
+For a class X, the type of this pointer is ‘X* const’.
+Also, if a member function of X is declared as const, then the type of this pointer is ‘const X *const’ (see this GFact)
 
 Following are the situations where ‘this’ pointer is used:
 

@@ -8,7 +8,7 @@
 /*
  * Friend class and function in C++
 June 3, 2014
-Friend Class A friend class can access private and protected members of other class in which
+Friend Class:-------- A friend class can access private and protected members of other class in which
 it is declared as friend. It is sometimes useful to allow a particular class to access private members of other class.
 For example a LinkedList class may be allowed to access private members of Node.
 
@@ -19,7 +19,7 @@ private:
   Node *next;
   // Other members of Node Class
 
-  friend class LinkedList; // Now class Binary Tree can
+  friend class LinkedList; // Now class LinkedList can
                            // access private members of Node
 };
 Friend Function Like friend class, a friend function can be given special grant to access private and protected
@@ -37,6 +37,7 @@ private:
   friend int LinkedList::search(); // Only search() of linkedList
                                   // can access internal members
 };
+
 Following are some important points about friend functions and classes:
 1) Friends should be used only for limited purpose. too many functions or external classes are
 declared as friends of a class with protected or private data, it lessens the value of encapsulation

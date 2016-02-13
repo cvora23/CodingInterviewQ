@@ -46,11 +46,14 @@ int _getIntesectionNode(int d, struct node* head1, struct node* head2);
  * This solution requires modifications to basic linked list data structure. Have a visited flag
  * with each node. Traverse the first linked list and keep marking visited nodes.
  * Now traverse second linked list, if you see a visited node again then there is an intersection point,
- * return the intersection node. This solution works in O(m+n) but requires additional information with each
- * node. A variation of this solution that doesn't require modification to basic data structure can be implemented
- * using hash. Traverse the first linked list and store the addresses of visited nodes in a hash. Now traverse
- * the second linked list and if you see an address that already exists in a hash then return the intersection
- * node.
+ * return the intersection node. This solution works in O(m+n) but requires additional
+ * information with each
+ * node. A variation of this solution that doesn't require modification to
+ * basic data structure can be implemented
+ * using hash. Traverse the first linked list and store the addresses of
+ * visited nodes in a hash. Now traverse
+ * the second linked list and if you see an address that already exists in a
+ * hash then return the intersection node.
  */
 
 /**

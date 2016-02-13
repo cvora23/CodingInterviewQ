@@ -6,7 +6,8 @@
  */
 
 /*
- * Given an n x n square matrix, find sum of all sub-squares of size k x k where k is smaller than or equal to n.
+ * Given an n x n square matrix, find sum of all sub-squares of
+ * size k x k where k is smaller than or equal to n.
 
 Examples
 

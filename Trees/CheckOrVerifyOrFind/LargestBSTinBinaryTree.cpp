@@ -153,7 +153,8 @@ And if it is right subtree then minimum value in it.
 3) Size of this subtree if this subtree is BST
 (In the following code, return value of largestBSTtil() is used for this purpose)
 
-max_ref is used for passing the maximum value up the tree and min_ptr is used for passing minimum value up the tree.
+max_ref is used for passing the maximum value up the tree and min_ptr is
+used for passing minimum value up the tree.
 */
 
 struct node* findLargestBSTSubtree(struct node *root,int& maxNodes) {

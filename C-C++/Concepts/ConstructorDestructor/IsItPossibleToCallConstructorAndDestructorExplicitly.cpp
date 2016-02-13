@@ -7,9 +7,6 @@
 
 /*
  * Is it possible to call constructor and destructor explicitly?
-All the days of the afflicted are evil but he
-that is of a merry heart hath a continual feast.
-Proverbs 15:15 (Bible)
 
 Constructor is a special member function that is automatically called by compiler when object is created
 and destructor is also special member function that is also implicitly called by compiler when object goes

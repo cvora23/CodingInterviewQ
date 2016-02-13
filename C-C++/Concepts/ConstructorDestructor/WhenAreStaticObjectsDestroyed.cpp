@@ -7,8 +7,6 @@
 
 /*
  * When are static objects destroyed?
-Remain Careful from these two persons
-new friends and old enemies — Kabir
 
 What is static keyword in C++?
 static keyword can be applied to local variables, functions, class’ data members and objects in C++.

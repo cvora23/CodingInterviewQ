@@ -41,10 +41,12 @@ Output:
 
 undefined reference to `printf(char const*, ...)'
         ld returned 1 exit status
-The reason for compiler error is simple, name of printf is changed by C++ compiler and it doesn’t find definition of the function with new name.
+The reason for compiler error is simple, name of printf is changed by C++ compiler and it doesn’t
+find definition of the function with new name.
 
 The solution of problem is extern “C” in C++. When some code is put in extern “C” block, the C++
-compiler ensures that the function names are unmangled – that the compiler emits a binary file with their names unchanged, as a C compiler would do.
+compiler ensures that the function names are unmangled – that the compiler emits a binary file with
+their names unchanged, as a C compiler would do.
 
 If we change the above program to following, the program works fine and prints “GeeksforGeeks” on console.
 

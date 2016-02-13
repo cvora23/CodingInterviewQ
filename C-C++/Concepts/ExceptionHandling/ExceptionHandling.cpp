@@ -67,6 +67,7 @@ Before try
 Inside try
 Exception Caught
 After catch (Will be executed)
+
 2) There is a special catch block called ‘catch all’ catch(…) that can be used to catch all types of
 exceptions. For example, in the following program, an int is thrown as an exception, but there is no
 catch block for int, so catch(…) block will be executed.
@@ -88,8 +89,8 @@ int main()
     return 0;
 }
 Output:
-
 Default Exception
+
 3) Implicit type conversion doesn’t happen for primitive types. For example, in the following program ‘a’ is
 not implicitly converted to int
 
@@ -110,8 +111,8 @@ int main()
     return 0;
 }
 Output:
-
 Default Exception
+
 4) If an exception is thrown and not caught anywhere, the program terminates abnormally. For example, in the
 following program, a char is thrown, but there is no catch block to catch a char.
 
@@ -174,8 +175,8 @@ int main()
     return 0;
 }
 Output:
-
 Caught exception from fun()
+
 8) In C++, try-catch blocks can be nested. Also, an exception can be re-thrown using “throw; ”
 
 #include <iostream>
@@ -198,7 +199,6 @@ int main()
     return 0;
 }
 Output:
-
 Handle Partially Handle remaining
 A function can also re-throw a function using same “throw; “. A function can handle a part and can ask
 the caller to handle remaining.

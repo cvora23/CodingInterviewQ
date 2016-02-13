@@ -34,7 +34,7 @@ void append(struct node **q,int num)
 }
 int CheckIfEqual(struct node *p,struct node *q)
 {    
-     static int flag;
+     int flag;
      /**
       * Reached the end of linked list so Equal
       */
@@ -47,7 +47,7 @@ int CheckIfEqual(struct node *p,struct node *q)
          else if(p->data != q->data)
          flag = 0;
          else
-         CheckIfEqual(p->link,q->link);
+         flag = CheckIfEqual(p->link,q->link);
      }
      return flag;
      

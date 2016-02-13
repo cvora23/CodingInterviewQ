@@ -45,7 +45,8 @@ X X X X X X X
  */
 
 /*
- * This question was asked in campus recruitment of Shreepartners Gurgaon. I followed the following approach.
+ * This question was asked in campus recruitment of Shreepartners Gurgaon.
+ * I followed the following approach.
  * 1) Use the code for Printing Matrix in Spiral form.
  * 2) Instead of printing the array, inserted the element ‘X’ or ‘0’ alternatively in the array.
  */

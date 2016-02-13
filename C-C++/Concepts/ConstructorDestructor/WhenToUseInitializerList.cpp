@@ -233,7 +233,6 @@ constructor + destructor + one addition assignment operator call. And if we use 
 only two function calls: copy constructor + destructor call. See this post for a running example on this point.
 
 This assignment penalty will be much more in “real” applications where there will be many such variables.
-Thanks to ptr for adding this point.
  */
 
 

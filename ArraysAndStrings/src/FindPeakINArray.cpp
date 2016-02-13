@@ -7,7 +7,8 @@
 
 /*
  * Find a peak element
-Given an array of integers. Find a peak element in it. An array element is peak if it is NOT smaller than its neighbors.
+Given an array of integers. Find a peak element in it.
+ An array element is peak if it is NOT smaller than its neighbors.
 For corner elements, we need to consider only one neighbor. For example, for input array {5, 10, 20, 15},
 20 is the only peak element.
 For input array {10, 20, 15, 2, 23, 90, 67}, there are two peak elements: 20 and 90.
@@ -33,7 +34,8 @@ The worst case time complexity of this method would be O(n).
  * We can use Divide and Conquer to find a peak in O(Logn) time.
  * The idea is Binary Search based, we compare middle element with its neighbors.
  * If middle element is greater than both of its neighbors, then we return it.
- * If the middle element is smaller than the its left neighbor, then there is always a peak in left half (Why? take few examples).
+ * If the middle element is smaller than the its left neighbor, then there is always a peak in left half
+ * (Why? take few examples).
  * If the middle element is smaller than the its right neighbor, then there is always a peak in right half
  * (due to same reason as left half). Following is C implementation of this approach.
  */

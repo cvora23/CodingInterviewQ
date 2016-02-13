@@ -6,7 +6,8 @@
  */
 
 /*
- * Given an array of integers and a number x, find the smallest subarray with sum greater than the given value.
+ * Given an array of integers and a number x, find the smallest subarray with
+ * sum greater than the given value.
 
 Examples:
 arr[] = {1, 4, 45, 6, 0, 19}
@@ -53,7 +54,7 @@ int smallestSubWithSumSol1(int arr[], int n, int x)
           // If first element itself is greater
           if (curr_sum > x) return 1;
 
-          // Try different ending points for curremt start
+          // Try different ending points for current start
           for (int end=start+1; end<n; end++)
           {
               // add last element to current sum

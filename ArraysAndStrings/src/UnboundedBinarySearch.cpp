@@ -5,9 +5,12 @@
  *      Author: cvora
  */
 /*
- * Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
- * Given a function ‘int f(unsigned int x)’ which takes a non-negative integer ‘x’ as input and returns an integer as output.
- * The function is monotonically increasing with respect to value of x, i.e., the value of f(x+1) is greater than f(x)
+ * Unbounded Binary Search Example (Find the point where a monotonically
+ * increasing function becomes positive first time)
+ * Given a function ‘int f(unsigned int x)’ which takes a non-negative integer ‘x’
+ * as input and returns an integer as output.
+ * The function is monotonically increasing with respect to value of x, i.e.,
+ * the value of f(x+1) is greater than f(x)
  * for every input x. Find the value ‘n’ where f() becomes positive for the first time.
  * Since f() is monotonically increasing, values of f(n+1), f(n+2),… must be positive
  * and values of f(n-2), f(n-3), .. must be negative.

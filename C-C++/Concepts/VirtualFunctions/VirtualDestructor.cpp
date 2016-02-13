@@ -8,7 +8,8 @@
 /*
  * Deleting a derived class object using a pointer to a base class that has a non-virtual destructor results
  * in undefined behavior. To correct this situation, the base class should be defined with a virtual destructor.
-Source: https://www.securecoding.cert.org/confluence/display/cplusplus/OOP34-CPP.+Ensure+the+proper+destructor+is+called+for+polymorphic+objects
+Source:
+https://www.securecoding.cert.org/confluence/display/cplusplus/OOP34-CPP.+Ensure+the+proper+destructor+is+called+for+polymorphic+objects
 
 For example, following program results in undefined behavior. Although the output of following program may be
 different on different compilers, when compiled using Dev-CPP, it prints following.

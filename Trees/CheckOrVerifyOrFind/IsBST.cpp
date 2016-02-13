@@ -128,7 +128,8 @@ int isBST1(struct node* node)
 	We can avoid the use of Auxiliary Array. While doing In-Order traversal,
 	we can keep track of previously visited node. If the value of the currently
 	visited node is less than the previous value, then tree is not BST.
-	The use of static variable can also be avoided by using reference to prev node as a parameter.
+	The use of static variable can also be avoided by using reference
+	to prev node as a parameter.
  */
 bool isBST2(struct node* root)
 {

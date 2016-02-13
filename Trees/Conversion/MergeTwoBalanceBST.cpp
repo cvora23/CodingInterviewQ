@@ -8,6 +8,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+ *  (Merge Inorder Traversals)
+1) Do inorder traversal of first tree and store the traversal in one temp array arr1[].
+This step takes O(m) time.
+2) Do inorder traversal of second tree and store the traversal in another temp array arr2[].
+This step takes O(n) time.
+3) The arrays created in step 1 and 2 are sorted arrays.
+Merge the two sorted arrays into one array of size m + n. This step takes O(m+n) time.
+4) Construct a balanced tree from the merged array using the technique discussed in this post.
+This step takes O(m+n) time.
+
+ */
+
 /* A binary tree node has data, pointer to left child
    and a pointer to right child */
 struct node
@@ -25,7 +38,7 @@ void storeInorder(struct node* node, int inorder[], int *index_ptr);
 
 /* A function that constructs Balanced Binary Search Tree from a sorted array
    See http://www.geeksforgeeks.org/archives/17138 */
-struct node* sortedArrayToBST(int arr[], int start, int end);
+struct node* sortedArrayToBalancedBST(int arr[], int start, int end);
 
 /* This function merges two balanced BSTs with roots as root1 and root2.
    m and n are the sizes of the trees respectively */
@@ -45,7 +58,7 @@ struct node* mergeTrees(struct node *root1, struct node *root2, int m, int n)
     int *mergedArr = merge(arr1, arr2, m, n);
 
     // Construct a tree from the merged array and return root of the tree
-    return sortedArrayToBST (mergedArr, 0, m+n-1);
+    return sortedArrayToBalancedBST (mergedArr, 0, m+n-1);
 }
 
 /* Helper function that allocates a new node with the
@@ -135,7 +148,7 @@ void storeInorder(struct node* node, int inorder[], int *index_ptr)
 
 /* A function that constructs Balanced Binary Search Tree from a sorted array
    See http://www.geeksforgeeks.org/archives/17138 */
-struct node* sortedArrayToBST(int arr[], int start, int end)
+struct node* sortedArrayToBalancedBST(int arr[], int start, int end)
 {
     /* Base Case */
     if (start > end)
@@ -147,11 +160,11 @@ struct node* sortedArrayToBST(int arr[], int start, int end)
 
     /* Recursively construct the left subtree and make it
        left child of root */
-    root->left =  sortedArrayToBST(arr, start, mid-1);
+    root->left =  sortedArrayToBalancedBST(arr, start, mid-1);
 
     /* Recursively construct the right subtree and make it
        right child of root */
-    root->right = sortedArrayToBST(arr, mid+1, end);
+    root->right = sortedArrayToBalancedBST(arr, mid+1, end);
 
     return root;
 }

@@ -23,7 +23,8 @@ int main()
 }
 //2) A static member function cannot be virtual (See this G-Fact)
 //
-//3) Member function declarations with the same name and the name parameter-type-list cannot be overloaded if any of them is a static member function declaration.
+//3) Member function declarations with the same name and the name
+// parameter-type-list cannot be overloaded if any of them is a static member function declaration.
 //For example, following program fails in compilation with error “‘void Test::fun()’ and `static void Test::fun()’ cannot be overloaded ”
 
 #include<iostream>
@@ -38,7 +39,8 @@ int main()
    return 0;
 }
 //4) A static member function can not be declared const, volatile, or const volatile.
-//For example, following program fails in compilation with error “static member function `static void Test::fun()’ cannot have `const’ method qualifier ”
+//For example, following program fails in compilation with error “static member function
+//`static void Test::fun()’ cannot have `const’ method qualifier ”
 
 #include<iostream>
 class Test {

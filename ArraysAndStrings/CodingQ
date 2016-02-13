@@ -17,7 +17,7 @@ Arrays
 14:FindSubarrayGivenSum.cpp
 15:RemoveMinElementsFromEitherSideSuchThat2xMinBecomesMoreThanMax.cpp
 16:FindNoZeroes.cpp
-17:FIndIfSubarrayWithSumZero.cpp
+17:FindIfSubarrayWithSumZero.cpp
 18:RearrangeArraySoThatArriBecomsArrArriWith01Space.cpp
 19:CountAllPathsFromTopLeftToBottomRightOfMxNMatrix.cpp
 20:CountDistinctPairsWithDifferenceEqualK.cpp

@@ -15,9 +15,8 @@ But there are exceptions where we can have invalid references.
 
 int *ptr;
 int &ref = *ptr;  // Reference to value at some random memory location
+
 2) Reference to a local variable is returned.
-
-
 
 // This could even return value 10.
  * Reason:

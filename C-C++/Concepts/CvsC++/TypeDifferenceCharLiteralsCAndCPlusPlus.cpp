@@ -9,7 +9,8 @@
  * Type difference of character literals in C and C++
 Every literal (constant) in C/C++ will have a type information associated with it.
 
-In both C and C++, numeric literals (e.g. 10) will have int as their type. It means sizeof(10) and sizeof(int) will return same value.
+In both C and C++, numeric literals (e.g. 10) will have int as their type.
+It means sizeof(10) and sizeof(int) will return same value.
 
 However, character literals (e.g. ‘V’) will have different types, sizeof(‘V’) returns different values in C and C++.
 In C, a character literal is treated as int type where as in C++, a character literal is treated as char type

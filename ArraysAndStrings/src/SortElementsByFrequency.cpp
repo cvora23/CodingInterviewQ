@@ -10,7 +10,8 @@
 Asked By Binod
 
 Question:
-Print the elements of an array in the decreasing frequency if 2 numbers have same frequency then print the one which came 1st
+Print the elements of an array in the decreasing frequency if 2 numbers have
+same frequency then print the one which came 1st
 E.g. 2 5 2 8 5 6 8 8 output: 8 8 8 2 2 5 5 6.
 
 
@@ -40,9 +41,11 @@ Example:
   6, 1
 
 There is one issue with above approach (thanks to ankit for pointing this out).
-If we modify the input to 5 2 2 8 5 6 8 8, then we should get 8 8 8 5 5 2 2 6 and not 8 8 8 2 2 5 5 6 as will be the case.
+If we modify the input to 5 2 2 8 5 6 8 8, then we should get 8 8 8 5 5 2 2 6
+and not 8 8 8 2 2 5 5 6 as will be the case.
 To handle this, we should use indexes in step 3, if two counts are same then we should
-first process(or print) the element with lower index. In step 1, we should store the indexes instead of elements.
+first process(or print) the element with lower index.
+In step 1, we should store the indexes instead of elements.
 
   Input 5  2  2  8  5  6  8  8
 
@@ -72,10 +75,13 @@ first process(or print) the element with lower index. In step 1, we should store
 1) Create a BST and while creating BST maintain the count i,e frequency of each coming element in same BST.
 This step may take O(nLogn) time if a self balancing BST is used.
 2) Do Inorder traversal of BST and store every element and count of each element in an auxiliary array.
-Let us call the auxiliary array as ‘count[]’. Note that every element of this array is element and frequency pair.
+Let us call the auxiliary array as ‘count[]’.
+Note that every element of this array is element and frequency pair.
 This step takes O(n) time.
-3) Sort ‘count[]’ according to frequency of the elements. This step takes O(nLohn) time if a O(nLogn) sorting algorithm is used.
-4) Traverse through the sorted array ‘count[]’. For each element x, print it ‘freq’ times where ‘freq’ is frequency of x. This step takes O(n) time.
+3) Sort ‘count[]’ according to frequency of the elements.
+This step takes O(nLohn) time if a O(nLogn) sorting algorithm is used.
+4) Traverse through the sorted array ‘count[]’.
+For each element x, print it ‘freq’ times where ‘freq’ is frequency of x. This step takes O(n) time.
 
 Overall time complexity of the algorithm can be minimum O(nLogn) if we use a O(nLogn) sorting algorithm and
 use a self balancing BST with O(Logn) insert operation.

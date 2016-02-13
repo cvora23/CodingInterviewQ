@@ -7,8 +7,8 @@
 
 /*
  * Can virtual functions be private in C++?
-In C++, virtual functions can be private and can be overridden by the derived class. For example,
-the following program compiles and runs fine.
+In C++, virtual functions can be private and can be overridden by the derived class.
+For example,the following program compiles and runs fine.
 
 #include<iostream>
 using namespace std;

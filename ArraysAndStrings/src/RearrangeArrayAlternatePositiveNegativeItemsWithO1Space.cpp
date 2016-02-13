@@ -72,6 +72,11 @@ void rearrange(int arr[], int n)
                 rightrotate(arr, n, outofplace, index);
 
                 // the new out-of-place entry is now 2 steps ahead
+                // because as an example:
+                // if we find negative number which is out of place and corresponding
+                // next entry is also negative that means, even after rotation
+                // the new negative entry index is again out of place.
+                // Therefore the statement: outplace = outplace + 2;
                 if (index - outofplace > 2)
                     outofplace = outofplace + 2;
                 else
@@ -84,7 +89,9 @@ void rearrange(int arr[], int n)
         if (outofplace == -1)
         {
             // check if current entry is out-of-place
+        	// out of place because positive and at even index
             if (((arr[index] >= 0) && (!(index & 0x01)))
+            		// or out of place because negative and at odd index
                 || ((arr[index] < 0) && (index & 0x01)))
             {
                 outofplace = index;

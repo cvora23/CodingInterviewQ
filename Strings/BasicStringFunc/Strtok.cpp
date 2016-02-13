@@ -25,7 +25,7 @@ char *Strtok(char *str,char*delim)
     static char *s;
     int start = pos;
     if(str!=NULL)
-    s = str;
+    	s = str;
     int j=0;
 
 	//While not end of string
@@ -50,6 +50,8 @@ char *Strtok(char *str,char*delim)
 					  cout<<"RETURNING FROM INSIDE"<<endl;
 					  return &s[start];
 				  }
+				  // this case arises when there is delimeter after
+				  // delimeter one-after another.
 				  else
 				  {
         			  // Move to the next string after the delimiter

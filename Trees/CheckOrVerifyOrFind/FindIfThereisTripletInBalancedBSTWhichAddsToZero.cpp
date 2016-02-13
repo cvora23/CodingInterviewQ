@@ -125,6 +125,7 @@ bool isTripletPresent(node *root)
 
     // Now iterate through every node and find if there is a pair with sum
     // equal to -1 * heaf->key where head is current node
+    // head->key has to be negative for the sum of triplets to be zero
     while ((head->right != tail) && (head->key < 0))
     {
         // If there is a pair with sum equal to  -1*head->key, then return

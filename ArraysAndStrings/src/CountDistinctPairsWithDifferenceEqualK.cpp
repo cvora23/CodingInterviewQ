@@ -6,7 +6,8 @@
  */
 /*
  * Count all distinct pairs with difference equal to k
-Given an integer array and a positive integer k, count all distinct pairs with difference equal to k.
+Given an integer array and a positive integer k,
+count all distinct pairs with difference equal to k.
 
 Examples:
 

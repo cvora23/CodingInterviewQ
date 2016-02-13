@@ -47,11 +47,13 @@ subsequent array dimensions are significant in parameter types. For example, fol
 
 int fun(int *ptr);
 int fun(int ptr[]); // redeclaration of fun(int *ptr)
+
 4) Parameter declarations that differ only in that one is a function type and the other is a pointer
 to the same function type are equivalent.
 
 void h(int ());
 void h(int (*)()); // redeclaration of h(int())
+
 5) Parameter declarations that differ only in the presence or absence of const and/or volatile are equivalent.
 That is, the const and volatile type-specifiers for each parameter type are ignored when determining which
 function is being declared, defined, or called. For example, following program fails in

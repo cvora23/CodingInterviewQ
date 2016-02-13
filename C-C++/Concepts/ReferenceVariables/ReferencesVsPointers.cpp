@@ -27,10 +27,12 @@ References are safer and easier to use:
 It is still possible to have references that don’t refer to a valid location (See questions 5 and 6 in the below exercise )
 2) Easier to use: References don’t need dereferencing operator to access the value.
 They can be used like normal variables. ‘&’ operator is needed only at the time of declaration.
-Also, members of an object reference can be accessed with dot operator (‘.’), unlike pointers where arrow operator (->) is needed to access members.
+Also, members of an object reference can be accessed with dot operator (‘.’),
+unlike pointers where arrow operator (->) is needed to access members.
 
 Together with the above reasons, there are few places like copy constructor argument where pointer cannot be used.
-Reference must be used pass the argument in copy constructor. Similarly references must be used for overloading some operators like ++.
+Reference must be used pass the argument in copy constructor.
+Similarly references must be used for overloading some operators like ++.
  */
 
 

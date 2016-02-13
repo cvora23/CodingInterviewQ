@@ -9,7 +9,7 @@
  * Doubly Linked list can be created using only one space for address filed with every node.
  * In this post, we will discuss implementation of memory efficient doubly linked list.
  * 1:Function to insert a new node at the beginning
- * 2:Function to traverse the list in forward direction
+ * 2:Function to traverse the list in forward direction and print elements too.
  */
 
 

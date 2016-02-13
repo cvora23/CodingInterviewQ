@@ -14,7 +14,8 @@
  * should be same. Expected time complexity is O(n) and extra space is O(1).
  *
  *
- * There can be many ways to solve this problem. Following is a simple and interesting way to solve this problem.
+ * There can be many ways to solve this problem.
+ * Following is a simple and interesting way to solve this problem.
  * Traverse the given array ‘arr’ from left to right. While traversing, maintain count
  * of non-zero elements in array. Let the count be ‘count’. For every non-zero element arr[i],
  * put the element at ‘arr[count]‘ and increment ‘count’. After complete traversal,
@@ -30,7 +31,8 @@ using namespace std;
 
 /*
  * ALGO:
- * There can be many ways to solve this problem. Following is a simple and interesting way to solve this problem.
+ * There can be many ways to solve this problem.
+ * Following is a simple and interesting way to solve this problem.
  * Traverse the given array ‘arr’ from left to right. While traversing, maintain
  * count of non-zero elements in array. Let the count be ‘count’. For every non-zero
  * element arr[i], put the element at ‘arr[count]‘ and increment ‘count’. After complete
