@@ -34,5 +34,15 @@ struct node* newNode(int data)
   return(node);
 }
 
+// A utility function to print inorder traversal of a Binary Tree
+void printInorder (node* node)
+{
+    if (node == NULL)
+        return;
+    printInorder(node->left);
+    printf("%d ", node->data);
+    printInorder(node->right);
+}
+
 
 #endif /* INCLUDE_BTREE_H_ */

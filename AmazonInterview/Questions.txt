@@ -302,3 +302,24 @@ If a number is used once, it must not be used again.
 eg if input array is 6444 and sum =10 
 output must be just 6 4 
 Give an O(n) solution
+
+48: Given a Binary Search Tree, Serialize/Deserialze it.
+
+49: Given a Binary Tree, Serialize/Deserialize it
+
+50: Given an array {2, 4, 6, 0, 1, 8, 1}, where each element represents the height 
+of tower located at its index. I was supposed to tell how much 
+maximum water can accumulate in this “valley” once it rains.
+
+51:Given the encoding rule:
+A -> 0
+B -> 1
+C -> 2
+…
+K -> 10
+…
+Z -> 25
+I was supposed to get the number of original strings possible 
+given an encoded input.
+E.g., Given input 10, two possible original strings are possible 
+BA and K, the answer is 2.

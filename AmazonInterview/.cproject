@@ -92,7 +92,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -140,7 +140,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -191,7 +191,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test3.cpp|src/Test2.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test3.cpp|src/Test2.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -242,7 +242,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -293,7 +293,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -344,7 +344,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -395,7 +395,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -446,7 +446,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -497,7 +497,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -548,7 +548,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -599,7 +599,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -650,7 +650,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -701,7 +701,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -752,7 +752,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -803,7 +803,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -854,7 +854,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -905,7 +905,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -956,7 +956,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1007,7 +1007,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1058,7 +1058,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1109,7 +1109,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1160,7 +1160,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1211,7 +1211,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1262,7 +1262,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1313,7 +1313,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1364,7 +1364,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1415,7 +1415,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1466,7 +1466,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1517,7 +1517,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1568,7 +1568,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1619,7 +1619,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1670,7 +1670,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1721,7 +1721,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1772,7 +1772,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1823,7 +1823,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1874,7 +1874,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1925,7 +1925,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2022,7 +2022,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2119,7 +2119,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2216,7 +2216,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2313,7 +2313,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2410,7 +2410,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2507,7 +2507,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2604,7 +2604,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2701,7 +2701,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2798,7 +2798,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test45.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test45.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2895,7 +2895,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Example44.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Example44.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -2992,7 +2992,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -3089,7 +3089,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -3186,7 +3186,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -3283,7 +3283,589 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1047561074">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1047561074" moduleId="org.eclipse.cdt.core.settings" name="Example50">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}${ConfigName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug,org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe" cleanCommand="rm -rf" description="" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1047561074" name="Example50" parent="cdt.managedbuild.config.gnu.exe.debug">
+					<folderInfo id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1047561074." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.exe.debug.1881382101" name="Linux GCC" superClass="cdt.managedbuild.toolchain.gnu.exe.debug">
+							<targetPlatform id="cdt.managedbuild.target.gnu.platform.exe.debug.252931730" name="Debug Platform" superClass="cdt.managedbuild.target.gnu.platform.exe.debug"/>
+							<builder buildPath="${workspace_loc:/Ch03Project}/Debug" id="cdt.managedbuild.target.gnu.builder.exe.debug.836150437" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" superClass="cdt.managedbuild.target.gnu.builder.exe.debug">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Debug"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Release"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example1"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example2"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example3"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example4"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example5"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example6"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example7"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example8"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example9"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example10"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example11"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example12"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example13"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example14"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example15"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example16"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example17"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example18"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example19"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example20"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example21"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example22"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example23"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example24"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example25"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example26"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example27"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example28"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example29"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example30"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example31"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example32"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example33"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example34"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example35"/>
+								</outputEntries>
+							</builder>
+							<tool id="cdt.managedbuild.tool.gnu.archiver.base.1477885012" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.277631205" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug">
+								<option id="gnu.cpp.compiler.exe.debug.option.optimization.level.418647072" name="Optimization Level" superClass="gnu.cpp.compiler.exe.debug.option.optimization.level" value="gnu.cpp.compiler.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.1018153663" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.option.include.paths.941565401" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.2019026433" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1153109972" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug">
+								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.exe.debug.option.optimization.level.622345875" name="Optimization Level" superClass="gnu.c.compiler.exe.debug.option.optimization.level" valueType="enumerated"/>
+								<option id="gnu.c.compiler.exe.debug.option.debugging.level.720253404" name="Debug Level" superClass="gnu.c.compiler.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.include.paths.1998575029" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1373253367" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.linker.exe.debug.1872209733" name="GCC C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.exe.debug"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1672068964" name="GCC C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1786532459" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.assembler.exe.debug.782730837" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.exe.debug">
+								<option id="gnu.both.asm.option.include.paths.959784810" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.856348652" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="cdt.managedbuild.config.gnu.exe.debug.2114143187.95753896">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.95753896" moduleId="org.eclipse.cdt.core.settings" name="Example51">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}${ConfigName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug,org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe" cleanCommand="rm -rf" description="" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.95753896" name="Example51" parent="cdt.managedbuild.config.gnu.exe.debug">
+					<folderInfo id="cdt.managedbuild.config.gnu.exe.debug.2114143187.95753896." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.exe.debug.634419853" name="Linux GCC" superClass="cdt.managedbuild.toolchain.gnu.exe.debug">
+							<targetPlatform id="cdt.managedbuild.target.gnu.platform.exe.debug.1357299087" name="Debug Platform" superClass="cdt.managedbuild.target.gnu.platform.exe.debug"/>
+							<builder buildPath="${workspace_loc:/Ch03Project}/Debug" id="cdt.managedbuild.target.gnu.builder.exe.debug.761270995" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" superClass="cdt.managedbuild.target.gnu.builder.exe.debug">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Debug"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Release"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example1"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example2"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example3"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example4"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example5"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example6"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example7"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example8"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example9"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example10"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example11"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example12"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example13"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example14"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example15"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example16"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example17"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example18"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example19"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example20"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example21"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example22"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example23"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example24"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example25"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example26"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example27"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example28"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example29"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example30"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example31"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example32"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example33"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example34"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example35"/>
+								</outputEntries>
+							</builder>
+							<tool id="cdt.managedbuild.tool.gnu.archiver.base.632560404" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.198483634" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug">
+								<option id="gnu.cpp.compiler.exe.debug.option.optimization.level.475259333" name="Optimization Level" superClass="gnu.cpp.compiler.exe.debug.option.optimization.level" value="gnu.cpp.compiler.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.1535572742" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.option.include.paths.1114526700" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.805397280" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.153545767" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug">
+								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.exe.debug.option.optimization.level.638173110" name="Optimization Level" superClass="gnu.c.compiler.exe.debug.option.optimization.level" valueType="enumerated"/>
+								<option id="gnu.c.compiler.exe.debug.option.debugging.level.1375993620" name="Debug Level" superClass="gnu.c.compiler.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.include.paths.1729861364" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.759892652" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.linker.exe.debug.41448522" name="GCC C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.exe.debug"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.364121358" name="GCC C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.519775330" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.assembler.exe.debug.28876868" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.exe.debug">
+								<option id="gnu.both.asm.option.include.paths.552634576" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.774844191" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="cdt.managedbuild.config.gnu.exe.debug.2114143187.115371405">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.115371405" moduleId="org.eclipse.cdt.core.settings" name="Example52">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}${ConfigName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug,org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe" cleanCommand="rm -rf" description="" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.115371405" name="Example52" parent="cdt.managedbuild.config.gnu.exe.debug">
+					<folderInfo id="cdt.managedbuild.config.gnu.exe.debug.2114143187.115371405." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.exe.debug.878061216" name="Linux GCC" superClass="cdt.managedbuild.toolchain.gnu.exe.debug">
+							<targetPlatform id="cdt.managedbuild.target.gnu.platform.exe.debug.186486095" name="Debug Platform" superClass="cdt.managedbuild.target.gnu.platform.exe.debug"/>
+							<builder buildPath="${workspace_loc:/Ch03Project}/Debug" id="cdt.managedbuild.target.gnu.builder.exe.debug.1925093248" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" superClass="cdt.managedbuild.target.gnu.builder.exe.debug">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Debug"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Release"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example1"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example2"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example3"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example4"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example5"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example6"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example7"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example8"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example9"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example10"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example11"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example12"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example13"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example14"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example15"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example16"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example17"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example18"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example19"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example20"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example21"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example22"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example23"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example24"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example25"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example26"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example27"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example28"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example29"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example30"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example31"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example32"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example33"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example34"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example35"/>
+								</outputEntries>
+							</builder>
+							<tool id="cdt.managedbuild.tool.gnu.archiver.base.2046617585" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1034482701" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug">
+								<option id="gnu.cpp.compiler.exe.debug.option.optimization.level.773816898" name="Optimization Level" superClass="gnu.cpp.compiler.exe.debug.option.optimization.level" value="gnu.cpp.compiler.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.162017979" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.option.include.paths.1175603807" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.136413906" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.2010687125" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug">
+								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.exe.debug.option.optimization.level.1809847488" name="Optimization Level" superClass="gnu.c.compiler.exe.debug.option.optimization.level" valueType="enumerated"/>
+								<option id="gnu.c.compiler.exe.debug.option.debugging.level.1362866081" name="Debug Level" superClass="gnu.c.compiler.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.include.paths.562250150" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1173587377" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.linker.exe.debug.465318340" name="GCC C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.exe.debug"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.2026880311" name="GCC C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.2059105735" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.assembler.exe.debug.1985951697" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.exe.debug">
+								<option id="gnu.both.asm.option.include.paths.1173780501" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1112165865" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1776701860">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1776701860" moduleId="org.eclipse.cdt.core.settings" name="Example53">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}${ConfigName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug,org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe" cleanCommand="rm -rf" description="" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1776701860" name="Example53" parent="cdt.managedbuild.config.gnu.exe.debug">
+					<folderInfo id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1776701860." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.exe.debug.1956522481" name="Linux GCC" superClass="cdt.managedbuild.toolchain.gnu.exe.debug">
+							<targetPlatform id="cdt.managedbuild.target.gnu.platform.exe.debug.910710754" name="Debug Platform" superClass="cdt.managedbuild.target.gnu.platform.exe.debug"/>
+							<builder buildPath="${workspace_loc:/Ch03Project}/Debug" id="cdt.managedbuild.target.gnu.builder.exe.debug.632815028" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" superClass="cdt.managedbuild.target.gnu.builder.exe.debug">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Debug"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Release"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example1"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example2"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example3"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example4"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example5"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example6"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example7"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example8"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example9"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example10"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example11"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example12"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example13"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example14"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example15"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example16"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example17"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example18"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example19"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example20"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example21"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example22"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example23"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example24"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example25"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example26"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example27"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example28"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example29"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example30"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example31"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example32"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example33"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example34"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example35"/>
+								</outputEntries>
+							</builder>
+							<tool id="cdt.managedbuild.tool.gnu.archiver.base.352235564" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.670854248" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug">
+								<option id="gnu.cpp.compiler.exe.debug.option.optimization.level.1594192162" name="Optimization Level" superClass="gnu.cpp.compiler.exe.debug.option.optimization.level" value="gnu.cpp.compiler.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.842069585" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.option.include.paths.54987503" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.79610983" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1804549741" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug">
+								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.exe.debug.option.optimization.level.1825161826" name="Optimization Level" superClass="gnu.c.compiler.exe.debug.option.optimization.level" valueType="enumerated"/>
+								<option id="gnu.c.compiler.exe.debug.option.debugging.level.305731478" name="Debug Level" superClass="gnu.c.compiler.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.include.paths.214271114" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.361896597" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.linker.exe.debug.290922460" name="GCC C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.exe.debug"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1249898071" name="GCC C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.50948317" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.assembler.exe.debug.1113676629" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.exe.debug">
+								<option id="gnu.both.asm.option.include.paths.789695092" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.802254553" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="cdt.managedbuild.config.gnu.exe.debug.2114143187.327851338">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.327851338" moduleId="org.eclipse.cdt.core.settings" name="Example54">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}${ConfigName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug,org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe" cleanCommand="rm -rf" description="" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.327851338" name="Example54" parent="cdt.managedbuild.config.gnu.exe.debug">
+					<folderInfo id="cdt.managedbuild.config.gnu.exe.debug.2114143187.327851338." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.exe.debug.938412048" name="Linux GCC" superClass="cdt.managedbuild.toolchain.gnu.exe.debug">
+							<targetPlatform id="cdt.managedbuild.target.gnu.platform.exe.debug.809226172" name="Debug Platform" superClass="cdt.managedbuild.target.gnu.platform.exe.debug"/>
+							<builder buildPath="${workspace_loc:/Ch03Project}/Debug" id="cdt.managedbuild.target.gnu.builder.exe.debug.133593607" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" superClass="cdt.managedbuild.target.gnu.builder.exe.debug">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Debug"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Release"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example1"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example2"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example3"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example4"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example5"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example6"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example7"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example8"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example9"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example10"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example11"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example12"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example13"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example14"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example15"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example16"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example17"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example18"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example19"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example20"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example21"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example22"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example23"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example24"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example25"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example26"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example27"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example28"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example29"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example30"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example31"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example32"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example33"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example34"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example35"/>
+								</outputEntries>
+							</builder>
+							<tool id="cdt.managedbuild.tool.gnu.archiver.base.592713414" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.992239832" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug">
+								<option id="gnu.cpp.compiler.exe.debug.option.optimization.level.1499141271" name="Optimization Level" superClass="gnu.cpp.compiler.exe.debug.option.optimization.level" value="gnu.cpp.compiler.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.1501313856" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.option.include.paths.662407733" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.741422951" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.1693386117" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug">
+								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.exe.debug.option.optimization.level.1799316905" name="Optimization Level" superClass="gnu.c.compiler.exe.debug.option.optimization.level" valueType="enumerated"/>
+								<option id="gnu.c.compiler.exe.debug.option.debugging.level.1712932734" name="Debug Level" superClass="gnu.c.compiler.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.include.paths.741201481" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.27189740" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.linker.exe.debug.508846693" name="GCC C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.exe.debug"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.534657322" name="GCC C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.819198790" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.assembler.exe.debug.1012790419" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.exe.debug">
+								<option id="gnu.both.asm.option.include.paths.563299941" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.304700949" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1719443079">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1719443079" moduleId="org.eclipse.cdt.core.settings" name="Example55">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}${ConfigName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug,org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe" cleanCommand="rm -rf" description="" id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1719443079" name="Example55" parent="cdt.managedbuild.config.gnu.exe.debug">
+					<folderInfo id="cdt.managedbuild.config.gnu.exe.debug.2114143187.1719443079." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.exe.debug.93612323" name="Linux GCC" superClass="cdt.managedbuild.toolchain.gnu.exe.debug">
+							<targetPlatform id="cdt.managedbuild.target.gnu.platform.exe.debug.1318969849" name="Debug Platform" superClass="cdt.managedbuild.target.gnu.platform.exe.debug"/>
+							<builder buildPath="${workspace_loc:/Ch03Project}/Debug" id="cdt.managedbuild.target.gnu.builder.exe.debug.240218801" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" superClass="cdt.managedbuild.target.gnu.builder.exe.debug">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Debug"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Release"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example1"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example2"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example3"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example4"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example5"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example6"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example7"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example8"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example9"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example10"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example11"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example12"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example13"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example14"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example15"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example16"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example17"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example18"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example19"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example20"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example21"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example22"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example23"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example24"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example25"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example26"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example27"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example28"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example29"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example30"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example31"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example32"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example33"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example34"/>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name="Example35"/>
+								</outputEntries>
+							</builder>
+							<tool id="cdt.managedbuild.tool.gnu.archiver.base.16629417" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.base"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.318411813" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug">
+								<option id="gnu.cpp.compiler.exe.debug.option.optimization.level.734807041" name="Optimization Level" superClass="gnu.cpp.compiler.exe.debug.option.optimization.level" value="gnu.cpp.compiler.optimization.level.none" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.exe.debug.option.debugging.level.891879234" name="Debug Level" superClass="gnu.cpp.compiler.exe.debug.option.debugging.level" value="gnu.cpp.compiler.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.cpp.compiler.option.include.paths.1503542569" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1398640594" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.491448807" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug">
+								<option defaultValue="gnu.c.optimization.level.none" id="gnu.c.compiler.exe.debug.option.optimization.level.605326548" name="Optimization Level" superClass="gnu.c.compiler.exe.debug.option.optimization.level" valueType="enumerated"/>
+								<option id="gnu.c.compiler.exe.debug.option.debugging.level.1788242186" name="Debug Level" superClass="gnu.c.compiler.exe.debug.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
+								<option id="gnu.c.compiler.option.include.paths.1317898785" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.186492907" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.c.linker.exe.debug.1681245894" name="GCC C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.exe.debug"/>
+							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.2042762996" name="GCC C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.542632369" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.assembler.exe.debug.1827716220" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.exe.debug">
+								<option id="gnu.both.asm.option.include.paths.1394753907" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/EclipseTemplateProject/EclipseTemplateProject/include}&quot;"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.795935697" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry excluding="src/Test51.cpp|src/Test39.cpp|src/Test42.cpp|src/Test50.cpp|src/Test49.cpp|src/Test48.cpp|src/Test47.cpp|src/Test46.cpp|src/Test44.cpp|src/Test45.cpp|src/Example44.cpp|src/Example45.cpp|src/Test43.cpp|src/Test41.cpp|src/Test40.cpp|src/Test38.cpp|src/Test37.cpp|src/Test21.cpp|src/Test36.cpp|src/Test35.cpp|src/Test34.cpp|src/Test33.cpp|src/Test32.cpp|src/Test31.cpp|src/Test30.cpp|src/Test29.cpp|src/Test28.cpp|src/Test27.cpp|src/Test26.cpp|src/Test25.cpp|src/Test24.cpp|src/Test23.cpp|src/Test22.cpp|src/Test20.cpp|src/Test19.cpp|src/Test18.cpp|src/Test17.cpp|src/Test16.cpp|src/Test15.cpp|src/Test14.cpp|src/Test13.cpp|src/Test12.cpp|src/Test11.cpp|src/Test10.cpp|src/Test9.cpp|src/Test8.cpp|src/Test7.cpp|src/Test6.cpp|src/CQueue.cpp|src/Test5.cpp|src/test4.cpp|src/Test2.cpp|src/Test1.cpp|src/Test3.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
