@@ -1,0 +1,88 @@
+1:Puzzle 38 | (Tic Tac Toe Puzzle)
+Statement:
+The game of Tic-Tac-Toe is being played between two players and it is in below state after six moves.
+
+   X  |   O   | 
+---------------------    
+   X  |       |
+---------------------    
+   0  |   0   |  X
+    
+    
+Can you answer following questions?
+Who will win the game, O or X?
+Which was the sixth mark and at which position?
+Assume that both the players are intelligent enough.
+
+2: In a one day international cricket match, considering no extras(no wides, no ‘no’ balls, etc.)
+and no overthrows.
+What is the maximum number of runs that a batsman can score in an ideal case ?
+Note:”Here we assume ideal and little practical scenario. We assume that batsman 
+can not run for more than 3 runs in a ball, as otherwise there is no limit, 
+he can run infinite runs(theoretically) in a ball, as far as opposite team does not catch the ball.”
+
+3: How to make 4 equilateral triangles with 6 match sticks?
+
+4: The following is a description of the instance of this famous puzzle involving 
+
+2 eggs and a building with 100 floors.
+Suppose that we wish to know which stories in a 100-story building are safe to 
+drop eggs from, and which will cause the eggs to break on landing. 
+What strategy should be used to drop eggs such that total number of drops 
+in worst case is minimized and we find the required floor.
+We may make a few assumptions:
+An egg that survives a fall can be used again.
+A broken egg must be discarded.
+The effect of a fall is the same for all eggs.
+If an egg breaks when dropped, then it would break if dropped from a higher floor.
+If an egg survives a fall then it would survive a shorter fall.
+
+5: Policeman decided to punish the Prisoner and asked him to make a statement. 
+The Prisoner should make such a statement so that he would be alive.
+If the statement is held true by Policeman, the Prisoner will be hanged to death 
+and if the statement is held false, the Prisoner will be shot dead.
+
+6: A Lady (L) bought an item of Rs 100 from the Shopkeeper (C). She paid him 
+through a 500 Rs Note. Realizing that he did not have change, the shopkeeper 
+C got change for that note from another shopkeeper (S) and paid Rs 400 to the Lady.
+After a few days, S realized that the note is fake, S went at C and took 500 Rs back from him 
+So in this whole process how much money did C loose in the end?
+
+7: A man is allocated a task. He doubles the task done everyday. 
+If the man completely does the task in 18 days, how many days did
+it take for the man to complete 25% of the task?
+
+8:You have got someone working for you for five days and a gold bar to pay him.
+ You must give them a piece of gold at the end of every day. 
+ What are the fewest number of cuts to the bar of gold that 
+ will allow you to pay him 1/5th each day?
+
+9: In year 2001 on October 2, 2001, the date in MMDDYYYY format was a palindrome 
+(same forwards as backwards), 10/02/2001 -> “10022001”
+When was the last palindrome date before 10/02/2001?
+
+10: A car has 4 tyres and 1 spare tyre. Each tyre can travel a maximum 
+distance of 20000 miles before wearing off. What is the maximum 
+distance the car can travel before you are forced to buy a new tyre?
+You are allowed to change tyres (using the spare tyre) unlimited number of times.
+
+11:Question: A newspaper made of 16 large sheets of paper folded in half.
+The newspaper has 64 pages altogether. 
+The first sheet contains pages 1, 2, 63, 64.
+http://d18khu5s3lkxd9.cloudfront.net//wp-content/uploads/2015/11/newspaper-puzzle.gif
+If we pick up a sheet containing page number 45. What are the other pages that this sheet contains?
+
+12: Measure 9 minutes from a 4 minutes hourglass and a 7 minutes hourglass?
+
+13: Three Employees want to know average of their salaries. 
+    They are not allowed to share their individual salaries.
+    
+14: There is an 8 by 8 chessboard in which two diagonally opposite corners have been cut off.
+You are given 31 dominos, and a single domino can cover exactly two squares. 
+Can you use the 31 dominos to cover the entire board?
+
+15: You are blindfolded and 10 coins are place in front of you on table. 
+You are allowed to touch the coins, but can’t tell which way up they are by feel. 
+You are told that there are 5 coins head up, and 5 coins tails up but not which ones are which.
+Can you make two piles of coins each with the same number of 
+heads up? You can flip the coins any number of times.
