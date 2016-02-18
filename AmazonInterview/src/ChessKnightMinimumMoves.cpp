@@ -6,8 +6,10 @@
  */
 
 /*
-   There is a chess board of dimension n X n. You are given with 2 squares on that board S(x1,y1) ;M(x2,y2).
-   S is a fixed point. M can move diagonally. it can move any number of steps or jumps in 1 move .
+   There is a chess board of dimension n X n.
+   You are given with 2 squares on that board S(x1,y1) ;M(x2,y2).
+   S is a fixed point. M can move diagonally.
+   it can move any number of steps or jumps in 1 move .
    Find the minimum number of moves M needs to reach S.
    Similar to a way Bishop moves in game of Chess
 */

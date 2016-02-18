@@ -26,8 +26,10 @@ void preCalcSum(vector<int>& arr) {
 }
 
 int subSum(vector<int>& arr, int x1, int x2) {
-    if (x1 > x2 || x1 < 0 || x2 >= arr.size()) return 0;
-    return sums[x2 + 1] - sums[x1];
+    if (x1 > x2 || x1 < 0 || x2 >= arr.size())
+    	return 0;
+    else
+    	return sums[x2 + 1] - sums[x1];
 }
 
 int main() {

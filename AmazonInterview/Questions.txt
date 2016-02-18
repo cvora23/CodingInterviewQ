@@ -7,7 +7,7 @@
    Do this in the most efficient way, and if possible without if statements.
 
 2: There is a chess board of dimension n X n. 
-You are given with 2 squares on that board S(x1,y1) ;M(x2,y2). 
+   You are given with 2 squares on that board S(x1,y1) ;M(x2,y2). 
    S is a fixed point. M can move diagonally. it can move any number of steps or jumps in 1 move . 
    Find the minimum number of moves M needs to reach S
    
@@ -40,7 +40,7 @@ You are given with 2 squares on that board S(x1,y1) ;M(x2,y2).
         T data,
         node neighbor
    }
-	A 
+	 A 
 	/ \ 
 	B C 
 	/ \ \ 
@@ -54,8 +54,7 @@ You are given with 2 squares on that board S(x1,y1) ;M(x2,y2).
 	D: E 
 	E: F
 
-10: Face to Face 
-Q4) two arrays given to you. First array contains number s. Second array contains key values. 
+10:two arrays given to you. First array contains number s. Second array contains key values. 
 
 We need to find smallest window in first array which covers all second array elements. 
 e.g: 

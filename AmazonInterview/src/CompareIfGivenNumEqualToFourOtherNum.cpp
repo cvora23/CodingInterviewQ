@@ -1,5 +1,4 @@
 /*
- * Test2.cpp
  *
  *  Created on: Jan 15, 2016
  *      Author: chintan
@@ -11,6 +10,10 @@
  * Given a number (200), compare it to four variables (E.G A,B,C,D)
    and return true if they are all equal to the given number.
    Do this in the most efficient way, and if possible without if statements.
+
+   XOR'ing the number with itself odd number of times would give the number itself.
+   When XOR'ing the number with itself even number of times would give 0.
+
  */
 
 bool checkSameAsNumber(int a,int b,int c,int d,int num){

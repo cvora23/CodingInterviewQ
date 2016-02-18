@@ -12,7 +12,7 @@ using namespace std;
 
 bool verify(const string& str) {
 	stack<char> s;
-	int i;
+	unsigned int i;
 
 	for (i = 0; i < str.size(); i++) {
 		if (str[i] == '<' || str[i] == '[' || str[i] == '(') {

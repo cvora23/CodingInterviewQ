@@ -72,20 +72,33 @@ public:
 
       int get(int key) {
             int hash = (key % TABLE_SIZE);
+            /*
+             * Check for linear probing if key doesn't match given hash index
+             * in table.
+             */
             while (table[hash] != NULL && table[hash]->getKey() != key)
                   hash = (hash + 1) % TABLE_SIZE;
+            // key is not in the hashmap
             if (table[hash] == NULL)
                   return -1;
             else
+            		// return the value
                   return table[hash]->getValue();
       }
 
       void put(int key, int value) {
             int hash = (key % TABLE_SIZE);
+            /**
+             * Linear Probing:
+             * 1: Check for next free entry
+             * 2: Also check if key is not repeted. If repeated delete old entry.
+             */
             while (table[hash] != NULL && table[hash]->getKey() != key)
                   hash = (hash + 1) % TABLE_SIZE;
+            // deleting old entry
             if (table[hash] != NULL)
                   delete table[hash];
+            // insert new value
             table[hash] = new HashEntry(key, value);
       }
 

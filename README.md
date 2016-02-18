@@ -101,3 +101,21 @@ Graphs
 2: Depth First Traversal
 3: Topological Sorting
 4: Find if path between two points in graph
+
+
+Difficult Questions
+============================================================
+1: Find Missing Element in Arithmetic Progression
+2: Permutation of a Number - Recursive and Iterative - Check it later !!!
+3: Get longest Sequence in Circular Q, with same number as starting and ending point at different indexes.
+4: Find Smallest Windows of keys in a given array.
+5: Minimum n elements from given stream of data.
+6: Design Data Structure with 0(1) operation
+7: Print Employee Hierarchy based on relationship given between them
+8: Rearrange Numbers in list to create maximum number
+9: Find Minimum distance between given pair of words in a string sentence.
+10:Forward Permutations of string
+11:Find Common Manager of Two Employees
+12:Find 'i'th most popular item sold on Amazon
+13:Check if path exists in Matrix Puzzle of 0's and 1's
+14:Generate Palindrome From String if Possible.s

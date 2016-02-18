@@ -30,8 +30,15 @@ struct myGreater
     bool operator()(T const &a, T const &b) const { return a > b; }
 };
 
+/*
+ * Inserting elements into the map in descending order based on the
+ * first digit as keys. Also the values would be actual values.
+ * If the first digits are same. Will sort all the elements based on
+ * descending order again.
+ */
 
 void maxNumFromGroupOfNumber(std::vector<int>vec){
+
 	std::map<int,std::vector<int>, std::greater<int> >table;
 	std::map<int,std::vector<int> >::iterator tableItr;
 

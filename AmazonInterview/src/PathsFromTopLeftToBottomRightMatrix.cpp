@@ -58,15 +58,11 @@ void moveAndPrint(Point& startPoint,const Point& endPoint,std::vector<Point>path
 	if(validateRightMove(startPoint)){
 		//std::cout<<"StartPoint after moving right = "<<startPoint<<std::endl;
 		moveAndPrint(startPoint,endPoint,path,index+1);
-	}else{
-		//std::cout<<"Cant move right from this point"<<std::endl;
 	}
 	// validate and move down
 	if(validateDownMove(currentPoint)){
 		//std::cout<<"StartPoint after moving down = "<<startPoint<<std::endl;
 		moveAndPrint(currentPoint,endPoint,path,index+1);
-	}else{
-		//std::cout<<"Cant move down from this point"<<std::endl;
 	}
 }
 

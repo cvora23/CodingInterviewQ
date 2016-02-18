@@ -41,10 +41,15 @@ void printNeighbors(struct node* root)
 {
   struct node *temp_node = root;
   int level = 0;
+
   std::deque< std::pair<int,struct node*> >mydeque;
+
   std::pair<int,struct node*> pairVal;
+
   mydeque.push_back(std::make_pair(level,temp_node));
+
   std::deque< std::pair<int,struct node*> >::iterator prevItr,nextItr;
+
   while(!mydeque.empty())
   {
 	prevItr = mydeque.begin();

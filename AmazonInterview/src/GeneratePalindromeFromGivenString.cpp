@@ -34,6 +34,7 @@ string generatePalindromeIfPossible(string ipStr){
 		for(int j=0;j<charSet[i]/2;j++){
 			convert << (char)i;
 			retVal += convert.str();
+			// clearing up old buffer, setting up new buffer
 			convert.str("");
 		}
 	}

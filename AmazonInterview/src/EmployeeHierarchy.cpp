@@ -35,6 +35,8 @@ public:
     void topologicalSort();
 };
 
+// Adding edges based on Boss - Employee relation
+
 Graph::Graph(list<EmployeeRecordVertice>employeeRecords)
 {
     this->employeeRecords = employeeRecords;
@@ -44,7 +46,6 @@ Graph::Graph(list<EmployeeRecordVertice>employeeRecords)
     /*
      * Starting adding edges based on employee record list
      */
-//    cout<<"Adding Edges"<<endl;
 
 	int index = 0;
 	int bossIndex = 0;

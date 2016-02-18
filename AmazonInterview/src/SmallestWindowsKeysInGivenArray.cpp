@@ -31,8 +31,7 @@ vector<int> smallestWindow(vector<int> input, vector<int> keys){
 		map.insert(std::make_pair(keys[i], 0));
 	}
 
-	unsigned int left, right;
-	left = right = 0;
+	unsigned int left =0, right = 0;
 
 	unsigned int len = INT_MAX;
 	int l=0, r=0;
