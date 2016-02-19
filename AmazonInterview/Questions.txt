@@ -322,3 +322,11 @@ I was supposed to get the number of original strings possible
 given an encoded input.
 E.g., Given input 10, two possible original strings are possible 
 BA and K, the answer is 2.
+
+52: Print Greatest Element on Right Side. Also print next greatest element
+
+53: Boundary traversal of Binary Tree
+
+54: Find Pythagoream Triplets in an array
+
+55:Serialize/Deserialize N-ary Tree

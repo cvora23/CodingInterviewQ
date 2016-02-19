@@ -21,6 +21,8 @@
 #include <math.h>
 #include <iostream>
 
+using namespace std;
+
 inline void require(bool requirement,
   const std::string& msg = "Requirement failed"){
   using namespace std;
@@ -108,6 +110,15 @@ using namespace std;
 		myItr++;
 	}
 	cout<<endl;
+}
+
+void printStack(std::stack<int>givenStack){
+	while(!givenStack.empty()){
+		int val = givenStack.top();
+		std::cout<<val<<" ";
+		givenStack.pop();
+	}
+	std::cout<<std::endl;
 }
 
 #endif /* REQUIRE_H_ */
