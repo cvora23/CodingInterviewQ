@@ -247,7 +247,7 @@ public:
 		if(poppedElem == getMin()){
 			stack2.pop();
 		}
-
+		return poppedElem;
 	}
 
 	int getMin(){

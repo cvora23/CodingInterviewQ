@@ -54,6 +54,22 @@ void ReverseDoublyLink(struct node **q)
      *q = r;
 }
 
+void ReverseDoublyLink2(struct  node **q){
+	struct node * curr = *q;
+	struct node *prev =NULL,*next = NULL;
+
+	while(curr != NULL){
+
+		next = curr->next;
+		curr->prev = next;
+		curr->next = prev;
+		prev = curr;
+		curr = next;
+	}
+
+	*q = prev;
+}
+
 void display(struct node *q)
 {
      while(q!=NULL)
@@ -74,7 +90,7 @@ int main()
     append(&p,5);
     display(p);
     cout<<"-------------------"<<endl;
-    ReverseDoublyLink(&p);
+    ReverseDoublyLink2(&p);
     display(p);
     return 0;
 }

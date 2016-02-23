@@ -54,6 +54,7 @@ int main()
 
     return 0;
 }
+
 What if we can’t decide from which type of object, the copy construction to be made? For example, virtual constructor
 creates an object of class hierarchy at runtime based on some input. When we want to copy construct an object from
 another object created by virtual constructor, we can’t use usual copy constructor. We need a special cloning function

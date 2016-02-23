@@ -39,7 +39,7 @@ these two elements (including these two).
 #include <assert.h>
 using namespace std;
 
-// Utility function to right rotate all elements between [outofplace, cur]
+// Utility function to right rotate all elements between [outofplace, cur] inclusive of them
 void rightrotate(int arr[], int n, int outofplace, int cur)
 {
     char tmp = arr[cur];
@@ -77,7 +77,7 @@ void rearrange(int arr[], int n)
                 // next entry is also negative that means, even after rotation
                 // the new negative entry index is again out of place.
                 // Therefore the statement: outplace = outplace + 2;
-                if (index - outofplace > 2)
+                if (index - outofplace >= 2)
                     outofplace = outofplace + 2;
                 else
                     outofplace = -1;
@@ -115,7 +115,7 @@ int main()
     //int arr[] = {-5, -3, -4, -5, -6, 2 , 8, 9, 1 , 4};
     //int arr[] = {5, 3, 4, 2, 1, -2 , -8, -9, -1 , -4};
     //int arr[] = {-5, 3, -4, -7, -1, -2 , -8, -9, 1 , -4};
-    int arr[] = {-5, -2, 5, 2, 4, 7, 1, 8, 0, -8};
+    int arr[] = {-5, -2, -5, 2, 4, 7, 1, 8, 0, -8};
     int n = sizeof(arr)/sizeof(arr[0]);
 
     cout << "Given array is \n";

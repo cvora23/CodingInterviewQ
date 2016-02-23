@@ -7,7 +7,8 @@
 
 /*
  * Copy elision in C++
-Copy elision (or Copy omission) is a compiler optimization technique that avoids unnecessary copying of objects.
+Copy elision (or Copy omission) is a compiler optimization technique that avoids unnecessary
+copying of objects.
 Now a days, almost every compiler uses it. Let us understand it with the help of an example.
 
 #include <iostream>
@@ -36,10 +37,11 @@ The output of above program is:
 
 Constructor called
 Why copy constructor is not called?
-According to theory, when the object “ob” is being constructed, one argument constructor is used to convert “copy me”
-to a temporary object & that temporary object is copied to the object “ob”. So the statement
+According to theory, when the object “ob” is being constructed, one argument constructor is used to
+convert “copy me” to a temporary object & that temporary object is copied to the object “ob”.
+So the statement
 
-     B ob = "copy me";
+B ob = "copy me";
 should be broken down by the compiler as
 
      B ob = B("copy me");
@@ -50,15 +52,16 @@ The modern compilers break down the statement
 as
     B ob("copy me"); //direct initialization
 and thus eliding call to copy constructor.
-However, if we still want to ensure that the compiler doesn’t elide the call to copy constructor [disable the copy elision],
+However, if we still want to ensure that the compiler doesn’t elide the call to copy
+constructor [disable the copy elision],
 we can compile the program using “-fno-elide-constructors” option with g++ and see the output as following:
 
   aashish@aashish-ThinkPad-SL400:~$ g++ copy_elision.cpp -fno-elide-constructors
   aashish@aashish-ThinkPad-SL400:~$ ./a.out
   Constructor called
   Copy constructor called
-If “-fno-elide-constructors” option is used, first default constructor is called to create a temporary object, then copy constructor
-is called to copy the temporary object to ob.
+If “-fno-elide-constructors” option is used, first default constructor is called to create a
+temporary object, then copy constructor is called to copy the temporary object to ob.
  */
 
 

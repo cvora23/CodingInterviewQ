@@ -43,7 +43,8 @@ int main()
 }
 3) Parameter declarations that differ only in a pointer * versus an array [] are equivalent.
 That is, the array declaration is adjusted to become a pointer declaration. Only the second and
-subsequent array dimensions are significant in parameter types. For example, following two function declarations are equivalent.
+subsequent array dimensions are significant in parameter types. For example,
+following two function declarations are equivalent.
 
 int fun(int *ptr);
 int fun(int ptr[]); // redeclaration of fun(int *ptr)

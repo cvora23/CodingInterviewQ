@@ -7,8 +7,10 @@
 
 /*
  * When do we use Initializer List in C++?
-Initializer List is used to initialize data members of a class. The list of members to be initialized is indicated
-with constructor as a comma separated list followed by a colon. Following is an example that uses initializer list
+Initializer List is used to initialize data members of a class.
+The list of members to be initialized is indicated
+with constructor as a comma separated list followed by a colon.
+Following is an example that uses initializer list
 to initialize x and y of Point class.
 
 #include<iostream>
@@ -67,6 +69,7 @@ int main() {
 
 	OUTPUT:
    10
+
 2) For initialization of reference members:
 Reference members must be initialized using Initializer List. In the following example, “t” is a reference
 member of Test class and is initialized using Initializer List.

@@ -6,7 +6,7 @@
  */
 
 /*
- * Maximum Sum Path in Two Arrays
+ * Maximum Sum Path in Two Sorted Arrays
 Given two sorted arrays such the arrays may have some common elements.
 Find the sum of the maximum sum path to reach from beginning of any array
 to end of any of the two arrays. We can switch from one array to another
@@ -79,7 +79,8 @@ int maxPathSum(int ar1[], int ar2[], int m, int n)
         else if (ar1[i] > ar2[j])
             sum2 += ar2[j++];
 
-        else  // we reached a common point
+        // we reached a common point
+        else
         {
             // Take the maximum of two sums and add to result
             result += max(sum1, sum2);

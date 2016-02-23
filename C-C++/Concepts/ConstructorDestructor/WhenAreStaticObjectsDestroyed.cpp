@@ -15,7 +15,8 @@ static function can be directly called using the scope resolution operator prece
 (See this, this and this for more details). C++ also supports static objects.
 
 What are static objects in C++?
-An object become static when static keyword is used in its declaration. See the following two statements for example in C++.
+An object become static when static keyword is used in its declaration.
+See the following two statements for example in C++.
 
 Test t;             // Stack based object
 static Test t1;     // Static object
@@ -24,7 +25,8 @@ objects are also called automatic objects or local objects. static object are in
 live until the program terminates. Local object is created each time its declaration is encountered in
 the execution of program.
 
-static objects are allocated storage in static storage area. static object is destroyed at the termination of program.
+static objects are allocated storage in static storage area.
+static object is destroyed at the termination of program.
 C++ supports both local static object and global static object
 Following is example that shows use of local static object.
 
@@ -70,7 +72,8 @@ main() starts
 Constructor is called
 Destructor is called
 main() terminates
-This is because the object is now stack based object and it is destroyed when it is goes out of scope and its destructor will be called.
+This is because the object is now stack based object and it is destroyed when it is goes out of
+scope and its destructor will be called.
 
 How about global static objects?
 The following program demonstrates use of global static object.

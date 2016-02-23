@@ -114,13 +114,16 @@ void kStacks::push(int item, int sn)
         return;
     }
 
-    int i = free;      // Store index of first free slot
+    // Store index of first free slot
+    int i = free;
 
     // Update index of free slot to index of next slot in free list
     free = next[i];
 
     // Update next of top and then top for stack number 'sn'
     next[i] = top[sn];
+
+    // Update top for stack number 'sn'
     top[sn] = i;
 
     // Put the item in array
@@ -140,9 +143,9 @@ int kStacks::pop(int sn)
 
     // Find index of top item in stack number 'sn'
     int i = top[sn];
-
-    top[sn] = next[i];  // Change top to store next of previous top
-
+    // Change top to store next of previous top
+    top[sn] = next[i];
+    // make next of current top to be free
     next[i] = free;
     // Attach the previous top to the beginning of free list
     free = i;

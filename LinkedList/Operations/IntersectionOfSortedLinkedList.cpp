@@ -43,7 +43,7 @@ struct node* sortedIntersect1(struct node* a, struct node* b)
     {
       /* found a node for the intersection */
       push(lastPtrRef, a->data);
-      lastPtrRef = &((*lastPtrRef)->next);
+      //lastPtrRef = &((*lastPtrRef)->next);
       a = a->next;
       b = b->next;
     }
@@ -144,6 +144,5 @@ int main()
   printf("\n Linked list containing common items of a & b \n ");
   printList(intersect);
 
-  getchar();
 }
 

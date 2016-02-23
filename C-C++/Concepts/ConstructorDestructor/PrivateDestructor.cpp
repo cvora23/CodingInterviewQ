@@ -18,7 +18,8 @@ private:
 };
 int main()
 { }
-The above program compiles and runs fine. It is not compiler error to create private destructors. What do you say about below program.
+The above program compiles and runs fine. It is not compiler error to create private destructors.
+What do you say about below program.
 
 #include <iostream>
 using namespace std;

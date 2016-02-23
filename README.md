@@ -23,7 +23,7 @@ Strings
 9: RLE Algorithm
 
 Arrays
-========================================================
+======================================================================
 1: Find first repeating element in array of integers.
 2: Find smallest positive integer that cannot be represented as a sum of any subset of given array.
 3: Re-arrange alternate positive negative numbers with O(1) space
@@ -86,7 +86,7 @@ Trees
 18:Find Lowest Common Ancestor in BST
 19:Convert Binary Tree to Binary Search Tree
 20:Convert Binary Tree to Doubly Linked List
-21:Convert Linked List to Binary Tree
+21:Convert Linked List to Complete Binary Tree
 22:Convert Binary Search Tree to Binary Tree such that sum of all greater keys is added to given node's value
 23:Convert Binary Tree to its Sum Tree
 24:Merge two balanced BST
@@ -94,6 +94,7 @@ Trees
 26:Print Left View of Binary Tree
 27:Print Nodes a distance K from Root of Binary Tree
 28:Recursively Print Ancestors of a given Node in Binary Tree
+29:Maximum Difference Between Node and its Ancestor in Binary Tree.
 
 Graphs
 =======================================================
@@ -118,4 +119,4 @@ Difficult Questions
 11:Find Common Manager of Two Employees
 12:Find 'i'th most popular item sold on Amazon
 13:Check if path exists in Matrix Puzzle of 0's and 1's
-14:Generate Palindrome From String if Possible.s
+14:Generate Palindrome From String if Possible.

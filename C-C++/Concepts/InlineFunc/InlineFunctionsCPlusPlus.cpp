@@ -21,7 +21,8 @@ time of function is less than the switching time from the caller function to cal
 function call is usually insignificant compared to the amount of time the function takes
 to run. However, for small, commonly-used functions, the time needed to make the function
 call is often a lot more than the time needed to actually execute the function’s code.
-This overhead occurs for small functions because execution time of small function is less than the switching time.
+This overhead occurs for small functions because execution time of small
+function is less than the switching time.
 
 C++ provides an inline functions to reduce the function call overhead. Inline function
 is a function that is expanded in line when it is called. When the inline function is
@@ -187,6 +188,7 @@ Addition of two numbers: 60
 Difference of two numbers: 30
 Product of two numbers: 675
 Division of two numbers: 3
+
 What is wrong with macro?
 Readers familiar with the C language knows that C language uses macro.
 The preprocessor replace all macro calls directly within the macro code.

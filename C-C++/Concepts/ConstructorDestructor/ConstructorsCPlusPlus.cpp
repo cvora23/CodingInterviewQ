@@ -43,7 +43,8 @@ A constructor is different from normal functions in following ways:
 (i) Constructor has same name as the class itself
 (ii) Constructors don’t have return type
 (iii) A constructor is automatically called when an object is created.
-(iv) If we do not specify a constructor, C++ compiler generates a default constructor for us (expects no parameters and has an empty body).
+(iv) If we do not specify a constructor, C++ compiler generates a default constructor for us
+(expects no parameters and has an empty body).
 
 
 Can we have more than one constructors in a class?

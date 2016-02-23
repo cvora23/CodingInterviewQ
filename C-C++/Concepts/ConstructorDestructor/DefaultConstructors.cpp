@@ -8,6 +8,7 @@
 /*
  * C++ Internals | Default Constructors | Set 1
 A constructor without any arguments or with default value for every argument, is said to be default constructor.
+
 What is the significance of default constructor? Will the code be generated for every default constructor?
 Will there be any code inserted by compiler to the user implemented default constructor behind the scenes?
 

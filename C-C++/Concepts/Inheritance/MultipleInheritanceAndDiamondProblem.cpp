@@ -141,7 +141,8 @@ Student::Student(int ) called
 TA::TA(int ) called
 In the above program, constructor of ‘Person’ is called once. One important thing to note in the above
 output is, the default constructor of ‘Person’ is called. When we use ‘virtual’ keyword, the default
-constructor of grandparent class is called by default even if the parent classes explicitly call parameterized constructor.
+constructor of grandparent class is called by default even if the parent classes
+explicitly call parameterized constructor.
 
 How to call the parameterized constructor of the ‘Person’ class? The constructor has to be called in
 ‘TA’ class. For example, see the following program.

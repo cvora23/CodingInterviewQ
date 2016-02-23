@@ -12,7 +12,8 @@ nonstatic functions. ‘this’ pointer is a constant pointer that holds the
 memory address of the current object. ‘this’ pointer is not available in static
 member functions as static member functions can be called without any object (with class name).
 For a class X, the type of this pointer is ‘X* const’.
-Also, if a member function of X is declared as const, then the type of this pointer is ‘const X *const’ (see this GFact)
+Also, if a member function of X is declared as const,
+then the type of this pointer is ‘const X *const’ (see this GFact)
 
 Following are the situations where ‘this’ pointer is used:
 
@@ -59,7 +60,8 @@ Test& Test::func ()
    // Some processing
    return *this;
 }
-When a reference to a local object is returned, the returned reference can be used to chain function calls on a single object.
+When a reference to a local object is returned, the returned reference can be used
+to chain function calls on a single object.
 
 #include<iostream>
 using namespace std;
@@ -103,7 +105,8 @@ x = 10 y = 20
 //public:
 //  Test(int x = 0) { this->x = x; }
 //  //void change(Test *t) { this = t; } // changing this pointer will not work as it is defined as
-//  	  	  	  	  	  	  	  	  	 // C * const thismeaning you have a constant pointer to your class C,
+//  	  	  	  	  	  	  	  	  	 // C * const thismeaning you have a constant pointer
+										//  to your class C,
 //  	  	  	  	  	  	  	  	  	 // so the compiler will complain if you try to change it.
 //  void change(Test *t) { *this = *t; } // this changes the value of object
 //  void print() { cout << "x = " << x << endl; }
