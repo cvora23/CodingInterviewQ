@@ -114,7 +114,7 @@ void MinHeap::DeleteMin()
 }
 
 void MinHeap::print(){
-	for(int i=0;i<_vector.size();i++){
+	for(unsigned int i=0;i<_vector.size();i++){
 		cout<<_vector[i]<< " ";
 	}
 	cout<<endl;
