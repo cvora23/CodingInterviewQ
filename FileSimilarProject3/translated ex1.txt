@@ -1,0 +1,122 @@
+name of exercise: ex1
+
+note that u should pay attention to the output u give for example if u had to print "Hello World" and accidently
+printed "HEllo world" or "ello World" u wil get 0 grade.
+
+U MUST CHECK every time if function succeded or failed. if failed u should print massage to STDERR and exit programm while of course free all memory and exit all 
+open things.
+
+Dont print nothing more than U ASKED TO PRINT, it will give u 0 grade.
+
+part 1:
+
+name of source file u need to send : ex11.c
+
+write program who gets names and paths of two files as parameters to the main and checks if the two files are identical.
+if the files are similar program will return 3, if files are identical prog return 2, otherwise return 1; (note u shouldnt print these to the screen)
+
+files are identical if they contain exactly the same content
+files are similar if they  contain the same content but there are differences in capital\small letters, spaces, and enters
+for example:
+1. 12ab23
+2. 12Ab23
+3. 12 aB   23
+4.1 2
+  ab2
+  3
+
+all 4 are similar
+
+when compiling the program give it the name comp.out instead of a.out
+
+example of running the program:
+[hajajch@localhost ~]$ ./comp.out /home/hajajch/code/1.txt /home/ hajajch/2.txt
+
+after running this, if the two files identical and ill do the command echo $? i will get 2, if they just similar 3, and 1 otherwise.
+
+examples:
+
+[hajajch@localhost ~]$ ./comp.out /home/hajajch/code/1.txt /home/hajajch/code/2.txt
+[hajajch@localhost ~]$ echo $?
+1
+[hajajch@localhost ~]$
+
+
+[hajajch@localhost ~]$ ./comp.out /home/hajajch/code/1.txt /home/hajajch/code/1.txt
+[hajajch@localhost ~]$ echo $?
+2
+[hajajch@localhost ~]$
+
+part 2:
+
+name of source file u need to send : ex12.c
+
+write programm who gets name and path to configuration file as a parameter to the main in the line of running the program.
+file contains 3 lines:
+1. location of folder who contains sub folders(each sub folder is a username) who contains c files.
+2. location and name of file who contains input
+3. location and name of file who contains suitable output for the input from line 2
+
+your programm should enter all sub folders of the folder from line 1, search there and in the sub folders, for C file,
+compile it(the c file) and run the exe file created from the compilation with the input from line 2.
+your programm inputs from stdin and outputs to stdout so u use i/o redireactions.
+U can assume that there will be no more than 1 C file in each folder, but mayB there are none (0).
+
+now u should compare the output with the desired output from line 3 by using the comp.out program u just implemented in the previous part.
+just run comp.out and give it as parameters to the main the location of the correct output from line 3 and the output of the current student
+programm u just run(each folder is student username).
+
+ur program should create file(in the folder from which u run the program) named results.csv who contains for each student(subfolder) his grade
+according to the value returned by comp.out (grade will be 0-100) and description.
+put "," between sudent name and his grade, and another "," between the grade and description.
+
+list of descriptions:
+1.NO_C_FILE - this will be in case there is no .c file in the folder. in this case grade will be 0!
+2.COMPILATION_ERROR - in this case grade 0!
+3.TIMEOUT - in case programm run for more than 5 seconds. grade 0!
+4.BAD_OUTPUT - in case the output not identical or similar to the correct output. grade 0!
+5.SIMILLAR_OUTPUT - in case the output not identical but similar. grade 80.
+6.WRONG_DIRECTORY - in case the c file is not in the folder with the name of the student.
+  in this case grade will be evaluated but the formula 100 - 10x when x is the depth.
+  for example in this case: home/hajajch/ex1/chen/1/2/3/4 x=4 so grade will be 60.if grade will be lower than 0 update it to 0.
+7.GREAT_JOB - correct output, grade 100!
+
+example of results.csv:
+Chen,100,GREAT_JOB
+Dan,0,NO_C_FILE
+Moshe,0,TIMEOUT
+Dolev,0,COMPILATION_ERROR
+Igor,0,BAD_OUTPUT
+Guy,80,SIMILLAR_OUTPUT
+Sam, 70, WRONG_DIRECTORY
+
+example of configuration file:
+/home/hajajch/ex1
+/home/hajajch/code/input.txt
+/home/hajajch/code/output.txt
+
+example for content of input file(line 2):
+1
+3 4
+4
+
+example for content of output file(line 3):
+Please enter operation
+Please enter two numbers
+The sum is 7
+Please enter operation
+Bye
+
+example to run exe file of ur program:
+[hajajch@localhost ~]$ ./a.out /home/hajajch/confFile.txt
+
+remarks:
+1.assume gcc defined in path so u can use execvp
+2.use only system call funcs: fork,dup.dup2,exec,open,write,read. U R NOT ALLOWED TO USE ANOTHER ALTERNATIVE LIBRARY FUNCTIONS!
+3.assume that comp.out is in the current folder(./) from which the run file of ur part 2 programm will be run.
+4.when SYSCALL failed print error massage using write to the file descriptor number2(stderr)
+5.each line wont be above 160 characters
+6.order of students in results.csv file is not important
+7.U MUST DELETE ALL FILES UR PROG CREATED, just no the results.csv file, AT THE END OF RUN. u should do that using UNLINK.
+8. if students programm run longer than 5 seconds u should not finish it, but u should know it, so u can give him suitable grade and description(TIMEOUT)
+9.each folder in linux contain "." and ".." for the current and previous folders. pay attention to it while using readdir.

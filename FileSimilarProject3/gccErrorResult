@@ -1,0 +1,3 @@
+./studs/Dolev/compilation.c:2:9: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘<’ token
+ include <stdio.h>
+         ^

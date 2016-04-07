@@ -1,0 +1,4 @@
+./studs
+./input.txt
+./correctOutput.txt
+
