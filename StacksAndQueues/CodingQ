@@ -16,3 +16,5 @@ Operations:
 3: TowerOfHanoi.cpp
 4: AddingLargeNoUsingStack.cpps
 5: StackWithOperationsOnMiddleElement.cpp
+6: StackOfPlates.cpp
+

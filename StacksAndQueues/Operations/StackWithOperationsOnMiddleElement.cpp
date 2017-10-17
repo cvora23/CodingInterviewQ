@@ -73,12 +73,10 @@ struct myStack *createMyStack()
 void push(struct myStack *ms, int new_data)
 {
     /* allocate DLLNode and put in data */
-    struct DLLNode* new_DLLNode =
-               (struct DLLNode*) malloc(sizeof(struct DLLNode));
+    struct DLLNode* new_DLLNode = (struct DLLNode*) malloc(sizeof(struct DLLNode));
     new_DLLNode->data  = new_data;
 
-    /* Since we are adding at the begining,
-      prev is always NULL */
+    /* Since we are adding at the begining,prev is always NULL */
     new_DLLNode->prev = NULL;
 
     /* link the old list off the new DLLNode */

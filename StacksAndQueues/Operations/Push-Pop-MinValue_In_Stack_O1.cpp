@@ -4,7 +4,7 @@
 // Cracking the Coding Interview Solution 3.2
 
 /*
- * Design and Implement Special Stack Data Structure | Added Space Optimized Version
+Design and Implement Special Stack Data Structure | Added Space Optimized Version
 Question: Design a Data Structure SpecialStack that supports all
 the stack operations like push(), pop(), isEmpty(), isFull() and an
 additional operation getMin() which should return minimum element from

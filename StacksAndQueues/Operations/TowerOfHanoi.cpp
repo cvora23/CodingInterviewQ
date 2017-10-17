@@ -61,7 +61,8 @@ public:
 	}
 
 	void moveDisks(int n, Tower& dest,Tower& buffer){
-		if(n>0){
+		if(n>0)
+		{
 			moveDisks(n-1,buffer,dest);
 			moveTopTo(dest);
 			buffer.moveDisks(n-1,dest,*this);
