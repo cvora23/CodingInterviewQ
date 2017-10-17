@@ -12,6 +12,10 @@
 
 using namespace std;
 
+/*
+ * The atoi() function takes a string (which represents an integer) as an argument and returns its value.
+ */
+
 // A utility function to check whether x is numeric
 bool isNumericChar(char x)
 {

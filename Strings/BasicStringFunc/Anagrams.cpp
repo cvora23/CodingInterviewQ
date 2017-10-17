@@ -9,6 +9,13 @@ using namespace std;
 #define NO_OF_CHARS 256
 
 
+/*
+ * Check whether two strings are anagram of each other
+Write a function to check whether two given strings are anagram of each other or not.
+An anagram of a string is another string that contains same characters, only the order of characters can be different.
+For example, “abcd” and “dabc” are anagram of each other.
+ */
+
 bool wordplay(char *letters, char *word)
 {
      int array1[256] = {0};
@@ -29,6 +36,33 @@ bool wordplay(char *letters, char *word)
      return 1;
 }
 
+
+bool CheckAnagram2(char* str1,char* str2)
+{    // Create two count arrays and initialize all values as 0
+    int count[NO_OF_CHARS] = {0};
+    int i;
+
+    // For each character in input strings, increment count in
+    // the corresponding count array
+    for (i = 0; str1[i] && str2[i];  i++)
+    {
+        count[str1[i]]++;
+        count[str2[i]]--;
+    }
+
+    // If both strings are of different length. Removing this condition
+    // will make the program fail for strings like "aaca" and "aca"
+    if (str1[i] || str2[i])
+      return false;
+
+    // See if there is any non-zero value in count array
+    for (i = 0; i < NO_OF_CHARS; i++)
+        if (count[i])
+            return false;
+     return true;
+
+
+}
 
 bool CheckAnagram(char *str1, char *str2)
 {
@@ -60,32 +94,6 @@ bool CheckAnagram1(char *str1,char *str2)
      return sum;
 }
 
-bool CheckAnagram2(char* str1,char* str2)
-{    // Create two count arrays and initialize all values as 0
-    int count[NO_OF_CHARS] = {0};
-    int i;
-
-    // For each character in input strings, increment count in
-    // the corresponding count array
-    for (i = 0; str1[i] && str2[i];  i++)
-    {
-        count[str1[i]]++;
-        count[str2[i]]--;
-    }
-
-    // If both strings are of different length. Removing this condition
-    // will make the program fail for strings like "aaca" and "aca"
-    if (str1[i] || str2[i])
-      return false;
-
-    // See if there is any non-zero value in count array
-    for (i = 0; i < NO_OF_CHARS; i++)
-        if (count[i])
-            return false;
-     return true;
-
-
-}
 
 bool isAnagramSol1(string s1,string s2){
 	if(s1.length() != s2.length()){

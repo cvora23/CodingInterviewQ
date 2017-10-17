@@ -31,3 +31,8 @@ CheckSetFindCountPrintRemove
 21:RLE.cpp
 22:ReplaceSpacesWith%20.cpp
 23:UniqueChars.cpp
+24:OneAway.cpp
+25:PalindromePermutation.cpp
+26:TwoStringPermutationsOfEachOther.cpp
+
+ 

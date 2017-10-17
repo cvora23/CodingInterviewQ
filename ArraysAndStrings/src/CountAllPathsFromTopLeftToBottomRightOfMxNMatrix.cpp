@@ -17,7 +17,6 @@
  * written as following.
  */
 
-
 #include <iostream>
 using namespace std;
 

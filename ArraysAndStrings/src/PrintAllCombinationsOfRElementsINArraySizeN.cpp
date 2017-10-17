@@ -23,7 +23,7 @@ in data[] becomes equal to r (size of a combination), we print data[].
 
 Following diagram shows recursion tree for same input.
 
-http://d2o58evtke57tz.cloudfront.net/wp-content/uploads/combination.png
+http://www.geeksforgeeks.org/wp-content/uploads/combination.png
 
  */
 
@@ -63,6 +63,22 @@ void combinationUtil(int arr[], int data[], int start, int end, int index, int r
     // "end-i+1 >= r-index" makes sure that including one element
     // at index will make a combination with remaining elements
     // at remaining positions
+    /*
+     * could anyone explain the condition (end-i+1>=r-index)?
+
+    Its pretty confusing.. Instead of i<=end && end-i+1 >= r-index you could understand that as i <= end-(r-index)+1
+    which means the following:
+
+    Lets take [1,2,3,4,5] and r = 3. While picking up the first element (index = 0) we dont need to go through 4 and 5.
+    lets suppose we considered the 1st element as 1. Then, we dont want to pick the 2nd element as 5 at any case ([1,5, ?] not possible).
+    So the picking up a digit is really depending on end, r and index. We are excluding last r-index elements at the end.
+    So it becomes i <= end-(r-index)+1.
+
+    In the 2nd method also we could write,
+    if (i >= n) return; to if (i >= n-(r-index)+1) return; by the same logic which is more efficient.
+
+    */
+
     for (int i=start; i<=end && end-i+1 >= r-index; i++)
     {
         data[index] = arr[i];
@@ -134,8 +150,8 @@ void combinationUtil2(int arr[], int n, int r, int index, int data[], int i)
 // Driver program to test above functions
 int main()
 {
-    int arr[] = {1, 2, 3, 4, 5};
-    int r = 3;
+    int arr[] = {1, 2, 3};
+    int r = 2;
     int n = sizeof(arr)/sizeof(arr[0]);
     printCombination(arr, n, r);
 }

@@ -9,13 +9,11 @@ void ReverseString(char *str,int start,int end)
      char *temp = new char[1];
      int j = 0;
     for(int i=start;i<(start+end)/2;i++)
-    {     
-    
+    {
           temp[0] = str[i];
           str[i] = str[end-1-j];
           str[end-1-j] = temp[0];
           j++;
-        
     }
 }
 

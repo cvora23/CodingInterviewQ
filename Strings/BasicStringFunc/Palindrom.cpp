@@ -2,6 +2,14 @@
 #include<string.h>
 #include<stdio.h>
 using namespace std;
+
+/*
+ * C Program to Check if a Given String is Palindrome
+Given a string, write a c function to check if it is palindrome or not.
+A string is said to be palindrome if reverse of the string is same as string.
+For example, “abba” is palindrome, but “abbc” is not palindrome.
+ */
+
 int IsPalindromeConsideringSpace(char *str)
 {
 	int flag = 0;
@@ -18,6 +26,7 @@ int IsPalindromeConsideringSpace(char *str)
     }
     return flag;
 }
+
 int IsPalindromeWithoutSpace(char *str)
 {  
 	char *newstr = new char[strlen(str)];
@@ -36,6 +45,7 @@ int IsPalindromeWithoutSpace(char *str)
 	newstr[i] = '\0';
 	return IsPalindromeConsideringSpace(newstr);
 }
+
 int main()
 {   
     char *str = new char;
