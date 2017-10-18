@@ -18,7 +18,7 @@ CheckSetCountFind:
 
 MathematicalOperation
 =======================================
-13:DrawLine.cpp
+13:DrawLine.cpp - LEFT
 14:PrintRealNoBinary.cpp
 15:PrevLargestNxtLargestSameNo1bits.cpp
 16:AddOneToNumber.cpp
@@ -38,4 +38,5 @@ ReverseRotateSwap
 27:SwapAllOddAndEvenBits.cpp
 28:ReverseBitsOfNumber.cpp
 29:RotateBits.cpp
+30:FlipBitToWin.cpp
 

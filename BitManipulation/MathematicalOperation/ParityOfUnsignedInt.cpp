@@ -9,12 +9,10 @@
 # define  bool int
 
 /*
- * Parity: Parity of a number refers to whether it contains an
- * odd or even number of 1-bits. The number has “odd parity”,
- * if it contains odd number of 1-bits and is “even parity”
- * if it contains even number of 1-bits.
-	Main idea of the below solution is – Loop while n
-	is not 0 and in loop unset one of the set bits and invert parity.
+ * Parity: Parity of a number refers to whether it contains an odd or even number of 1-bits.
+ * The number has “odd parity”, if it contains odd number of 1-bits and is “even parity” if it contains even number of 1-bits.
+	Main idea of the below solution is –
+	Loop while n is not 0 and in loop unset one of the set bits and invert parity.
  */
 
 /*
@@ -26,7 +24,6 @@
       b. Unset rightmost set bit
              n = n & (n-1)
 	3. return parity
- *
  */
 
 /* Function to get parity of number n. It returns 1
@@ -38,7 +35,7 @@ bool getParity(unsigned int n)
     while (n)
     {
         parity = !parity;
-        n      = n & (n - 1);
+        n = n & (n - 1);
     }
     return parity;
 }

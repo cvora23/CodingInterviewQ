@@ -72,8 +72,6 @@ void drawLine(uint8_t screen[],int width,int x1,int x2,int y){
 			screen[byte_number] |= end_mask;
 		}
 	}
-
-
 }
 
 int main(){

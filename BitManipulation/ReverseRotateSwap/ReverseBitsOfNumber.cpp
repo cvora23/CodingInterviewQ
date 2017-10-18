@@ -14,9 +14,8 @@ using namespace std;
 /**
  * 	Method1 – Simple
 	Loop through all the bits of an integer.
-	If a bit at ith position is set in the i/p no. then set the bit at
-	(NO_OF_BITS – 1) – i in o/p. Where NO_OF_BITS is
-	number of bits present in the given number
+	If a bit at ith position is set in the i/p no. then set the bit at	(NO_OF_BITS – 1) – i in o/p.
+	Where NO_OF_BITS is	number of bits present in the given number
  */
 uint8_t reverseBits1(uint8_t num)
 {

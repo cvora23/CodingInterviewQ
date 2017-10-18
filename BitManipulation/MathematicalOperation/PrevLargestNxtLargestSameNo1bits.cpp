@@ -19,7 +19,6 @@
  * you find a number with same number of 1s. Easy but not terribly interesting
  */
 
-// http://www.slideshare.net/gkumar007/bits-next-higher-presentation
 
 
 using namespace std;
@@ -67,6 +66,23 @@ int getNext(int n){
 	n &= ~((1 << p) - 1); //Clear all bits to the right of p
 	n |= (1 << (c1 - 1)) - 1; // Insert c1-1 ones on the right
 	return n;
+}
+
+// http://www.slideshare.net/gkumar007/bits-next-higher-presentation
+int getNext2(int x){
+
+	unsigned int smallest, ripple, ones;
+	// x = xxx01110000
+
+	smallest = x & -x; // 0000 0001 0000
+	ripple = x + smallest; // xxx1 0000 0000
+	ones = x ^ ripple; // 0001 1111 0000
+	ones = (ones >> 2) / smallest ; // 0000 0000 0111
+	return ripple | ones ; // xxx1 0000 0111
+}
+
+int getNextSmaller(int num) {
+    return ~getNext2(~num);
 }
 
 /**

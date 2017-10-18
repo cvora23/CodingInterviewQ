@@ -30,8 +30,7 @@ int addOne1(int x)
 }
 
 /**
- * We know that the negative number is represented in 2′s complement
- * form on most of the architectures.
+ * We know that the negative number is represented in 2′s complement form on most of the architectures.
  * We have the following lemma hold for 2′s complement representation of signed numbers.
  * Say, x is numerical value of a number, then
  * ~x = -(x+1) [ ~ is for bitwise complement ]

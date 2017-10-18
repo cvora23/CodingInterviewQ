@@ -7,6 +7,18 @@
 
 #include <stdio.h>
 
+
+/*
+How to count set bits in a floating point number in C?
+Given a floating point number, write a function to count set bits in its binary representation.
+For example, floating point representation of 0.15625 has 6 set bits (See this).
+A typical C compiler uses single precision floating point format.
+We can use the idea discussed here.
+The idea is to take address of the given floating point number in a pointer variable,typecast the pointer to char * type and
+process individual bytes one by one.
+We can easily count set bits in a char using the techniques discussed here.
+ */
+
 // A utility function to count set bits in a char.
 // Refer http://goo.gl/eHF6Y8 for details of this function.
 unsigned int countSetBitsChar(char n)

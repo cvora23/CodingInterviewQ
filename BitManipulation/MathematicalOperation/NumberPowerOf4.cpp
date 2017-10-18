@@ -10,8 +10,7 @@
 
 
 /**
- * 1. A simple method is to take log of the given number on base 4,
- * and if we get an integer then number is power of 4.
+ * 1. A simple method is to take log of the given number on base 4, and if we get an integer then number is power of 4.
  */
 
 using namespace std;
