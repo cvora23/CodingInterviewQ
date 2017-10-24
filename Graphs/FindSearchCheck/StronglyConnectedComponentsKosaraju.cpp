@@ -10,8 +10,8 @@
  * A strongly connected component (SCC) of a directed graph is a maximal strongly connected
  * subgraph. For example, there are 3 SCCs in the following graph.
  *
- * http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/SCC.png
- *
+ * http://www.geeksforgeeks.org/wp-content/uploads/SCC.png
+ * https://www.youtube.com/watch?time_continue=138&v=5wFyZJ8yH9Q
  *
  * We can find all strongly connected components in O(V+E) time using Kosaraju’s algorithm.
  * Following is detailed Kosaraju’s algorithm.

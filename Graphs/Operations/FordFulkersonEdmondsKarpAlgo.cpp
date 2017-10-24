@@ -16,7 +16,8 @@
  * b) Incoming flow is equal to outgoing flow for every vertex except s and t.
  *
  * Eg:
- * http://d2o58evtke57tz.cloudfront.net/wp-content/uploads/ford_fulkerson11.png
+ * http://www.geeksforgeeks.org/wp-content/uploads/ford_fulkerson11.png
+ * http://www.geeksforgeeks.org/wp-content/uploads/ford_fulkerson2.png
  * The maximum possible flow in the above graph is 23.
  * Ford-Fulkerson Algorithm
  * The following is simple idea of Ford-Fulkerson algorithm:
@@ -37,7 +38,7 @@
  * Every edge of a residual graph has a value called residual capacity which is equal to original
  * capacity of the edge minus current flow. Residual capacity is basically the current capacity of the edge.
  * Let us now talk about implementation details. Residual capacity is 0 if there is no edge
- * between to vertices of residual graph. We can initialize the residual graph as original graph
+ * between two vertices of residual graph. We can initialize the residual graph as original graph
  * as there is no initial flow and initially residual capacity is equal to original capacity.
  * To find an augmenting path, we can either do a BFS or DFS of the residual graph.
  * We have used BFS in below implementation. Using BFS, we can find out if there is a
@@ -50,7 +51,10 @@
  * to send flow in reverse direction (See following video for example).
  *
  * Video Lectures:
- * https://www.youtube.com/results?q=saurabhschool+ford+fulkerson (3 parts lecture)
+ * https://www.youtube.com/watch?v=PY0LL_-jqa0 - Part 1
+ * https://www.youtube.com/watch?v=oWjXF_SztWI&t=434s - Part 2
+ * https://www.youtube.com/watch?v=9FICcDgreOE&t=2s - Part 3
+ * https://www.youtube.com/watch?v=4btCjlZ4G8s&t=1s - Part 4
  *
  * The below implementation of Ford Fulkerson Algorithm is called Edmonds-Karp Algorithm.
  * The idea of Edmonds-Karp is to use BFS in Ford Fulkerson implementation as BFS
@@ -60,8 +64,7 @@
  * complexity of the below implementation is O(EV3) (Refer CLRS book for proof
  * of time complexity)
  * This is an important problem as it arises in many practical situations.
- * Examples include, maximizing the transportation with given traffic limits,
- * maximizing packet flow in computer networks.
+ * Examples include, maximizing the transportation with given traffic limits,maximizing packet flow in computer networks.
  *
  * Edmons-Karp best explained:
  * http://courses.cs.washington.edu/courses/cse421/12su/slides/07edmonds-karp-dinitz-ex.pdf

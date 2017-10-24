@@ -22,7 +22,7 @@
  *	v																	v
  *	2---------------------->3------------------------------------------>1
  *
- *	http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/graph.png
+ *	http://www.geeksforgeeks.org/wp-content/uploads/graph.png
  *
  * Topological Sorting vs Depth First Traversal (DFS):
  * In DFS, we print a vertex and then recursively call DFS for its adjacent vertices.

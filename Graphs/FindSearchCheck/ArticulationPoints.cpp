@@ -13,8 +13,9 @@
  * For a disconnected undirected graph, an articulation point is a vertex removing
  * which increases number of connected components.Some example graphs are below;
  *
- * http://d2o58evtke57tz.cloudfront.net/wp-content/uploads/ArticulationPoints.png
- * http://d2o58evtke57tz.cloudfront.net/wp-content/uploads/ArticulationPoints21.png
+ * http://www.geeksforgeeks.org/wp-content/uploads/ArticulationPoints.png
+ * http://www.geeksforgeeks.org/wp-content/uploads/ArticulationPoints1.png
+ * http://www.geeksforgeeks.org/wp-content/uploads/ArticulationPoints21.png
  *
  * How to find all articulation points in a given graph?
  * ALGO1:
@@ -28,6 +29,7 @@
  * Can we do better?
  *
  * https://www.youtube.com/watch?v=tVDJ0z0pHmE
+ * https://www.youtube.com/watch?v=2kREIkF9UAs&t=14s
  *
  * ALGO2:
  * A O(V+E) algorithm to find all Articulation Points (APs)

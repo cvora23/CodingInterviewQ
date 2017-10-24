@@ -46,7 +46,7 @@ class Graph
 public:
     Graph(int V);   // Constructor
     void addEdge(int v, int w);   // function to add an edge to graph
-    void DFS(int v,bool recursive = true);    // DFS traversal of the vertices reachable from v
+    void DFS(int s,bool recursive = true);    // DFS traversal of the vertices reachable from s
 };
 
 Graph::Graph(int V)
@@ -73,9 +73,9 @@ void Graph::DFSUtilRecursive(int v, bool visited[])
         	DFSUtilRecursive(*i, visited);
 }
 
-void Graph::DFSUtilIterative(int v,bool visited[]){
+void Graph::DFSUtilIterative(int s,bool visited[]){
     stack <int> S;
-    S.push(v);
+    S.push(s);
     int u;
     bool allVisited = true;
 

@@ -32,6 +32,7 @@ int DelQueue(struct node **f,struct node **r)
      {
            cout<<"Queue is Empty"<<endl;
      }
+     // Only one item remaining
      else if(*f == *r)
      {
           item = (*f)->data;

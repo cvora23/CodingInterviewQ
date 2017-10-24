@@ -6,12 +6,16 @@
  */
 
 /*
+ * http://www.geeksforgeeks.org/wp-content/uploads/transitiveclosure.jpg
+ *
  * Given a directed graph, find out if a vertex j is reachable from another vertex i for
  * all vertex pairs (i, j) in the given graph. Here reachable mean that there is a path
  * from vertex i to j. The reach-ability matrix is called transitive closure of a graph.
  * The graph is given in the form of adjacency matrix say ‘graph[V][V]‘ where graph[i][j] is
  * 1 if there is an edge from vertex i to vertex j or i is equal to j, otherwise graph[i][j] is 0.
  */
+
+
 
 /*
  * Floyd Warshall Algorithm can be used, we can calculate the distance matrix dist[V][V] using Floyd Warshall,

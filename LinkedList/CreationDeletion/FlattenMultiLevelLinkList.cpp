@@ -95,7 +95,9 @@ struct node *createList(void)
     struct node *head8 = createList(arr8, SIZE(arr8));
 
 
-    /* modify child pointers to create the list shown above */
+    /* modify child pointers to create the list shown above
+     * http://www.geeksforgeeks.org/wp-content/uploads/flattenList.png
+     */
     head1->child = head2;
     head1->next->next->next->child = head3;
     head3->child = head4;
@@ -113,7 +115,7 @@ struct node *createList(void)
  * ALGO:
  *
  * Diagram will help to visualize the problem:
- * http://d1gjlxt8vb0knt.cloudfront.net//wp-content/uploads/flattenList.png
+ * http://www.geeksforgeeks.org/wp-content/uploads/flattenList.png
  *
  * The problem clearly say that we need to flatten level by level. The idea of solution is,
  * we start from first level, process all nodes one by one, if a node has a child, then we append the child

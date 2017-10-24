@@ -102,7 +102,6 @@ bool Graph::isCyclicUtil(int v, bool visited[], bool recStack[])
                 return true;
             }
         }
-
     }
     recStack[v] = false;  // remove the vertex from recursion stack
     return false;
