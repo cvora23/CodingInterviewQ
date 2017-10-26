@@ -53,7 +53,6 @@ After memory allocation, following are the three cases that need to be handled.
          new_node->next = current->next;
    (c) Change the next of the located pointer
          current->next = new_node;
- *
  */
 void sortedInsert(struct node** head_ref, struct node* new_node)
 {

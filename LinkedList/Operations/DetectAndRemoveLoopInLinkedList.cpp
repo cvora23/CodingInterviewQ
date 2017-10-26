@@ -28,7 +28,8 @@ void removeLoop3(struct node *, struct node *);
 
 /* This function detects and removes loop in the list
    If loop was there in the list then it returns 1,
-   otherwise returns 0 */
+   otherwise returns 0
+*/
 /*
  * PART1: Detect if linked list has a loop
  * An easy way to detect if a linked list has a loop is through FastRunner/SlowRunner approach. FastRunner
@@ -51,7 +52,7 @@ void removeLoop3(struct node *, struct node *);
  * At each subsequent step, FastRunner and SlowRunner get either one step farther away or one step closer.
  * That is because we are in a circle, when A move q steps away from B, it is also moving q steps closer to B.
  * Facts:
- * 1: SlowRnner is 0 steps into the loop
+ * 1: SlowRunner is 0 steps into the loop
  * 2: FastRunner is K steps into the loop.
  * 3: SlowRunner is K steps behind FastRunner.
  * 4: FastRunner is LOOP_SIZE - K steps behind SlowRunner.
