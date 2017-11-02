@@ -101,6 +101,7 @@ bool isPresentInDLL(node* head, node* tail, int sum)
  * The array will be sorted as Inorder traversal of BST always produces sorted data.
  * Once we have the Inorder traversal, we can find triplet with sum equals 0.
  * This solution works in O(n ^ 2) time, but requires O(n) auxillary space.
+ * http://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/
  */
 
 /*

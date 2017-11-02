@@ -12,7 +12,6 @@
 /**
 
 
- * Maximum depth or height of the below tree is 3.
             1
           /   \
         2      3

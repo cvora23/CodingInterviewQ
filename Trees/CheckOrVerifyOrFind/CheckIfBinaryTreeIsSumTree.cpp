@@ -66,9 +66,7 @@ int isSumTree(struct node* node)
 
    /* if the node and both of its children satisfy the
        property return 1 else 0*/
-    if((node->data == ls + rs)&&
-            isSumTree(node->left) &&
-            isSumTree(node->right))
+    if((node->data == ls + rs) && isSumTree(node->left) && isSumTree(node->right))
         return 1;
 
    return 0;

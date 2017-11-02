@@ -23,8 +23,6 @@ We can have various ancestor-node difference, some of which are given below :
 But among all those differences maximum value is 7 obtained by subtracting 1
 from 8, which we need to return as result.
 
-We strongly recommend you to minimize your browser and try this yourself first.
-
 As we are given a binary tree, there is no relationship between node values
 so we need to traverse whole binary tree to get max difference and
 we can obtain the result in one traversal only by following below steps :
