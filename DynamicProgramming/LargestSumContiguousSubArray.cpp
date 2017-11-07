@@ -69,6 +69,9 @@ positive sum compare it with max_so_far and update max_so_far if it is greater t
     for i=7,  a[7] =  -3
     max_ending_here = max_ending_here + (-3)
     max_ending_here = 4
+
+    https://www.youtube.com/watch?time_continue=46&v=OexQs_cYgAQ
+
  */
 #include<iostream>
 using namespace std;

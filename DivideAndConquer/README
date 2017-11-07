@@ -1,0 +1,15 @@
+src directory
+
+1:	FindNumberOfZeros.cpp
+2:	FindMinSortedRotatedArray.cpp
+3:	UnboundedBinarySearch.cpp
+4:	FindPeakINArray.cpp
+5:	MaxSubArraySum.cpp
+6:	MaxElemInArrayFirstIncreasingThenDecreasing.cpp
+7:	MedianTwoSortedArraysEqualSize.cpp
+8:	FindFixedPointInGivenArray.cpp
+9:  CountNoOccurencesInSortedArray.cpp
+10: MaxMinInArrayWithMinComparisons.cpp
+11: MajorityElementInSortedArray.cpp
+12: CountInversionsInAnArray.cpp
+13: PowerOfNum.cpp

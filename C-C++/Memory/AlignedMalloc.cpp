@@ -11,6 +11,18 @@
 #include <cstdlib>
 
 /*
+ * Typically, with malloc, we do not have control over where the memory is allocated within the heap.
+ * We just get a pointer to a block of memory which could start at any memory address within the heap.
+ * We need to work with these constraints by requesting enough memory that we can return a memory address
+ * which is divisible by the desired value.
+ * Suppose we are requesting a 100-byte chunk of memory, and we want it to start at a memory address that
+ * is a multiple of 16. How much extra memory would we need to allocate to ensure that we can do so?
+ * We would need to allocate an extra 15 bytes. With these 15 bytes, plus another 100 bytes right after that sequence,
+ * we know that we would have a memory address divisible by 16 with space for 100 bytes.
+ */
+
+
+/*
  * Steps:
  * 1. We will use malloc routine provided by C to implement the functionality.
  * Allocate memory of size (bytes required + alignment – 1 + sizeof(void*)) using malloc.

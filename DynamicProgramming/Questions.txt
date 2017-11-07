@@ -1,3 +1,7 @@
 
 1: Largest Sum Contiguous Subarray - Kadanes Algorithm
-2: Ugly Numbers
+2: MaxSizeSquareSubMatrixWithAll1s
+3: Ugly Numbers
+4: LengthOfLongestSubstringWithoutRepeatingChars
+5: NthFibonnaciNumber
+6: RobotInGrid
