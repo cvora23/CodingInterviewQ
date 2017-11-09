@@ -1,0 +1,23 @@
+1: EightQueens
+2: PermutationsOfAGivenString
+3: KnightsTour
+4: RatInAMaze
+5: GraphColoringProblem
+6: HamiltonCycle
+7: Sudoko
+8: TugOfWar
+9: PrintAllPossPathsFromTopLeftToBottomRightInMatrix
+10:FillTwoInstancesOfNumberInSpecificWay
+11:FindPathMoreThanKLengthFromSource
+12:FindPathFromCornerCellToMiddleCellInMaze
+13:MaxNoPossibleDoingKSwaps
+14:MatchPatternAndStringWithoutRegEx
+15:LongestPossibleRouteInMatrixWithHurdles
+16:FindShortestSafeRouteInPathWithLandMines
+17:RemoveInvalidParenthesis
+18:PartitionOfSetIntoKSubsetsWithEqualSum - HARD
+19:WordBreakProblem
+20:PalindromePartition
+21:CombinationalSum - HARD
+22:CheckIfStringSumString - HARD
+23:

@@ -93,7 +93,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src/MaxSubarraySharesDAndQAlgo.cpp|src/MinHeap.cpp|src/LRUImpl.cpp|src/MaxSubarraySharesKadanesAlgo.cpp|src/MinHeapTest.cpp|src/MergeKSortedArrays.cpp|src/MaxSubarrayShares.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -144,7 +143,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -199,7 +197,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src/MaxSubarraySharesDAndQAlgo.cpp|src/MinHeapTest.cpp|src/MergeKSortedArrays.cpp|src/MaxSubarraySharesKadanesAlgo.cpp|src/MinHeap.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -253,7 +250,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -307,7 +303,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -361,7 +356,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeapTest.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -415,7 +409,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -469,7 +462,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -523,7 +515,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -577,7 +568,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -631,7 +621,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -685,7 +674,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -739,7 +727,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -793,7 +780,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -847,7 +833,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -901,7 +886,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -955,7 +939,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1009,7 +992,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1063,7 +1045,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1117,7 +1098,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1171,7 +1151,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1225,7 +1204,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1279,7 +1257,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1333,7 +1310,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1387,7 +1363,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1441,7 +1416,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1495,7 +1469,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1549,7 +1522,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1603,7 +1575,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1657,7 +1628,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1711,7 +1681,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1765,7 +1734,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1819,7 +1787,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1873,7 +1840,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1927,7 +1893,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -1981,7 +1946,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
@@ -2035,7 +1999,6 @@
 					</folderInfo>
 					<sourceEntries>
 						<entry excluding="MultiThreading|DynamicProgramming|DivideAndConquer|probs|src" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="PowerOfNum.cpp|CountInversionsInAnArray.cpp|MajorityElementInSortedArray.cpp|MaxMinInArrayWithMinComparisons.cpp|CountNoOccurencesInSortedArray.cpp|FindFixedPointInGivenArray.cpp|MedianTwoSortedArraysUnEqualSize.cpp|MedianTwoSortedArraysEqualSize.cpp|MaxElemInArrayFirstIncreasingThenDecreasing.cpp|MaxSubArraySum.cpp|FindPeakINArray.cpp|UnboundedBinarySearch.cpp|FindMinSortedRotatedArray.cpp|FindNumberOfZeros.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="DivideAndConquer"/>
 						<entry excluding="ReaderWriterLock.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="MultiThreading"/>
 						<entry excluding="MinHeap.cpp|MinHeapTest.cpp|MergeKSortedArrays.cpp|MaxSubarraySharesDAndQAlgo.cpp|LRUImpl.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="probs"/>
 					</sourceEntries>
