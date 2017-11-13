@@ -1,0 +1,23 @@
+1: What happens when we turn on computer?
+2: Process Management - Introduction
+3: Process Scheduler
+4: FCFS
+5: FCFS2
+6: ShortestJobFirstScheduling
+7: RoundRobinScheduling
+8: PriorityScheduling
+9: ConveyEffect
+10:ProcessSynchronization
+11:CriticalSection
+12:InterProcessCommunication
+13:MutexVsSemaphore
+14:PetersonsAlgoMututalExclusion
+15:ReadersWritersProblem
+16:PriorityInversionPriorityInheritance
+17:Deadlock
+18:DeadlockPreventionAndAvoidance
+19:DeadlockDetectionAndRecovery
+20:ZombieProcess
+21:Spooling
+22:Threads
+23:
