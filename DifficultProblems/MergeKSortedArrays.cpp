@@ -30,6 +30,9 @@
      b) Replace heap root with next element from the array from which the element is extracted.
      If the array doesn’t have any more elements, then replace root with infinite.
      After replacing the root, heapify the tree.
+
+     SimilarProblem - http://www.geeksforgeeks.org/sort-numbers-stored-on-different-machines/
+
  */
 
 // C++ program to merge k sorted arrays of size n each.
@@ -110,7 +113,10 @@ int *mergeKArrays(int arr[][n], int k)
             root.j += 1;
         }
         // If root was the last element of its array
-        else root.element =  INT_MAX; //INT_MAX is for infinite
+        else
+        {
+        	root.element =  INT_MAX; //INT_MAX is for infinite
+        }
 
         // Replace root with next element of array
         hp.replaceMin(root);

@@ -1,36 +1,18 @@
 Difficult Questions 
 =====================================================
 
+1: GenericList
+2: SkipList
+3: Trie
+4: BoggleDFS
+5: BoggleTrie
+6: ReverseDnsLookup
+7: LRUCacheImpl
+8: MinHeapTest
+9: MergeKSortedArray
+
 1:LRUImpl.cpp
 2:MaxSubarraySharesDAndQAlgo.cpp
 3:MinHeapTest.cpp
 4:MergeKSortedArrays.cpp
 
-Divide and Conquer
-=====================================================
-
-5:	FindNumberOfZeros.cpp
-6:	FindMinSortedRotatedArray.cpp
-7:	UnboundedBinarySearch.cpp
-8:	FindPeakINArray.cpp
-9:	MaxSubArraySum.cpp
-10:	MaxElemInArrayFirstIncreasingThenDecreasing.cpp
-11:	MedianTwoSortedArraysEqualSize.cpp
-12:	FindFixedPointInGivenArray.cpp
-13: CountNoOccurencesInSortedArray.cpp
-14: MaxMinInArrayWithMinComparisons.cpp
-15: MajorityElementInSortedArray.cpp
-16: CountInversionsInAnArray.cpp
-17: PowerOfNum.cpp
-
-Dynamic Programming
-======================================================
-
-18: LargestSumContiguousSubarray.cpp
-19: NthFibonnaciNumber.cpp
-20: LengthOfLongestSubstringWithoutRepeatingChars.cpp
-21: DynamicProgrammingOverlappingSubproblemsProperty.cpp
-
-MultiThreading
-========================================================
-22: ReaderWriterLock.cpp
