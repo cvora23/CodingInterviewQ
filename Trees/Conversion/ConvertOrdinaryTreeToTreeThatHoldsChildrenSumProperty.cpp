@@ -126,8 +126,7 @@ void convertTree(struct node* node)
 
   /* If tree is empty or it's a leaf node then
      return true */
-  if (node == NULL ||
-     (node->left == NULL && node->right == NULL))
+  if (node == NULL || (node->left == NULL && node->right == NULL))
     return;
   else
   {

@@ -5,7 +5,6 @@
  *      Author: chivora
  */
 
-
 /*
  *
  *   A binary search tree was created by traversing through an array from left to right and inserting each element.

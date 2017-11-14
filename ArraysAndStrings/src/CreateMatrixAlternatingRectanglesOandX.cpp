@@ -56,11 +56,13 @@ X X X X X X X
 // Function to print alternating rectangles of 0 and X
 void fill0X(int m, int n)
 {
-    /*  k - starting row index
+    /*
+     	k - starting row index
         m - ending row index
         l - starting column index
         n - ending column index
-        i - iterator    */
+        i - iterator
+    */
     int i, k = 0, l = 0;
 
     // Store given number of rows and columns for later use

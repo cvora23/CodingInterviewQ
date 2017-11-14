@@ -25,6 +25,7 @@ push(int x, int sn) –> pushes x to stack number ‘sn’ where sn is from 0 to
 pop(int sn) –> pops an element from stack number ‘sn’ where sn is from 0 to k-1
 
 Method 1 (Divide the array in slots of size n/k)
+=====================================================
 A simple way to implement k stacks is to divide the array in k slots
 of size n/k each, and fix the slots for different stacks, i.e.,
 use arr[0] to arr[n/k-1] for first stack, and arr[n/k] to arr[2n/k-1] for
@@ -39,6 +40,7 @@ push anything to second second stack. When we push 4th element to first,
 there will be overflow even if we have space for 3 more elements in array.
 
 Method 2 (A space efficient implementation)
+================================================
 The idea is to use two extra arrays for efficient implementation of k stacks in an array.
 This may not make much sense for integer stacks, but stack items can be
 large for example stacks of employees, students, etc where every item is

@@ -6,8 +6,7 @@
  */
 
 /*
- * Given an array of integers and a number x, find the smallest subarray with
- * sum greater than the given value.
+ * Given an array of integers and a number x, find the smallest subarray with sum greater than the given value.
 
 Examples:
 arr[] = {1, 4, 45, 6, 0, 19}

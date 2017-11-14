@@ -11,7 +11,9 @@
  * Bellman–Ford Algorithm. For a graph with no negative weights, we can do better and calculate single
  * source shortest distances in O(E + VLogV) time using Dijkstra’s algorithm. Can we do even better for
  * Directed Acyclic Graph (DAG)? We can calculate single source shortest distances in O(V+E) time for DAGs.
+ *
  * The idea is to use Topological Sorting.
+ *
  * We initialize distances to all vertices as infinite and distance to source as 0, then we find a
  * topological sorting of the graph. Topological Sorting of a graph represents a linear ordering of
  * the graph.

@@ -16,7 +16,8 @@ using namespace std;
  * Therefore, in real life, we would likely start a new stack when the previous stack exceeds some threshold.
  * Implement a data structure SetOfStacks that mimics this. SetOfStacks should be composed of several stacks
  * and should create a new stack once the previous one exceeds capacity. SetOfStacks. push () and SetOfStacks.
- * pop () should behave identically to a single stack (that is, pop ( ) should return the same values as it would if there were just a single stack).
+ * pop () should behave identically to a single stack
+ * (that is, pop ( ) should return the same values as it would if there were just a single stack).
  *
 FOLLOW UP
 Implement a function popAt(int index) which performs a pop operation on a specific sub-stack.
@@ -27,9 +28,11 @@ private:
 	vector< stack<int> > stackSet;
 	unsigned int current_stack;
 	unsigned int max_stack_size;
+
 public:
 
-	SetOfStacks(int max_size):current_stack(0),max_stack_size(max_size){
+	SetOfStacks(int max_size):current_stack(0),max_stack_size(max_size)
+	{
 		stackSet.reserve(10);
 		stackSet.push_back(stack<int>());
 	}
