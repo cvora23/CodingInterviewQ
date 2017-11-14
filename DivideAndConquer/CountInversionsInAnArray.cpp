@@ -48,6 +48,9 @@ In merge process, let i is used for indexing left sub-array and j for right sub-
 At any step in merge(), if a[i] is greater than a[j], then there are (mid – i) inversions.
 because left and right subarrays are sorted, so all the remaining elements in left-subarray
 (a[i+1], a[i+2] … a[mid]) will be greater than a[j]
+
+https://www.youtube.com/watch?time_continue=1&v=k9RQh21KrH8
+
  */
 
 #include <stdio.h>
@@ -94,8 +97,8 @@ int merge(int arr[], int temp[], int left, int mid, int right)
   int inv_count = 0;
 
   i = left; /* i is index for left subarray*/
-  j = mid;  /* i is index for right subarray*/
-  k = left; /* i is index for resultant merged subarray*/
+  j = mid;  /* j is index for right subarray*/
+  k = left; /* k is index for resultant merged subarray*/
   while ((i <= mid - 1) && (j <= right))
   {
     if (arr[i] <= arr[j])

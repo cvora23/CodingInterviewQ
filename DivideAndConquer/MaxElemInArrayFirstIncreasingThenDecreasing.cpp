@@ -25,7 +25,6 @@ Output: 120
 
 */
 
-
 /*
 Method 1 (Linear Search)
 We can traverse the array and keep track of maximum and element. And finally return the maximum element.
