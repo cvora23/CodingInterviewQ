@@ -15,12 +15,12 @@
  * The idea is to use Topological Sorting.
  *
  * We initialize distances to all vertices as infinite and distance to source as 0, then we find a
- * topological sorting of the graph. Topological Sorting of a graph represents a linear ordering of
- * the graph.
+ * topological sorting of the graph. Topological Sorting of a graph represents a linear ordering of the graph.
+ *
  * http://www.geeksforgeeks.org/shortest-path-for-directed-acyclic-graphs/
- * Once we have topological order (or linear representation), we one by one process all vertices in
- * topological order. For every vertex being processed, we update distances of its adjacent using
- * distance of current vertex.
+ *
+ * Once we have topological order (or linear representation), we one by one process all vertices in topological order.
+ * For every vertex being processed, we update distances of its adjacent using distance of current vertex.
  *
  * Following is complete algorithm for finding shortest distances.
  * 1) Initialize dist[] = {INF, INF, ….} and dist[s] = 0 where s is the source vertex.
