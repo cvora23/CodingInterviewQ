@@ -164,7 +164,7 @@ x = 10 y = 20
 //int main()
 //{
 //  Test obj1;
-//  obj1.setX(10).setY(20); // Here only obj1 x variable is changed. because setX and setY returns object by value and not reference
+//  obj1.setX(10).setY(20);   // Here only obj1 x variable is changed. because setX and setY returns object by value and not reference
 //  	  	  	  	  	  	  // So all calls modify different object as different objects are returned by value.
 //  obj1.print();
 //  return 0;
@@ -173,7 +173,7 @@ x = 10 y = 20
 
 // Question 4
 
- #include<iostream>
+#include<iostream>
 using namespace std;
 
 class Test

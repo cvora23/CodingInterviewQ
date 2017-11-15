@@ -13,8 +13,7 @@ provide a function body for the pure virtual destructor. This seems strange that
 is pure if it requires a function body? But destructors are always called in the reverse order of the
 class derivation. That means derived class destructor will be invoked first & then base class destructor
 will be called. If definition for the pure virtual destructor is not provided then what function body
-will be called during object destruction? Therefore compiler & linker enforce existence of function
-body for pure virtual destructor.
+will be called during object destruction? Therefore compiler & linker enforce existence of function body for pure virtual destructor.
 Consider following program:
 
 #include <iostream>

@@ -83,10 +83,15 @@ void findWordsUtil(char boggle[M][N], bool visited[M][N], int i,
 
     // Traverse 8 adjacent cells of boggle[i][j]
     for (int row=i-1; row<=i+1 && row<M; row++)
-      for (int col=j-1; col<=j+1 && col<N; col++)
-        if (row>=0 && col>=0 && !visited[row][col])
-          findWordsUtil(boggle,visited, row, col, str);
-
+    {
+        for (int col=j-1; col<=j+1 && col<N; col++)
+        {
+            if (row>=0 && col>=0 && !visited[row][col])
+            {
+                findWordsUtil(boggle,visited, row, col, str);
+            }
+        }
+    }
     // Erase current character from string and mark visited
     // of current cell as false
     str.erase(str.length()-1);

@@ -38,6 +38,7 @@ int main()
   getchar();
   return 0;
 }
+
 2) When deriving a struct from a class/struct, default access-specifier for a
 base class/struct is public. And when deriving a class, default access specifier is private.
 For example program 3 fails in compilation and program 4 works fine.
