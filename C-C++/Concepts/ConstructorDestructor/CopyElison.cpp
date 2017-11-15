@@ -8,8 +8,7 @@
 /*
  * Copy elision in C++
 Copy elision (or Copy omission) is a compiler optimization technique that avoids unnecessary
-copying of objects.
-Now a days, almost every compiler uses it. Let us understand it with the help of an example.
+copying of objects. Now a days, almost every compiler uses it. Let us understand it with the help of an example.
 
 #include <iostream>
 using namespace std;
@@ -52,8 +51,7 @@ The modern compilers break down the statement
 as
     B ob("copy me"); //direct initialization
 and thus eliding call to copy constructor.
-However, if we still want to ensure that the compiler doesn’t elide the call to copy
-constructor [disable the copy elision],
+However, if we still want to ensure that the compiler doesn’t elide the call to copy constructor [disable the copy elision],
 we can compile the program using “-fno-elide-constructors” option with g++ and see the output as following:
 
   aashish@aashish-ThinkPad-SL400:~$ g++ copy_elision.cpp -fno-elide-constructors

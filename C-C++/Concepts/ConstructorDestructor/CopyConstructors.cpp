@@ -14,7 +14,7 @@ What is a copy constructor?
 A copy constructor is a member function which initializes an object using another object of the same class.
 A copy constructor has the following general function prototype:
 
-	ClassName (const ClassName &old_obj);
+ClassName (const ClassName &old_obj);
 Following is a simple example of copy constructor.
 
 #include<iostream>
@@ -200,6 +200,7 @@ GeeksQuiz
 GeeksQuiz
 GeeksforGeeks
 GeeksforGeeks
+
 Can we make copy constructor private?
 Yes, a copy constructor can be made private. When we make a copy constructor private in a
 class, objects of that class become non-copyable. This is particularly useful when our

@@ -14,8 +14,8 @@ Will there be any code inserted by compiler to the user implemented default cons
 
 The compiler will implicitly declare default constructor if not provided by programmer, will define it when in need.
 Compiler defined default constructor is required to do certain initialization of class internals. It will not touch
-the data members or plain old data types (aggregates like array, structures, etc…). However, the compiler generates
-code for default constructor based on situation.
+the data members or plain old data types (aggregates like array, structures, etc…).
+However, the compiler generates code for default constructor based on situation.
 
 Consider a class derived from another class with default constructor, or a class containing another class object
 with default constructor. The compiler needs to insert code to call the default constructors of base class/embedded object.
