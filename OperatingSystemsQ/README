@@ -20,4 +20,5 @@
 20:ZombieProcess
 21:Spooling
 22:Threads
-23:
+23:StaticAndDynamicLibraries
+24:SharedLibraries

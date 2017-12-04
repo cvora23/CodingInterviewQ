@@ -10,3 +10,11 @@ Difficult Questions
 7: LRUCacheImpl
 8: MinHeapTest
 9: MergeKSortedArray
+10:SelfOrganizingList
+11:UnrolledLinkedList
+12:SumOfGivenRange_SegmentTree
+13:RangeMinimumQuery_SegmentTree
+14:PhoneDirectory_Trie
+15:BinaryIndexedTree
+16:PatternSearch_SuffixArray
+17:AVL_Tree

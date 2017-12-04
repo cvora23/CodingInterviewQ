@@ -135,8 +135,7 @@ unsigned min(unsigned , unsigned , unsigned );
 /* Function to get the nth ugly number*/
 unsigned getNthUglyNo(unsigned n)
 {
-    unsigned *ugly =
-             (unsigned *)(malloc (sizeof(unsigned)*n));
+    unsigned *ugly = (unsigned *)(malloc (sizeof(unsigned)*n));
     unsigned i2 = 0, i3 = 0, i5 = 0;
     unsigned i;
     unsigned next_multiple_of_2 = 2;
@@ -147,9 +146,7 @@ unsigned getNthUglyNo(unsigned n)
 
     for(i=1; i<n; i++)
     {
-       next_ugly_no = min(next_multiple_of_2,
-                           next_multiple_of_3,
-                           next_multiple_of_5);
+       next_ugly_no = min(next_multiple_of_2, next_multiple_of_3, next_multiple_of_5);
        *(ugly+i) = next_ugly_no;
        if(next_ugly_no == next_multiple_of_2)
        {
