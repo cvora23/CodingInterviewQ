@@ -22,3 +22,14 @@
 22:Threads
 23:StaticAndDynamicLibraries
 24:SharedLibraries
+25:Diff32Bit64BitOS
+26:UnderhoodLs
+27:ForkVsExec
+28:DebugSegFault
+29:ForkingVsMultiThreading
+30:DifferenceBetweenBiosAndKernel
+31:LogicalPhysicalAddrSpaceParentChild
+32:DeadlockInSingleThreadedProcess
+33:HowDoesSegFaultWorkInternally
+34:Interupts
+35:ThrashingDetection

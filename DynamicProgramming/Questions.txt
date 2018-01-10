@@ -5,3 +5,4 @@
 4: LengthOfLongestSubstringWithoutRepeatingChars
 5: NthFibonnaciNumber
 6: RobotInGrid
+7: BinomialCoefficient
