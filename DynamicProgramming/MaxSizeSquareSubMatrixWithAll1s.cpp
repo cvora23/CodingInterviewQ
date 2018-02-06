@@ -7,6 +7,10 @@
 
 using namespace std;
 
+/*
+ * https://youtu.be/vI4PE4JdadE
+ */
+
 void printMaxSubSquare(bool M[R][C])
 {
   int i,j;

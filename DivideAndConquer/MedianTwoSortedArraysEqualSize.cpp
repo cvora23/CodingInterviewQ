@@ -132,6 +132,10 @@ Now size is 2, so median = (max(ar1[0], ar2[0]) + min(ar1[1], ar2[1]))/2
                        = (max(15, 13) + min(26, 17))/2
                        = (15 + 17)/2
                        = 16
+
+Youtube video :
+https://www.youtube.com/watch?v=MHNTl_NvOj0
+
 Implementation:
 
 */

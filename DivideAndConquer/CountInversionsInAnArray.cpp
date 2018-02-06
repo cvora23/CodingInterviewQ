@@ -20,7 +20,6 @@ The sequence 2, 4, 1, 3, 5 has three inversions (2, 1), (4, 1), (4, 3).
  * METHOD 1 (Simple)
 For each element, count number of elements which are on right side of it and are smaller than it.
  */
-
 int getInvCount(int arr[], int n)
 {
   int inv_count = 0;
@@ -33,7 +32,6 @@ int getInvCount(int arr[], int n)
 
   return inv_count;
 } // Time Complexity: O(n^2)
-
 
 /*
  * METHOD 2(Enhance Merge Sort)

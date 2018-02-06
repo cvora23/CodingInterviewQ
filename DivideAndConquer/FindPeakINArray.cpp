@@ -22,8 +22,6 @@ A simple solution is to do a linear scan of array and as soon as we find a peak 
 The worst case time complexity of this method would be O(n).
  */
 
-
-
 /*
  * Can we find a peak element in worst time complexity better than O(n)?
  * We can use Divide and Conquer to find a peak in O(Logn) time.

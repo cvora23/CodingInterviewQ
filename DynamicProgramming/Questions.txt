@@ -6,3 +6,14 @@
 5: NthFibonnaciNumber
 6: RobotInGrid
 7: BinomialCoefficient
+8: LongestIncreasingSubsequence
+9: LongestCommonSubsequence
+10:EditDistance
+11:LongestPalindromicSubsequence
+12:LongestBitonicSubsequence
+13:MaxLenChainOfPairs
+14:BoxStacking
+15:MinCoinsThatMakeGivenValue
+16:CountWaysToReachGivenScoreInAGame
+17:CoinChange
+18:LongestPalindromicSubstring

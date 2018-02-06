@@ -26,6 +26,7 @@ using namespace std;
  * Parent process creates a separate address space for the child with same code segments but
  * executes independently of each other. Because the system issues a new memory space and environment for the child process,
  * it is knows as heavy-weight process.
+ *
 While threads can execute in parallel with same context. Also, memory and other resources are shared between the
 threads causing less overhead. A thread process is considered a sibling while a forked process is considered a child.
 Also, threads are known as light-weight processes as they don't have any overhead as compared to processes
