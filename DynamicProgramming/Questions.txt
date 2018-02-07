@@ -17,3 +17,7 @@
 16:CountWaysToReachGivenScoreInAGame
 17:CoinChange
 18:LongestPalindromicSubstring
+19:NoBinaryStringsWithoutConsecutiveOnes
+20:FriendsPairing
+21:MaxSumIncreasingSubSeq
+22:PaintingFence
