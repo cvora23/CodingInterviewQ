@@ -21,3 +21,7 @@
 20:FriendsPairing
 21:MaxSumIncreasingSubSeq
 22:PaintingFence
+23:WordBreakProblem
+24:MinJumps
+25:PalindromePartitioning
+26:MatrixChainMultiplication

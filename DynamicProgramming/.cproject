@@ -94,7 +94,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -144,7 +144,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -197,7 +197,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -250,7 +250,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -303,7 +303,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -356,7 +356,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -409,7 +409,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -462,7 +462,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -515,7 +515,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -568,7 +568,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -621,7 +621,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -674,7 +674,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -727,7 +727,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -780,7 +780,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -833,7 +833,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -886,7 +886,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -939,7 +939,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -992,7 +992,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1045,7 +1045,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1098,7 +1098,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1151,7 +1151,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1204,7 +1204,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1257,7 +1257,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1310,7 +1310,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1363,7 +1363,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1416,7 +1416,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1469,7 +1469,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1522,7 +1522,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1575,7 +1575,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1628,7 +1628,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1681,7 +1681,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1734,7 +1734,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1787,7 +1787,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1840,7 +1840,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1893,7 +1893,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1946,7 +1946,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -1999,7 +1999,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="MatrixChainMultiplication.cpp|PalindromePartitioning.cpp|MinJumps.cpp|WordBreakProblem.cpp|PaintingFence.cpp|MaxSumIncreasingSubSeq.cpp|FriendsPairing.cpp|NoBinaryStringsWithoutConsecutiveOnes.cpp|LongestPalindromicSubstring.cpp|CoinChange.cpp|CountWaysToReachGivenScoreInAGame.cpp|MinCoinsThatMakeGivenValue.cpp|BoxStacking.cpp|MaxLenChainOfPairs.cpp|LongestBitonicSubsequence.cpp|LongestPalindromicSubsequence.cpp|EditDistance.cpp|LongestCommonSubsequence.cpp|LongestIncreasingSubsequence.cpp|LengthOfLongestSubstringWithoutRepeatingChars.cpp|BinomialCoefficient.cpp|RobotInGrid.cpp|NthFibonnaciNumber.cpp|UglyNumbers.cpp|LargestSumContiguousSubArray.cpp|MaxSizeSquareSubMatrixWithAll1s.cpp|src/UglyNumbers.cpp|src/MaxSizeSquareSubMatrixWithAll1s.cpp|src/LargestSumContiguousSubArray.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
