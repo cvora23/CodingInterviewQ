@@ -25,3 +25,4 @@
 24:MinJumps
 25:PalindromePartitioning
 26:MatrixChainMultiplication
+27:EggDropping

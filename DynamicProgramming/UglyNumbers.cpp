@@ -35,7 +35,7 @@ power of 2 is 4, after dividing 300 by 4 we get 75. Greatest divisible power of 
 int maxDivide(int a, int b)
 {
   while (a%b == 0)
-   a = a/b;
+	  a = a/b;
   return a;
 }
 

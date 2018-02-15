@@ -141,7 +141,7 @@ namespace DP {
 			{
 				j = i+L-1;
 				m[i][j] = INT_MAX;
-				for (k=i; k<=j-1; k++)
+				for (k=i; k<j; k++)
 				{
 					// q = cost/scalar multiplications
 					q = m[i][k] + m[k+1][j] + p[i-1]*p[k]*p[j];

@@ -40,7 +40,10 @@ For n-th person there are two choices:
 1) n-th person remains single, we recur
    for f(n-1)
 2) n-th person pairs up with any of the
-   remaining n-1 persons. We get (n-1)*f(n-2)
+   remaining n-1 persons. We get (n-1)*f(n-2) -
+   explaination :
+   (n-1) this term because the person has n-1 possible options to chose from
+   f(n-2) - this term because nth person has paired up with one other person so remaining people are n-2, hence f(n-2)
 
 Therefore we can recursively write f(n) as:
 f(n) = f(n-1) + (n-1)*f(n-2)
